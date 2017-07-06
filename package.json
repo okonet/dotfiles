@@ -1,0 +1,21 @@
+{
+  "name": "dotfiles",
+  "version": "1.0.0",
+  "description": "",
+  "author": {
+    "name": "Andrey Okonetchnikov",
+    "url": "http://okonet.ru"
+  },
+  "homepage": "https://github.com/okonet/dotfiles",
+  "repository": "okonet/dotfiles",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {},
+  "keywords": []
+}
