@@ -11,10 +11,10 @@ brew tap caskroom/versions
 brew cask install java
 brew cask install dropbox
 brew cask install moom
+brew cask install kap
 brew cask install dash3
 brew cask install rescuetime
 brew cask install near-lock
-brew cask install qobuz-desktop
 brew cask install intellij-idea
 brew cask install sublime-text
 brew cask install google-chrome
