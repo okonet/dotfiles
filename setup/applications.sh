@@ -24,3 +24,6 @@ brew cask install fantastical
 brew cask install slack
 brew cask install sketch
 brew cask install adobe-photoshop-lightroom571
+
+# Install SketchTool CLI
+/Applications/Sketch.app/Contents/Resources/sketchtool/install.sh 
