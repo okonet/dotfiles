@@ -36,12 +36,10 @@ sudo bash < <( curl https://raw.githubusercontent.com/jamiew/git-friendly/master
 
 # Node & npm
 brew install node
+brew install yarn
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash  # nvm, Node
 # version manager
 npm config set loglevel warn
-
-# Install Yarn
-curl -o- -L https://yarnpkg.com/install.sh | bash
 
 # Install global npm packages
 npm install -g google-font-installer
