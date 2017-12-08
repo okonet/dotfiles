@@ -28,3 +28,8 @@ brew cask install adobe-photoshop-lightroom571
 
 # Install SketchTool CLI
 /Applications/Sketch.app/Contents/Resources/sketchtool/install.sh
+
+# Install Mackup
+brew install mackup
+# and restore apps preferences
+mackup restore
