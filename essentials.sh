@@ -22,6 +22,11 @@ brew install findutils
 # More recent versions of some macOS tools
 brew install grep
 
+# Java is required for some packages
+brew install cask
+brew tap caskroom/versions
+brew cask install java
+
 # Git
 brew install git
 brew install git-extras

@@ -3,12 +3,7 @@
 # Ask for the administrator password upfront
 sudo -v
 
-# Install cask
-brew install cask
-brew tap caskroom/versions
-
 # Install casks
-brew cask install java
 brew cask install dropbox
 brew cask install 1password
 brew cask install moom
