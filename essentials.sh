@@ -58,6 +58,10 @@ gfi install Fira Sans
 gfi install Fira Sans Condensed
 gfi install Fira Sans Extra Condensed
 
+# Other fonts
+brew tap caskroom/fonts
+brew cask install font-fira-code
+
 # Python
 brew install python
 
