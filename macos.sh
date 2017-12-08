@@ -447,7 +447,7 @@ sudo mdutil -E / > /dev/null
 defaults write com.apple.terminal StringEncodings -array 4
 
 # Use a modified version of the Pro theme by default in Terminal.app
-open "$HOME/dotfiles/color/Belafonte\ Night.terminal"
+open "$HOME/dotfiles/themes/Belafonte Night.terminal"
 sleep 1  # Wait a bit to make sure the theme is loaded
 defaults write com.apple.terminal "Default Window Settings" -string "Belafonte Night"
 defaults write com.apple.terminal "Startup Window Settings" -string "Belafonte Night"
