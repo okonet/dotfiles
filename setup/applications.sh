@@ -10,6 +10,7 @@ brew tap caskroom/versions
 # Install casks
 brew cask install java
 brew cask install dropbox
+brew cask install 1password
 brew cask install moom
 brew cask install kap
 brew cask install dash3
