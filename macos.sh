@@ -43,6 +43,20 @@ defaults write NSGlobalDomain PMPrintingExpandedStateForPrint2 -bool true
 # Save to disk (not to iCloud) by default
 defaults write NSGlobalDomain NSDocumentSaveNewDocumentsToCloud -bool false
 
+# Audio and sound effects
+
+# Disable feedback when changing volume
+defaults write NSGlobalDomain com.apple.sound.beep.feedback -bool false
+
+# Disable flashing the screen when an alert sound occurs (accessibility)
+defaults write NSGlobalDomain com.apple.sound.beep.flash -bool true
+
+# Alert volume 50%
+defaults write NSGlobalDomain com.apple.sound.beep.volume -float 0.0
+
+# Disable interface sound effects
+defaults write NSGlobalDomain com.apple.sound.uiaudio.enabled -bool false
+
 # Automatically quit printer app once the print jobs complete
 defaults write com.apple.print.PrintingPrefs "Quit When Finished" -bool true
 
@@ -114,6 +128,14 @@ defaults write NSGlobalDomain AppleMetricUnits -bool true
 
 # Stop iTunes from responding to the keyboard media keys
 launchctl unload -w /System/Library/LaunchAgents/com.apple.rcd.plist 2> /dev/null
+
+# Custom keyboard shortcuts
+defaults write -g NSUserKeyEquivalents '{
+    "Select Next Conversation" = "@~\U2192";
+    "Select Previous Conversation" = "@~\U2190";
+    "Show Next Tab" = "@~\U2192";
+    "Show Previous Tab" = "@~\U2190";
+}'
 
 ###############################################################################
 # Screen                                                                      #
@@ -336,6 +358,9 @@ defaults write com.apple.dock wvous-tr-modifier -int 0
 ###############################################################################
 # Safari & WebKit                                                             #
 ###############################################################################
+
+# Start with all windows from last session
+defaults write com.apple.Safari AlwaysRestoreSessionAtLaunch -bool true
 
 # Privacy: don’t send search queries to Apple
 defaults write com.apple.Safari UniversalSearchEnabled -bool false
