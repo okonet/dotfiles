@@ -3,6 +3,9 @@
 # Ask for the administrator password upfront
 sudo -v
 
+# Support older versions. This is needed for Lightroom
+brew tap caskroom/homebrew-versions
+
 # Install casks
 brew cask install dropbox
 brew cask install 1password
@@ -20,6 +23,7 @@ brew cask install fantastical
 brew cask install slack
 brew cask install sketch
 brew cask install adobe-photoshop-lightroom571
+brew cask install adobe-creative-cloud
 
 # Install SketchTool CLI
 /Applications/Sketch.app/Contents/Resources/sketchtool/install.sh
