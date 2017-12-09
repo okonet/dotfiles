@@ -177,8 +177,8 @@ defaults write com.apple.finder ShowRemovableMediaOnDesktop -bool true
 # Finder: show all filename extensions
 defaults write NSGlobalDomain AppleShowAllExtensions -bool true
 
-# Finder: show status bar
-defaults write com.apple.finder ShowStatusBar -bool true
+# Finder: hide status bar
+defaults write com.apple.finder ShowStatusBar -bool false
 
 # Finder: show path bar
 defaults write com.apple.finder ShowPathbar -bool true
@@ -471,11 +471,14 @@ sudo mdutil -E / > /dev/null
 # Only use UTF-8 in Terminal.app
 defaults write com.apple.terminal StringEncodings -array 4
 
-# Use a modified version of the Pro theme by default in Terminal.app
-open "$HOME/dotfiles/themes/Belafonte Night.terminal"
+# Install Terminal Themes
+git clone https://github.com/lysyi3m/osx-terminal-themes.git "$HOME/Downloads/terminal-themes"
+
+# snd set Solarized Dark as a default
+open "$HOME/Downloads/terminal-themes/schemes/Solarized Dark.terminal"
 sleep 1  # Wait a bit to make sure the theme is loaded
-defaults write com.apple.terminal "Default Window Settings" -string "Belafonte Night"
-defaults write com.apple.terminal "Startup Window Settings" -string "Belafonte Night"
+defaults write com.apple.terminal "Default Window Settings" -string "Solarized Dark"
+defaults write com.apple.terminal "Startup Window Settings" -string "Solarized Dark"
 
 ###############################################################################
 # Time Machine                                                                #
