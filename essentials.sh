@@ -25,8 +25,10 @@ brew install findutils
 # More recent versions of some macOS tools
 brew install grep
 
-# Java is required for some packages
+# Install cask
 brew install cask
+
+# Java is required for some packages
 brew tap caskroom/versions
 brew cask install java
 
@@ -44,26 +46,27 @@ sudo bash < <( curl https://raw.githubusercontent.com/jamiew/git-friendly/master
 
 # Node & npm
 brew install node
+brew install nvm
 brew install yarn
-curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash  # nvm, Node
-# version manager
+
+# NPM settings
 npm config set loglevel warn
 
-# Install global npm packages
-npm install -g google-font-installer
-
-# Install some fonts from Google Fonts
-gfi install Fira Mono
-gfi install Fira Sans
-gfi install Fira Sans Condensed
-gfi install Fira Sans Extra Condensed
-
-# Other fonts
+# Install fonts
 brew tap caskroom/fonts
+brew cask install font-fira-mono
+brew cask install font-fira-mono-for-powerline
+brew cask install font-fira-sans
+brew cask install font-fira-sans-condensed
 brew cask install font-fira-code
 
 # Python
 brew install python
+
+# Install Mackup
+brew install mackup
+# and restore apps preferences
+mackup restore
 
 # Verify installation
 command -v git
