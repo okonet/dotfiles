@@ -40,6 +40,7 @@ brew cask install firefox
 brew cask install slack
 brew cask install sketch
 brew cask install adobe-creative-cloud
+brew cask install figma
 
 # Support older versions. This is needed for Lightroom
 brew tap caskroom/homebrew-versions
