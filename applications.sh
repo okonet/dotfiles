@@ -41,6 +41,7 @@ brew cask install slack
 brew cask install sketch
 brew cask install adobe-creative-cloud
 brew cask install figma
+brew cask install audirvana-plus2
 
 # Support older versions. This is needed for Lightroom
 brew tap caskroom/homebrew-versions
