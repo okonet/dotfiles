@@ -42,6 +42,8 @@ brew cask install sketch
 brew cask install adobe-creative-cloud
 brew cask install figma
 brew cask install audirvana-plus2
+brew cask install imageoptim
+brew cask install imagealpha
 
 # Support older versions. This is needed for Lightroom
 brew tap caskroom/homebrew-versions
