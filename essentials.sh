@@ -45,9 +45,8 @@ sudo bash < <( curl https://raw.githubusercontent.com/jamiew/git-friendly/master
 #echo -e "setenv PATH $HOME/dotfiles/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin" | sudo tee /etc/launchd.conf
 
 # Node & npm
-brew install node
-brew install nvm
 brew install yarn
+brew "Schniz/tap/fnm"
 
 # NPM settings
 npm config set loglevel warn
@@ -69,7 +68,7 @@ mackup restore
 
 # Verify installation
 command -v git
-command -v nvm
+command -v fnm
 command -v node
 command -v npm
 command -v yarn
