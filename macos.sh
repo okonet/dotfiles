@@ -48,10 +48,10 @@ defaults write NSGlobalDomain NSDocumentSaveNewDocumentsToCloud -bool false
 # Disable feedback when changing volume
 defaults write NSGlobalDomain com.apple.sound.beep.feedback -bool false
 
-# Disable flashing the screen when an alert sound occurs (accessibility)
+# Enable flashing the screen when an alert sound occurs (accessibility)
 defaults write NSGlobalDomain com.apple.sound.beep.flash -bool true
 
-# Alert volume 50%
+# Alert volume 0%
 defaults write NSGlobalDomain com.apple.sound.beep.volume -float 0.0
 
 # Disable interface sound effects
