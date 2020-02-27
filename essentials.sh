@@ -52,13 +52,12 @@ brew install yarn
 # NPM settings
 npm config set loglevel warn
 
+# Install QuickLook Plugins
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json
+
 # Install fonts
 brew tap caskroom/fonts
-brew cask install font-fira-mono
-brew cask install font-fira-mono-for-powerline
-brew cask install font-fira-sans
-brew cask install font-fira-sans-condensed
-brew cask install font-fira-code
+brew cask install font-fira-mono font-fira-mono-for-powerline font-fira-sans font-fira-sans-condensed font-fira-code
 
 # Python
 brew install python
