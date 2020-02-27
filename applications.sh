@@ -17,9 +17,9 @@ mas install 408981434 # iMovie (10.1.7)
 mas install 1278508951 # Trello (2.10.0)
 mas install 775737590 # iA Writer (4.1.3)
 mas install 918207447 # Annotate (2.1.4)
-mas install 918858936 # Airmail 3 (3.5.4)
+# mas install 918858936 # Airmail 3 (3.5.4)
 mas install 1107421413 # 1Blocker (1.4.1)
-mas install 557168941 # Tweetbot (2.5.4)
+# mas install 557168941 # Tweetbot (2.5.4)
 mas install 409201541 # Pages (6.3.1)
 mas install 969418666 # ColorSnapper2 (1.5.0)
 mas install 411643860 # DaisyDisk (4.4)
@@ -28,14 +28,10 @@ mas install 411643860 # DaisyDisk (4.4)
 brew cask install dropbox
 brew cask install 1password
 brew cask install moom
-brew cask install kap
 brew cask install dash3
 brew cask install rescuetime
-brew cask install near-lock
-brew cask install intellij-idea
 brew cask install sublime-text
 brew cask install google-chrome
-brew cask install google-chrome-canary
 brew cask install firefox
 brew cask install slack
 brew cask install sketch
@@ -46,8 +42,8 @@ brew cask install imageoptim
 brew cask install imagealpha
 
 # Support older versions. This is needed for Lightroom
-brew tap caskroom/homebrew-versions
-brew cask install adobe-photoshop-lightroom571
+# brew tap caskroom/homebrew-versions
+# brew cask install adobe-photoshop-lightroom571
 
 # Install SketchTool CLI
-/Applications/Sketch.app/Contents/Resources/sketchtool/install.sh
+# /Applications/Sketch.app/Contents/Resources/sketchtool/install.sh
