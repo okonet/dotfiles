@@ -34,7 +34,6 @@ brew cask install sublime-text
 brew cask install google-chrome
 brew cask install firefox
 brew cask install slack
-brew cask install sketch
 brew cask install adobe-creative-cloud
 brew cask install figma
 brew cask install audirvana-plus2
