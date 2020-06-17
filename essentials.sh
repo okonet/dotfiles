@@ -35,6 +35,7 @@ brew cask install java
 # Git
 brew install git
 brew install git-extras
+brew install git-lsf
 brew install github/gh/gh
 brew install diff-so-fancy
 brew install tree
