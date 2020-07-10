@@ -40,6 +40,7 @@ brew cask install audirvana-plus2
 brew cask install imageoptim
 brew cask install imagealpha
 brew cask install brisync
+brew cask install qsyncthingtray
 
 # Support older versions. This is needed for Lightroom
 # brew tap caskroom/homebrew-versions

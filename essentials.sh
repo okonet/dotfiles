@@ -41,6 +41,9 @@ brew install diff-so-fancy
 brew install tree
 brew install ant
 sudo bash < <( curl https://raw.githubusercontent.com/jamiew/git-friendly/master/install.sh)  # git-friendly
+brew install syncthing
+brew services start syncthing
+
 
 # Extend global $PATH
 #echo -e "setenv PATH $HOME/dotfiles/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin" | sudo tee /etc/launchd.conf
