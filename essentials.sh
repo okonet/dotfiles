@@ -18,9 +18,9 @@ brew update
 brew upgrade
 
 # GNU core utilities (those that come with macOS are outdated)
-brew install coreutils
+#brew install coreutils
 # GNU `find`, `locate`, `updatedb`, and `xargs`, g-prefixed
-brew install findutils
+#brew install findutils
 
 # More recent versions of some macOS tools
 brew install grep
@@ -29,8 +29,8 @@ brew install grep
 brew install cask
 
 # Java is required for some packages
-brew tap caskroom/versions
-brew cask install java
+#brew tap caskroom/versions
+#brew cask install java
 
 # Git
 brew install git
@@ -40,13 +40,11 @@ brew install github/gh/gh
 brew install diff-so-fancy
 brew install tree
 brew install ant
-sudo bash < <( curl https://raw.githubusercontent.com/jamiew/git-friendly/master/install.sh)  # git-friendly
+
+# Syncthing
 brew install syncthing
 brew services start syncthing
 
-
-# Extend global $PATH
-#echo -e "setenv PATH $HOME/dotfiles/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin" | sudo tee /etc/launchd.conf
 
 # Node & npm
 brew install yarn
@@ -60,7 +58,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json
 
 # Install fonts
 brew tap caskroom/fonts
-brew cask install font-fira-mono font-fira-mono-for-powerline font-fira-sans font-fira-sans-condensed font-fira-code
+brew cask install font-fira-code
 
 # Python
 brew install python
