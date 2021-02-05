@@ -32,23 +32,22 @@ brew install cask
 #brew tap caskroom/versions
 #brew cask install java
 
-# Git
+# Git & friends
 brew install git
 brew install git-extras
 brew install git-lsf
-brew install github/gh/gh
+brew install gh
 brew install diff-so-fancy
 brew install tree
-brew install ant
 
 # Syncthing
 brew install syncthing
 brew services start syncthing
 
-
-# Node & npm
+# Node & yarn & npm
+brew install node
 brew install yarn
-brew "Schniz/tap/fnm"
+ibrew "Schniz/tap/fnm" # This cannot be installed under arm64 yet
 
 # NPM settings
 npm config set loglevel warn
