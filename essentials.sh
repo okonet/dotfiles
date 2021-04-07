@@ -35,7 +35,7 @@ brew install cask
 # Git & friends
 brew install git
 brew install git-extras
-brew install git-lsf
+brew install git-lfs
 brew install gh
 brew install diff-so-fancy
 brew install tree
