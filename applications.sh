@@ -37,5 +37,6 @@ brew install qsyncthingtray
 brew install slack
 brew install sublime-text
 brew install tunnelblick
+brew install talon
 brew install xld
 
