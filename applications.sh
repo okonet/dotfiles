@@ -8,7 +8,6 @@ brew install mas
 mas signin andrey@okonet.ru
 
 # Install from MAS
-mas install 443987910 # 1Password
 mas install 425424353 # The Unarchiver
 mas install 409183694 # Keynote
 mas install 975937182 # Fantastical
@@ -22,7 +21,6 @@ mas install 411643860 # DaisyDisk
 # Install casks
 brew install 1password
 brew install adobe-creative-cloud
-brew install brisync
 brew install cleanshot
 brew install dropbox
 brew install figma
@@ -31,12 +29,11 @@ brew install google-chrome
 brew install imagealpha
 brew install imageoptim
 brew install java
-brew install moom
 brew install qlstephen
 brew install qsyncthingtray
 brew install slack
 brew install sublime-text
-brew install tunnelblick
-brew install talon
+brew install raycast
+brew install webstorm
 brew install xld
 
