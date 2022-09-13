@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="KOTLIN_RUNTIME_JAR" value="/Users/okonet/Library/Application Support/IntelliJIdea12/Kotlin/kotlinc/lib/kotlin-runtime.jar" />
+    <macro name="KOTLIN_BUNDLED" value="/Users/okonet/Library/Application Support/IntelliJIdea12/Kotlin/kotlinc" />
+  </component>
+</application>
+

@@ -1,0 +1,21 @@
+s = {
+	deflated = {
+		{
+			{
+				value = "date_YYYYMMDD",
+			},
+			"-",
+			{
+				value = "image_name",
+			},
+			name = "Date - Filename",
+			presetType = "Naming",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	title = ZSTR "$$$/TokenPresets/Naming/Title/DateFilename=Date - Filename",
+	internalName = "DateFilename",
+	type = "Naming_Tokens",
+	version = 1,
+}

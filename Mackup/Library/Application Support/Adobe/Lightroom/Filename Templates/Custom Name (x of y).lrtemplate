@@ -1,0 +1,26 @@
+s = {
+	deflated = {
+		{
+			{
+				value = "custom_token",
+			},
+			" (",
+			{
+				value = "naming_sequenceNumber_1Digit",
+			},
+			ZSTR "$$$/TokenPresets/Naming/CustomNameXofY/of= of ",
+			{
+				value = "naming_sequenceTotal_1Digit",
+			},
+			")",
+			name = "Custom Name (x of y)",
+			presetType = "Naming",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	title = ZSTR "$$$/TokenPresets/Naming/Title/CustomNameXofY=Custom Name (x of y)",
+	internalName = "CustomNameXofY",
+	type = "Naming_Tokens",
+	version = 1,
+}

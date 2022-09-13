@@ -1,0 +1,17 @@
+s = {
+	title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/OutdoorPhotography=Outdoor Photography",
+	internalName = "Outdoor Photography",
+	type = "KeywordSet",
+	version = 1,
+	value = {
+		shortcut1title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/OutdoorPhotography/Fall=Fall",
+		shortcut2title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/OutdoorPhotography/Winter=Winter",
+		shortcut3title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/OutdoorPhotography/People=People",
+		shortcut4title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/OutdoorPhotography/Spring=Spring",
+		shortcut5title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/OutdoorPhotography/Summer=Summer",
+		shortcut6title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/OutdoorPhotography/Wildlife=Wildlife",
+		shortcut7title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/OutdoorPhotography/Landscape=Landscape",
+		shortcut8title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/OutdoorPhotography/Macro=Macro",
+		shortcut9title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/OutdoorPhotography/FlowersAndPlants=Flowers & Plants",
+	},
+}

@@ -1,0 +1,26 @@
+s = {
+	id = "44AB3522-FCD5-42B3-BDB8-302FDAEF8EE8",
+	internalName = "Rated",
+	title = ZSTR "$$$/AgLibrary/FilterPresets/Rated=Rated",
+	type = "LibraryFilter",
+	value = {
+		filtersActive = true,
+		
+		labelOp = "any",
+		label1 = false,
+		label2 = false,
+		label3 = false,
+		label4 = false,
+		label5 = false,
+		noLabel = false,
+		customLabel = false,
+		
+		ratingOp = ">=",
+		minRating = 1,
+		
+		pick = "<nil>",
+		usage = "<nil>",
+		whichCopies = "<nil>",
+	},
+	version = 0,
+}

@@ -1,0 +1,24 @@
+s = {
+	id = "E30E1A00-B808-4CB4-8DF0-02A279A18DF5",
+	internalName = "Location Columns",
+	title = ZSTR "$$$/AgLibrary/FilterPresets/LocationColumns=Location Columns",
+	type = "LibraryFilter",
+	version = 0,
+	value = {
+		columnBrowserActive = true,
+		columnBrowserDesc = {
+			{
+				criteria = "country",
+			},
+			{
+				criteria = "state",
+			},
+			{
+				criteria = "city",
+			},
+			{
+				criteria = "location",
+			},
+		},
+	},
+}

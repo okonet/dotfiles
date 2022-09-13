@@ -1,0 +1,1 @@
+The <strong><code>Document</code></strong> interface represents any web page loaded in the browser and serves as an entry point into the web page's content, which is the <a href="/en-US/docs/Using_the_W3C_DOM_Level_1_Core">DOM tree</a>.

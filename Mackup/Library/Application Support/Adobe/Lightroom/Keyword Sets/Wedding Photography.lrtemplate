@@ -1,0 +1,17 @@
+s = {
+	title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/WeddingPhotography=Wedding Photography",
+	internalName = "Wedding Photography",
+	type = "KeywordSet",
+	value = {
+		shortcut1title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/WeddingPhotographyPreCeremony/=Pre-Ceremony",
+		shortcut2title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/WeddingPhotography/Ceremony=Ceremony",
+		shortcut3title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/WeddingPhotography/Reception=Reception",
+		shortcut4title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/WeddingPhotography/WeddingParty=Wedding Party",
+		shortcut5title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/WeddingPhotography/Family=Family",
+		shortcut6title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/WeddingPhotography/BlackAndWhite=Black & White",
+		shortcut7title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/WeddingPhotography/Bride=Bride",
+		shortcut8title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/WeddingPhotography/Groom=Groom",
+		shortcut9title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/WeddingPhotography/Candid=Candid",
+	},
+	version = 1,
+}

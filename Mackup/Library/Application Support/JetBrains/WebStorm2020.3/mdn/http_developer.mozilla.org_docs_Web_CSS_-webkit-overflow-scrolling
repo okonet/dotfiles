@@ -1,0 +1,1 @@
+The <code>-webkit-overflow-scrolling</code> <a href="/en-US/docs/Web/CSS">CSS</a> property controls whether or not touch devices use momentum-based scrolling for a given element.

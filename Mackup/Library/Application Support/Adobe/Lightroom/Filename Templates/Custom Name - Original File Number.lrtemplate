@@ -1,0 +1,21 @@
+s = {
+	deflated = {
+		{
+			{
+				value = "custom_token",
+			},
+			"-",
+			{
+				value = "image_filename_number_suffix",
+			},
+			name = "Custom Name - Original File Number",
+			presetType = "Naming",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	title = ZSTR "$$$/TokenPresets/Naming/Title/CustomNameOriginalFileNumber=Custom Name - Original File Number",
+	internalName = "CustomNameOriginalFileNumber",
+	type = "Naming_Tokens",
+	version = 1,
+}

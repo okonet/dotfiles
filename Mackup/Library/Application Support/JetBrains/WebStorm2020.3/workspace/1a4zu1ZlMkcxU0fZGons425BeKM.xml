@@ -1,0 +1,413 @@
+<project version="4">
+  <component name="FavoritesManager">
+    <favorites_list name="lint-staged" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/generateTasks.spec.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6030">
+              <caret line="206" selection-start-line="206" selection-end-line="206" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.appveyor.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/integration.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="763">
+              <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.github/workflows/main.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="6" column="14" selection-start-line="3" selection-start-column="2" selection-end-line="6" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>chalk</find>
+      <find>color-supp</find>
+      <find>symbols</find>
+      <find>log-symbols</find>
+      <find>apply</find>
+      <find>enabled</find>
+      <find>Object.ass</find>
+      <find>fsp</find>
+      <find>fs-promise</find>
+      <find>jest.mock('execa</find>
+      <find>gitStashList</find>
+      <find>jest</find>
+      <find>toMatchSnapshot</find>
+      <find>execa</find>
+      <find>unified</find>
+      <find>async-exit-hook</find>
+      <find>micromatch</find>
+      <find>exitHook</find>
+      <find>Object.assign</find>
+      <find>makeErr</find>
+      <find>exit</find>
+      <find>ansi</find>
+      <find>strip-ansi</find>
+      <find>jest&quot;</find>
+      <find>Resolved git directory</find>
+      <find>resolve</find>
+      <find>hasPartiallyStagedFiles</find>
+      <find>ignore</find>
+      <find>reenkeeper-lockfile-update</find>
+      <find>Merge branch 'branch-b'</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>gitDir</replace>
+      <replace>const getConfig = require('./getConfig').getConfig</replace>
+      <replace>debug</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/helpers/__tests__/filter_test.ts" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/reducers/filter.ts" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/reducers/__tests__/filter_test.js" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/components/constants.ts" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/actions/companies.ts" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/actions/people.ts" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/helpers/filter.ts" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/ui/Patterns/SuperGrid/SearchContainer.js" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/ui/Patterns/SuperGrid/SuperGrid.js" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/ui/Patterns/SuperGrid/SuperGridContainer.js" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/actions/sort.ts" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/ui/Patterns/Sort/SortControls.tsx" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/homebase/views/companies/index.js" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/api_types.ts" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/ui/Patterns/GridResolver/__tests__/GridResolver_test.tsx" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/helpers/filterQuery_test.ts" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/helpers/formatters.test.ts" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/ui/Patterns/GridResolver/FilterInput.tsx" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/ui/Patterns/SearchBar/SearchBar.md" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/ui/Patterns/SearchBar/SearchBar.js" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/actions/search_tips.ts" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/reducers/search_tips.ts" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/ui/Patterns/SuperGrid/SuperGrid.tsx" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/ui/Patterns/SuperGrid/SuperGridContainer.ts" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/ui/Patterns/GridResolver/GridResolver.md" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/ui/Components/Grid/Grid.js" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/actions/filter.ts" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/ui/Components/Select/SelectAutocomplete.tsx" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/ui/Patterns/SuperGrid/Search.tsx" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/helpers/filterQuery.test.ts" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/ui/Patterns/SuperGrid/SuperGrid.md" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/ui/Patterns/GridResolver/GridResolver.tsx" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/package.json" />
+        <option value="$PROJECT_DIR$/test/gitStash.spec.js" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/helpers/filterQuery.ts" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/.eslintrc" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/homebase/views/companies/getRenderers.tsx" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/ui/Patterns/PriorityChip/PriorityChip.js" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/homebase/views/companies/cells/SingleChoiceCell.js" />
+        <option value="$PROJECT_DIR$/../../kleiner_perkins/crm_web_client/src/homebase/views/companies/cells/PriorityCell.js" />
+        <option value="$PROJECT_DIR$/src/runAll.js" />
+        <option value="$PROJECT_DIR$/test/resolveTaskFn.spec.js" />
+        <option value="$PROJECT_DIR$/src/resolveTaskFn.js" />
+        <option value="$PROJECT_DIR$/test/gitWorkflow.spec.js" />
+        <option value="$PROJECT_DIR$/src/gitWorkflow.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/generateTasks.js" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/.github/workflows/main.yml" />
+        <option value="$PROJECT_DIR$/.github/workflows/release.yml" />
+        <option value="$PROJECT_DIR$/test/integration.test.js" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lint-staged" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lint-staged" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lint-staged" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lint-staged" type="462c0819:PsiDirectoryNode" />
+              <item name=".github" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lint-staged" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lint-staged" type="462c0819:PsiDirectoryNode" />
+              <item name=".github" type="462c0819:PsiDirectoryNode" />
+              <item name="workflows" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lint-staged" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lint-staged" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="history-486" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="125796000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2562855" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Commit" order="7" />
+      <window_info id="Pull Requests" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.5342324" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" weight="0.32977587" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Problems View" order="8" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="9" />
+      <window_info anchor="bottom" id="Services" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="GraphQL" order="11" />
+      <window_info anchor="bottom" id="Run Dashboard" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32902467" />
+      <window_info anchor="bottom" id="Bucklescript" order="14" />
+      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Quokka" order="16" />
+      <window_info anchor="bottom" id="Flow" order="17" />
+      <window_info anchor="bottom" id="TypeScript" order="18" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Memory View" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Data View" order="6" />
+      <window_info anchor="right" id="Terminal" order="7" visible="true" weight="0.27656123" />
+      <window_info anchor="right" id="Run" order="8" sideWeight="0.5229456" weight="0.31771246" />
+      <window_info active="true" anchor="right" id="Coverage" order="9" sideWeight="0.47705442" side_tool="true" visible="true" weight="0.4529762" />
+      <window_info anchor="right" id="GfmBrowser" order="10" />
+      <window_info anchor="right" id="Palette" order="11" />
+      <window_info anchor="right" id="Maven Projects" order="12" />
+      <window_info anchor="right" id="Capture Analysis" order="13" />
+      <window_info anchor="right" id="Theme Preview" order="14" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/listr/index.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/listr-update-renderer/package.json" />
+    <entry file="file://$PROJECT_DIR$/node_modules/dedent/dist/dedent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="49" column="52" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/calcChunkSize.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/log-update/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/listr-update-renderer/index.js" />
+    <entry file="file://$PROJECT_DIR$/exitHook.js" />
+    <entry file="file://$PROJECT_DIR$/src/makeCmdTasks.js" />
+    <entry file="file://$PROJECT_DIR$/test/__snapshots__/runAll.spec.js.snap" />
+    <entry file="file://$PROJECT_DIR$/test/__mocks__/symbols.js" />
+    <entry file="file://$PROJECT_DIR$/test/__snapshots__/findBin.spec.js.snap" />
+    <entry file="file://$PROJECT_DIR$/test/findBin.spec.js" />
+    <entry file="file://$PROJECT_DIR$/test/__snapshots__/getConfig.spec.js.snap" />
+    <entry file="file://$PROJECT_DIR$/node_modules/log-symbols/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/__snapshots__/resolveTaskFn-chunked.spec.js.snap" />
+    <entry file="file://$PROJECT_DIR$/src/checkPkgScripts.js" />
+    <entry file="file://$PROJECT_DIR$/test/__snapshots__/resolveTaskFn.spec.js.snap" />
+    <entry file="file://$PROJECT_DIR$/test/calcChunkSize.spec.js" />
+    <entry file="file://$PROJECT_DIR$/test/__mocks__/my-config.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/staged-git-files/index.js" />
+    <entry file="file://$PROJECT_DIR$/test/__mocks__/cosmiconfig.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/__mocks__/log-symbols.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/__mocks__/npm-which.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/__mocks__/gitWorkflow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="60" selection-start-column="42" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/makeCmdTasks.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1" column="46" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/__mocks__/execa.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testSetup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/resolveTaskFn-chunked.spec.js" />
+    <entry file="file://$PROJECT_DIR$/test/printErrors.spec.js" />
+    <entry file="file://$PROJECT_DIR$/test/resolveTaskFn.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/resolveGitDir.spec.js" />
+    <entry file="file://$PROJECT_DIR$/src/resolveGitDir.js" />
+    <entry file="file://$PROJECT_DIR$/test/runAll.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="54" column="20" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wallaby.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resolveTaskFn.js" />
+    <entry file="file://$PROJECT_DIR$/src/gitWorkflow.js" />
+    <entry file="file://$PROJECT_DIR$/index.js" />
+    <entry file="file://$PROJECT_DIR$/test/getConfig.spec.js" />
+    <entry file="file://$PROJECT_DIR$/test/gitStash.spec.js" />
+    <entry file="file://$PROJECT_DIR$/test/gitWorkflow.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#38#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/runAll.js" />
+    <entry file="file://$PROJECT_DIR$/src/getConfig.js" />
+    <entry file="file://$PROJECT_DIR$/src/generateTasks.js" />
+    <entry file="file://$PROJECT_DIR$/.travis.yml" />
+    <entry file="file://$PROJECT_DIR$/.github/workflows/release.yml" />
+    <entry file="file://$PROJECT_DIR$/test/generateTasks.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6030">
+          <caret line="206" selection-start-line="206" selection-end-line="206" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.github/workflows/main.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="14" selection-start-line="3" selection-start-column="2" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.appveyor.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/integration.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="763">
+          <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

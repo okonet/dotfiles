@@ -1,0 +1,31 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.mxml</mask>
+      <mask>list.gsp</mask>
+      <mask>*.gps</mask>
+      <mask>*.js*</mask>
+      <mask>*.*css</mask>
+      <mask>*.css</mask>
+      <mask>*.jsx</mask>
+      <mask>*.groovy</mask>
+      <mask>*.gsp</mask>
+      <mask>*.spec.js</mask>
+      <mask>*.js</mask>
+      <mask>*.erb</mask>
+      <mask>*.html</mask>
+      <mask>*.scss</mask>
+      <mask>*</mask>
+    </recentFileMasks>
+  </component>
+</application>

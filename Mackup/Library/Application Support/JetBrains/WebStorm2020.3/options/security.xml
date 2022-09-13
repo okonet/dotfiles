@@ -1,0 +1,5 @@
+<application>
+  <component name="PasswordSafe">
+    <option name="PROVIDER" value="MEMORY_ONLY" />
+  </component>
+</application>

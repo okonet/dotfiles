@@ -1,0 +1,100 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>content-box</find>
+      <find>img</find>
+      <find>null</find>
+      <find>name</find>
+      <find>sets ty</find>
+      <find>font-smoothing</find>
+      <find>just</find>
+      <find>live cha</find>
+      <find>className</find>
+      <find>classNames</find>
+      <find>pretest</find>
+      <find>hljs</find>
+      <find>comment</find>
+      <find>class-name</find>
+      <find>language</find>
+      <find>isCodeExists</find>
+      <find>_olark.twig</find>
+      <find>olark</find>
+      <find>prism</find>
+      <find>images</find>
+      <find>hero.svg</find>
+      <find>Postmark store</find>
+      <find>logo</find>
+      <find>Account</find>
+      <find>status</find>
+      <find>jquery/dist</find>
+      <find>jquery</find>
+      <find>autop</find>
+      <find>sidenote</find>
+      <find>head</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>'vicotry/src'</replace>
+      <replace>'vicotry/src/index'</replace>
+      <replace>'vicotry/src/index.js'</replace>
+      <replace>'victory/src'</replace>
+      <replace>{{ site.baseurl }}</replace>
+      <replace>getUptimePercent</replace>
+      <replace>MAINTENANCE</replace>
+      <replace>globals.scss</replace>
+      <replace>fetchAPI(`</replace>
+      <replace>StatusTypes.</replace>
+      <replace>import type { EmailDeliveryType } from '../../constants/EmailDeliveryConstants'</replace>
+      <replace>__WEBPACK_DEV_SERVER__</replace>
+      <replace>'react-router/es6'</replace>
+      <replace>import Link from 'react-router/lib/Link'</replace>
+      <replace>props:{</replace>
+      <replace>pageTextColor</replace>
+      <replace>pageSecTextColor</replace>
+      <replace>'../../variables.scss'</replace>
+      <replace>&lt;a href=&quot;https://pingdom.com&quot; title=&quot;Pingdom Home Page&quot;&gt;Pingdom&lt;/a&gt;</replace>
+      <replace />
+      <replace>lastCheckDate</replace>
+      <replace>&quot;</replace>
+      <replace>u-textalign-center</replace>
+      <replace>horizontal</replace>
+      <replace>reason_visual reason_visual--fullwidth</replace>
+      <replace>&lt;aside class=&quot;reason_aside&quot;&gt;</replace>
+      <replace>'</replace>
+      <replace>$f-scale-smaller</replace>
+      <replace>POSTMARK_API_TEST`</replace>
+      <replace>reason_visual</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/Projects/adverity/web-app/js/modules/Dashboard/components/templates</dir>
+      <dir>$USER_HOME$/Projects/adverity/web-app/js/modules/Dashboard/components</dir>
+      <dir>$USER_HOME$/Projects/adverity/web-app/js/modules/Dashboard/</dir>
+      <dir>$USER_HOME$/Projects/adverity/grails-app</dir>
+      <dir>$USER_HOME$/Projects/fifteens</dir>
+      <dir>$USER_HOME$/Projects/adverity/web-app/js/</dir>
+      <dir>$USER_HOME$/Projects/adverity/web-app/node_modules</dir>
+      <dir>$USER_HOME$/Projects/adverity/web-app/bower_components/select2</dir>
+      <dir>$USER_HOME$/Projects/adverity/web-app/js/modules</dir>
+      <dir>$USER_HOME$/Projects/OSS/react-absolute-grid/lib</dir>
+      <dir>$USER_HOME$/Projects/ColorSnapper/website/_sass</dir>
+      <dir>$USER_HOME$/Projects/wildbit/postmark-status/node_modules/react/lib</dir>
+      <dir>$USER_HOME$/Projects/wildbit/postmark-status/node_modules/webpack</dir>
+      <dir>$USER_HOME$/Projects/wildbit/postmark-status/node_modules/webpack-core</dir>
+      <dir>$USER_HOME$/Projects/wildbit/postmark-status/node_modules/webpack-sources</dir>
+      <dir>$USER_HOME$/Projects/wildbit/postmark-status/app/components/Incidents</dir>
+      <dir>$USER_HOME$/Projects/wildbit/postmark-status/node_modules/webpack/lib</dir>
+      <dir>$USER_HOME$/Projects/wildbit/postmark-status/node_modules</dir>
+      <dir>$USER_HOME$/Projects/wildbit/postmark-status/</dir>
+      <dir>$USER_HOME$/Projects/wildbit/postmark-craft/html</dir>
+      <dir>$USER_HOME$/Projects/wildbit/postmark-status/server</dir>
+      <dir>$USER_HOME$/Projects/wildbit/postmark-status/server/</dir>
+      <dir>$USER_HOME$/Projects/OSS/victory</dir>
+      <dir>$USER_HOME$/Projects/OSS/victory/src</dir>
+      <dir>$USER_HOME$/Projects/OSS/victory-chart/src</dir>
+      <dir>$USER_HOME$/Projects/ColorSnapper/website/_pages</dir>
+      <dir>$USER_HOME$/Projects/ColorSnapper/website/_includes</dir>
+      <dir>$USER_HOME$/Projects/ColorSnapper/website/_layouts</dir>
+      <dir>$USER_HOME$/Projects/wildbit/postmark-craft/craft/templates/</dir>
+      <dir>$USER_HOME$/Projects/wildbit/postmark-craft/craft/templates/reasons/pages</dir>
+    </dirStrings>
+  </component>
+</application>

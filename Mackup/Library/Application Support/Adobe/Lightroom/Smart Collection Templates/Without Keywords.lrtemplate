@@ -1,0 +1,14 @@
+s = {
+	id = "7C560C96-8635-43C9-9D69-B94E9A192534",
+	internalName = "Without Keywords",
+	title = ZSTR "$$$/LibraryToolkit/Defaults/SmartCollections/Without Keywords=Without Keywords",
+	type = "LibrarySmartCollection",
+	value = {
+		{
+			criteria = "keywords",
+			operation = "empty",
+		},
+		combine = "intersect",
+	},
+	version = 1,
+}

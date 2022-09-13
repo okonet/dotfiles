@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ExcludedApplications</key>
+	<array/>
+	<key>DisableStatusBarItem</key>
+	<false/>
+	<key>DisableAutomaticTitleMatchPatternGeneration</key>
+	<false/>
+	<key>CreateScreenshotsWhenStoringWindows</key>
+	<true/>
+	<key>RegistrationEmail</key>
+	<string></string>
+	<key>RegistrationName</key>
+	<string></string>
+	<key>RegistrationSerialNumber</key>
+	<string></string>
+	<key>RestoreWindowsAsApplicationsLaunch</key>
+	<true/>
+	<key>RestoreWindowsAutomatically</key>
+	<true/>
+	<key>StartStayAtLogin</key>
+	<true/>
+	<key>SUAutomaticallyUpdate</key>
+	<false/>
+	<key>ApplicationLaunchRestoreDelay</key>
+	<real>5</real>
+	<key>FloatingWindowActivationDelay</key>
+	<real>400000</real>
+	<key>RestoreWindowsDelay</key>
+	<integer>0</integer>
+	<key>SUScheduledCheckInterval</key>
+	<real>86400</real>
+</dict>
+</plist>

@@ -1,0 +1,42 @@
+s = {
+	id = "AA3F9B24-337A-4DF5-A60B-2709C90BD554",
+	internalName = "Camera Info",
+	title = ZSTR "$$$/AgLibrary/FilterPresets/CameraInfo=Camera Info",
+	type = "LibraryFilter",
+	value = {
+		columnBrowserActive = true,
+		columnBrowserDesc = {
+			{
+				criteria = "camera",
+			},
+			{
+				criteria = "lens",
+			},
+			{
+				criteria = "focalLength",
+			},
+			{
+				criteria = "flashFired",
+			},
+		},
+		customLabel = false,
+		filtersActive = false,
+		label1 = false,
+		label2 = false,
+		label3 = false,
+		label4 = false,
+		label5 = false,
+		labelOp = "any",
+		minRating = 1,
+		noLabel = false,
+		pick = "<nil>",
+		ratingOp = ">=",
+		searchOp = "all",
+		searchString = "",
+		searchStringActive = false,
+		searchTarget = "all",
+		usage = "<nil>",
+		whichCopies = "<nil>",
+	},
+	version = 0,
+}

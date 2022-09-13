@@ -1,0 +1,24 @@
+s = {
+	id = "6277E12D-FA51-4872-934E-5B14A91889BD",
+	internalName = "Default Columns",
+	title = ZSTR "$$$/AgLibrary/FilterPresets/DefaultColumns=Default Columns",
+	type = "LibraryFilter",
+	value = {
+		columnBrowserActive = true,
+		columnBrowserDesc = {
+			{
+				criteria = "date",
+			},
+			{
+				criteria = "camera",
+			},
+			{
+				criteria = "lens",
+			},
+			{
+				criteria = "label",
+			},
+		},
+	},
+	version = 0,
+}

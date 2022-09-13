@@ -1,0 +1,1 @@
+The <strong><code>Window</code></strong> interface represents a window containing a <a href="/en-US/docs/Glossary/DOM">DOM</a> document; the <code>document</code> property points to the <a href="/en-US/docs/Web/API/Document">DOM document</a> loaded in that window.

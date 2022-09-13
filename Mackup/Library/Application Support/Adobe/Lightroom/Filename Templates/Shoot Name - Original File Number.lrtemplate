@@ -1,0 +1,22 @@
+s = {
+	deflated = {
+		{
+			{
+				value = "shoot_custom_token",
+			},
+			"-",
+			{
+				value = "image_filename_number_suffix",
+			},
+			name = "Shoot Name - Original File Number",
+			presetType = "Naming",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	internalName = "ShootName-OriginalFileNumber",
+	title = ZSTR "$$$/TokenPresets/Naming/Title/ShootNameOriginalFileNumber=Shoot Name - Original File Number",
+	type = "Naming_Tokens",
+	specialClass = { "import" },
+	version = 1,
+}

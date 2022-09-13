@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Webpack Dev Server" description="webpack dev server FTW" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="npm start" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Projects/adverity/web-app" />
+    </exec>
+  </tool>
+</toolSet>

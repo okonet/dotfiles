@@ -1,0 +1,1 @@
+The <strong><code>console</code></strong> object provides access to the browser's debugging console (e.g. the <a href="/en-US/docs/Tools/Web_Console">Web Console</a> in Firefox). The specifics of how it works varies from browser to browser, but there is a <em>de facto</em> set of features that are typically provided.

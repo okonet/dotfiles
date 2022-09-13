@@ -1,0 +1,885 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Projects/viennajs/responsive-visualizations-with-react" />
+        <option value="$USER_HOME$/Projects/webflow/webflow" />
+        <option value="$USER_HOME$/Projects/OSS/lint-staged" />
+        <option value="$USER_HOME$/Projects/adverity" />
+        <option value="$USER_HOME$/Projects/wildbit/postmark-craft" />
+        <option value="$USER_HOME$/Projects/OSS/react" />
+        <option value="$USER_HOME$/Projects/viennajs/metalsmith" />
+        <option value="$USER_HOME$/Projects/wildbit/postmark-status" />
+        <option value="$USER_HOME$/Projects/OSS/postcss.org" />
+        <option value="$USER_HOME$/Projects/ColorSnapper/website" />
+        <option value="$USER_HOME$/Projects/OSS/react-dropzone" />
+        <option value="$USER_HOME$/Projects/wildbit" />
+        <option value="$USER_HOME$/Projects/OSS/staged-files" />
+        <option value="$USER_HOME$/Projects/OSS/beanstalk-code-snippet-bot" />
+        <option value="$USER_HOME$/Projects/OSS/pure-ui/styleguide" />
+        <option value="$USER_HOME$/Projects/OSS/metalsmith-remote-json-to-files" />
+        <option value="$USER_HOME$/Projects/OSS/react-container-dimensions" />
+        <option value="$USER_HOME$/Projects/viennajs/slack-bot" />
+        <option value="$USER_HOME$/Projects/OSS/webpack-sass-shared-const" />
+        <option value="$USER_HOME$/Projects/OSS/elm-rays" />
+        <option value="$USER_HOME$/Projects/OSS/react-sparklines" />
+        <option value="$USER_HOME$/Projects/OSS/builder-victory-component" />
+        <option value="$USER_HOME$/Projects/OSS/victory-chart" />
+        <option value="$USER_HOME$/Projects/OSS/victory" />
+        <option value="$USER_HOME$/Projects/OSS/lodash-webpack-plugin" />
+        <option value="$USER_HOME$/Projects/OSS/swagger-express/example" />
+        <option value="$USER_HOME$/Projects/wwtrailsapp" />
+        <option value="$USER_HOME$/Projects/screening-master" />
+        <option value="$USER_HOME$/Projects/wildbit/postmark" />
+        <option value="$USER_HOME$/Projects/wildbit/postmark-design" />
+        <option value="$USER_HOME$/Projects/OSS" />
+        <option value="$USER_HOME$/Projects/wildbit/eslint-config-wildbit" />
+        <option value="$USER_HOME$/Projects/OSS/react-element-resize-detector" />
+        <option value="$USER_HOME$/Projects/OSS/express-api-helper" />
+        <option value="$USER_HOME$/Projects/OSS/babel-preset-es2015-loose-native-modules" />
+        <option value="$USER_HOME$/Projects/OSS/react-boilerplate" />
+        <option value="$USER_HOME$/Projects/wildbit/postmark-status-craft" />
+        <option value="$USER_HOME$/Projects/OSS/enzyme-example-mocha" />
+        <option value="$USER_HOME$/Projects/adverity/web-app" />
+        <option value="$USER_HOME$/Projects/wildbit/beta-prototype" />
+        <option value="$USER_HOME$/Projects/OSS/metalsmith-webpack-dev-server" />
+        <option value="$USER_HOME$/Projects/OSS/metalsmith-remote" />
+        <option value="$USER_HOME$/Projects/OSS/victory-bar" />
+        <option value="$USER_HOME$/Projects/OSS/metalsmith-webpack" />
+        <option value="$USER_HOME$/Projects/wildbit/beta-web" />
+        <option value="$USER_HOME$/Projects/viennajs/lint-2016" />
+        <option value="$USER_HOME$/Projects/lint-staged" />
+        <option value="$USER_HOME$/Projects/electron-plex" />
+        <option value="$USER_HOME$/Projects/wildbit/stylelint-config-wildbit" />
+        <option value="$USER_HOME$/Projects/wildbit/beanstalk" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Projects/wildbit/postmark-craft" />
+        <option value="$USER_HOME$/Projects/webflow/webflow" />
+        <option value="$USER_HOME$/Projects/viennajs/responsive-visualizations-with-react" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Projects/viennajs/responsive-visualizations-with-react" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Projects/ColorSnapper/website">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1466713679150" />
+              <option name="buildTimestamp" value="1464904800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.597" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1460496083863" />
+              <option name="buildTimestamp" value="1459202400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/attr-accept">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.249" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1446469733015" />
+              <option name="buildTimestamp" value="1444773600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/babel-plugin-react-class-display-name">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.249" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1447236997028" />
+              <option name="buildTimestamp" value="1444773600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/babel-preset-es2015-loose-native-modules">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1458216947152" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/beanstalk-code-snippet-bot">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.972" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1464877751903" />
+              <option name="buildTimestamp" value="1463176800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/builder-victory-component">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.597" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1462895840947" />
+              <option name="buildTimestamp" value="1459202400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/d3-v4-playground">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1452767575717" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-142.5239" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1444402302625" />
+              <option name="buildTimestamp" value="1443564000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/elm-rays">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.971" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1463163795640" />
+              <option name="buildTimestamp" value="1461880800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/enzyme-example-mocha">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457607327512" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/express-api-helper">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1458913758563" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/flummox">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.249" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1445598979912" />
+              <option name="buildTimestamp" value="1444773600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/js-codemods">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.382" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1447416282994" />
+              <option name="buildTimestamp" value="1447110000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/lint-staged">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1468320175010" />
+              <option name="buildTimestamp" value="1464904800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/lodash-webpack-plugin">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.597" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1462873958877" />
+              <option name="buildTimestamp" value="1459202400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/metalsmith-remote">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1455743210101" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/metalsmith-remote-json-to-files">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.972" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1464632797308" />
+              <option name="buildTimestamp" value="1463176800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/metalsmith-webpack">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1455224284873" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/metalsmith-webpack-dev-server">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1455792461535" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/node-ffmetadata">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1451670813419" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/plex-music-client">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1451901038523" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/postcss.org">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1467209365127" />
+              <option name="buildTimestamp" value="1464904800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/pure-ui/styleguide">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.972" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1464861482022" />
+              <option name="buildTimestamp" value="1463176800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/react">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1467793491074" />
+              <option name="buildTimestamp" value="1464904800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/react-absolute-grid">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1015" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1448963396069" />
+              <option name="buildTimestamp" value="1448319600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/react-boilerplate">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457714607475" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/react-container-dimensions">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.972" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1464601636041" />
+              <option name="buildTimestamp" value="1463176800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/react-dropzone">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1466426744970" />
+              <option name="buildTimestamp" value="1464904800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/react-easy-style">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.249" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1445961233555" />
+              <option name="buildTimestamp" value="1444773600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/react-element-resize-detector">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1459327691025" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/react-sparklines">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.971" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1463060224598" />
+              <option name="buildTimestamp" value="1461880800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/react-transform-boilerplate">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-142.5239" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1444397827469" />
+              <option name="buildTimestamp" value="1443564000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/relay-treasurehunt">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.382" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1447416276325" />
+              <option name="buildTimestamp" value="1447110000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/staged-files">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.972" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1464891046293" />
+              <option name="buildTimestamp" value="1463176800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/swagger-express/example">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.597" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1461770738219" />
+              <option name="buildTimestamp" value="1459202400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/victory">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.597" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1462881797023" />
+              <option name="buildTimestamp" value="1459202400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/victory-bar">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1455722475404" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/victory-chart">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.597" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1462881912546" />
+              <option name="buildTimestamp" value="1459202400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/webpack-sass-shared-const">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.972" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1464178275921" />
+              <option name="buildTimestamp" value="1463176800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/adverity">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1468271690689" />
+              <option name="buildTimestamp" value="1464904800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/adverity/web-app">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457431832001" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/electron-plex">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1452791303752" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/fifteens">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1450114748991" />
+              <option name="buildTimestamp" value="1449464400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/id3fixer">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1451659797897" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/jetbrains/ring/ui/blocks/diff">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1015" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1449484635750" />
+              <option name="buildTimestamp" value="1448319600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/jetbrains/rivus">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.249" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1445505718357" />
+              <option name="buildTimestamp" value="1444773600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/jetbrains/rivus/webui">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1015" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1449157295254" />
+              <option name="buildTimestamp" value="1448319600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/lint-staged">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1452844748338" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/okonet.github.com">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1452504107935" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/okonet.ru">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1452504138749" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/screening-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.597" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1461571912869" />
+              <option name="buildTimestamp" value="1459202400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/viennajs/lint-2016">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1452878955446" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/viennajs/metalsmith">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1467280008888" />
+              <option name="buildTimestamp" value="1464904800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/viennajs/responsive-visualizations-with-react">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1468351269203" />
+              <option name="buildTimestamp" value="1464904800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/viennajs/slack-bot">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.972" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1464250325111" />
+              <option name="buildTimestamp" value="1463176800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/webflow/webflow">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1468320193095" />
+              <option name="buildTimestamp" value="1464904800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/wildbit">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1466426713488" />
+              <option name="buildTimestamp" value="1464904800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/wildbit/beanstalk">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1452771309640" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/wildbit/beta-os-x">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1450347913667" />
+              <option name="buildTimestamp" value="1449464400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/wildbit/beta-prototype">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1455891894500" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/wildbit/beta-web">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1454078909793" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/wildbit/beta-web/client">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1450119232749" />
+              <option name="buildTimestamp" value="1449464400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/wildbit/deploybot-app">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.249" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1445957595774" />
+              <option name="buildTimestamp" value="1444773600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/wildbit/eslint-config-wildbit">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.597" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1459781247945" />
+              <option name="buildTimestamp" value="1459202400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/wildbit/postmark">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.597" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1461088583289" />
+              <option name="buildTimestamp" value="1459224000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/wildbit/postmark-craft">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1467798691492" />
+              <option name="buildTimestamp" value="1464904800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/wildbit/postmark-design">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.597" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1461088470442" />
+              <option name="buildTimestamp" value="1459224000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/wildbit/postmark-status">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1467209384556" />
+              <option name="buildTimestamp" value="1464904800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/wildbit/postmark-status-craft">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457616143386" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/wildbit/react-playground">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1450437743346" />
+              <option name="buildTimestamp" value="1449464400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/wildbit/stylelint-config-wildbit">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1452771494280" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/wwtrailsapp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.597" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1461577951530" />
+              <option name="buildTimestamp" value="1459202400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Projects" />
+  </component>
+</application>

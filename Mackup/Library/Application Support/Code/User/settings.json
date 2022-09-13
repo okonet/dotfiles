@@ -1,0 +1,26 @@
+{
+  "editor.fontLigatures": "'calt' on, 'liga' on",
+  "editor.fontFamily" : "MonoLisa Custom, Fira Code, Menlo, Monaco, 'Courier New', monospace",
+  "files.autoSave" : "onFocusChange",
+  "workbench.colorTheme" : "One Dark Pro Darker",
+  "reason.diagnostics.tools" : [
+    "merlin",
+    "bsb"
+  ],
+  "workbench.iconTheme": "material-icon-theme",
+  "files.insertFinalNewline" : true,
+  "files.trimFinalNewlines" : true,
+  "editor.fontSize" : 16,
+  "editor.tabSize" : 2,
+  "editor.accessibilitySupport": "off",
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": true
+  },
+  "git.autofetch": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true
+}

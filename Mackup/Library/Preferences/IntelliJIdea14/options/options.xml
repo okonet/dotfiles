@@ -1,0 +1,97 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="evlsprt2.12" value="13da10f8f49" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="evlsprt.12" value="13c95b8f691" />
+    <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="file.colors.enable.non.project" value="Yellow" />
+    <property name="FileStructurePopup.narrowDown" value="true" />
+    <property name="RunConfigurable.dividerProportion" value="0.3" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="PLUGIN_FILTER" value="wallaby&#10;walla&#10;wa&#10;jquery&#10;jasmine" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="true" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_" value="0.8" />
+    <property name="Non-Project Files" value="Yellow" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="installation.uid" value="69e5fd8d-c65d-494e-81b8-166383612904" />
+    <property name="export.settings.path" value="$USER_HOME$/Library/Preferences/IntelliJIdea12/settings.jar" />
+    <property name="file.colors.enable.tests" value="Green" />
+    <property name="com.intellij.openapi.editor.actions.MultiplePasteAction$1.splitter" value="0.3" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="com.intellij.xdebugger.impl.breakpoints.ui.tree.BreakpointMasterDetailPopupBuilder.splitter" value="0.3" />
+    <property name="Tests" value="Green" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/.gvm/grails/2.3.6&#10;/Users/okonet/.gvm/grails/2.4.5&#10;/Users/okonet/Projects/OSS/wallaby-webpack-es7/js&#10;/Users/okonet/Projects/OSS/wallaby-webpack-es7&#10;/Users/okonet/Projects/adverity/web-app/node_modules&#10;/Users/okonet/Projects/adverity/web-app/node_modules/immutable&#10;/Users/okonet/Projects/danielamulle.at&#10;/Users/okonet/Projects/adverity/web-app&#10;/Users/okonet/Projects/adverity/queues/queues-common/lib&#10;/Users/okonet/Projects/adverity/queues/lib&#10;/Users/okonet/Projects/adverity/adverity-common/lib&#10;/Users/okonet/Projects/adverity/queues&#10;/Users/okonet/Projects/adverity/adverity-common&#10;/Users/okonet/Projects/adverity&#10;/Users/okonet/.gvm/grails/current&#10;/Users/okonet/Library/Application Support/IntelliJIdea12/Kotlin/kotlinc/lib/kotlin-runtime.jar" />
+    <property name="LayoutCode.rearrangeEntries" value="false" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="show.vcs.annotation.aspect.Commit number" value="false" />
+    <property name="evlsprt3.12" value="15" />
+    <property name="ColorChooser.RecentColors" value="232-232-232-255,,,167-21-22-255,,,255-204-200-255,,,255-239-228-255,,,167-75-56-255,,,162-74-56-255,,,218-167-92-255,,,227-179-61-255,,,218-163-104-255,,,218-178-141-255,,,138-166-209-255,,,137-176-209-255,,,219-167-230-255,,,180-133-182-255,,,227-177-117-255,,,227-193-118-255,,,227-196-144-255,,,227-185-134-255,,,247-249-250-255,,,241-243-244-255" />
+    <property name="log.debug.categories" value="" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="1" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="javascript.grunt_toolwindow_splitter" value="0.2" />
+    <property name="last.imported.location" value="$USER_HOME$/Projects/OSS/wallaby-webpack-es7/js" />
+    <property name="default.storage.format" value=".idea (directory based)" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.2" />
+    <property name="project.jdk.splitter" value="0.2" />
+    <property name="ProjectStructure.TopLevelElements" value="0.15" />
+    <property name="FindSplitterProportion" value="0.25" />
+    <property name="KEYMAP" value="stateme&#10;move lin&#10;new file&#10;move line&#10;dupli" />
+    <property name="JSHintOptionsTreeView.MAIN_DIVIDER_PROPORTION" value="0.7" />
+    <property name="JSHintOptionsTreeView.RIGHT_DIVIDER_PROPORTION" value="0.7" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="0.0" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="361.0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="33.0" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="js.rename.search.for.text.occurrences" value="true" />
+    <property name="INSPECTION_FILTER_HISTORY" value="comma&#10;explici&#10;untermi&#10;&quot;New in 14&quot;" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.75667655" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.21144968" />
+    <property name="js.extract.function.declare.as.expression" value="false" />
+    <property name="FileTemplates.CurrentTab" value="Templates" />
+    <property name="FileTemplates.SelectedTemplate" value="Html" />
+    <property name="project.wizard.group" value="WEB_MODULE" />
+    <property name="project.wizard.template" value="Static Web" />
+    <property name="power.save.mode" value="false" />
+    <property name="INTENTION_FILTER_HISTORY" value="undef" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="emmet.last.wrap.abbreviations" value="sup" />
+    <property name="emmet.recent.wrap.abbreviations" value="pre&#10;strong&#10;span.heart&#10;i.format.format_illustrator&#10;i.format.format_photoshop&#10;span.shortcut&#10;sup&#10;abbr&#10;em&#10;a" />
+    <property name="MoveFile.OpenInEditor" value="false" />
+    <property name="run.configuration.edit.ad" value="true" />
+    <property name="evlsprt3.IU-141.498" value="19" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="fileTypeChangedCounter" value="4" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="idea" />
+    <property name="evlsprt3.IU-141.588" value="14" />
+    <property name="evlsprt3.IU-141.712" value="10" />
+    <property name="disable.forced.soft.wraps.notification" value="true" />
+    <property name="color.picker.is.hsb" value="true" />
+    <property name="evlsprt3.IU-141.814" value="18" />
+    <property name="nodejs.mocha.node_interpreter_path" value="/usr/local/bin/node" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="" />
+    <property name="evlsprt3.IU-141.914" value="18" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Wrapping and Braces" />
+    <property name="evlsprt.IU-141.914" value="14da1b05f00" />
+    <property name="evlsprt2.IU-141.914" value="14d44fe1767" />
+    <property name="evlsprt3.IU-141.1192" value="10" />
+    <property name="evlsprt.IU-141.1192" value="14e03893300" />
+    <property name="evlsprt2.IU-141.1192" value="14dd009f700" />
+    <property name="evlsprt3.14" value="14" />
+    <property name="HbCommenterLanguageId" value="HTML" />
+    <property name="HbAutocompleteMustaches" value="enabled" />
+    <property name="HbFormatter" value="enabled" />
+    <property name="HbDisableAutoGenerateCloseTag" value="enabled" />
+    <property name="evlsprt.14" value="14e731ab731" />
+    <property name="evlsprt2.14" value="14e2b026f0a" />
+    <property name="HbAutoCollapseBlocks" value="disabled" />
+  </component>
+</application>

@@ -1,0 +1,15 @@
+s = {
+	id = "F4AB36C8-9E4F-40F4-8E08-75AEFF78A1FE",
+	internalName = "Video Files",
+	title = ZSTR "$$$/LibraryToolkit/Defaults/SmartCollections/VideoFiles=Video Files",
+	type = "LibrarySmartCollection",
+	value = {
+		{
+			criteria = "fileFormat",
+			operation = "==",
+			value = "VIDEO",
+		},
+		combine = "intersect",
+	},
+	version = 1,
+}

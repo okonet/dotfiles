@@ -1,0 +1,18 @@
+<application>
+  <component name="ScratchFileService">
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.css" value="CSS" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html" value="HTML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.js" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" value="JSX Harmony" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.tsx" value="TypeScript JSX" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.html" value="HTML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.jsx" value="JSX Harmony" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.jsx" value="JSX Harmony" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.jsx" value="JSX Harmony" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.jsx" value="JSX Harmony" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.jsx" value="JSX Harmony" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.jsx" value="JSX Harmony" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.jsx" value="JSX Harmony" />
+  </component>
+</application>

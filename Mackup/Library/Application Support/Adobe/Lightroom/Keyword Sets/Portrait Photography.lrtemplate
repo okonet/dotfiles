@@ -1,0 +1,17 @@
+s = {
+	title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/PortraitPhotography=Portrait Photography",
+	internalName = "Portrait Photography",
+	type = "KeywordSet",
+	value = {
+		shortcut1title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/PortraitPhotography/Kids=Kids",
+		shortcut2title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/PortraitPhotography/Babies=Babies",
+		shortcut3title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/PortraitPhotography/Families=Families",
+		shortcut4title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/PortraitPhotography/Pets=Pets",
+		shortcut5title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/PortraitPhotography/Headshots=Headshots",
+		shortcut6title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/PortraitPhotography/Individuals=Individuals",
+		shortcut7title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/PortraitPhotography/Outdoor=Outdoor",
+		shortcut8title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/PortraitPhotography/Candid=Candid",
+		shortcut9title = ZSTR "$$$/AgLibrary/KeywordSetFactoryDefaults/PortraitPhotography/Fashion=Fashion",
+	},
+	version = 1,
+}

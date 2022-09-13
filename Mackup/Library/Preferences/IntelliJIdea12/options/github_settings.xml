@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="GithubSettings" Login="" Host="github.com" Anonymous="false" Private="false" OpenInBrowser="true">
+    <GITHUB_TRUSTED_HOSTS>
+      <HOST URL="[Element: &lt;GITHUB_TRUSTED_HOSTS/&gt;]" />
+    </GITHUB_TRUSTED_HOSTS>
+  </component>
+</application>
+

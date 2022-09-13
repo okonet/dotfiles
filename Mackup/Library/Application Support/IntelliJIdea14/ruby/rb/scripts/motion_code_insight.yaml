@@ -1,0 +1,20 @@
+dynamic_members:
+  Motion:
+    Project:
+      Config:
+        attr_reader: files, xcode_dir, sdk_version, deployment_target, frameworks,
+                     weak_frameworks, libs, delegate_class, name, build_dir,
+                     resources_dir, specs_dir, identifier, codesign_certificate,
+                     provisioning_profile, device_family, interface_orientations, version,
+                     short_version, icons, prerendered_icon, background_modes, seed_id,
+                     entitlements, fonts, status_bar_style, motiondir
+        attr_writer: files=, xcode_dir=, sdk_version=, deployment_target=, frameworks=,
+                     weak_frameworks=, libs=, delegate_class=, name=, build_dir=,
+                     resources_dir=, specs_dir=, identifier=, codesign_certificate=,
+                     provisioning_profile=, device_family=, interface_orientations=, version=,
+                     short_version=, icons=, prerendered_icon=, background_modes=, seed_id=,
+                     entitlements=, fonts=, status_bar_style=, motiondir=
+    
+
+block_variable_types:
+  Motion::Project::App.setup: Motion::Project::Config

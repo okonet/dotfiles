@@ -1,0 +1,680 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JSDebugConfig">
+      <project id="adverity" values="browser-default.preferredBrowser-null.no_mappings" collectionTime="1459334176754" />
+    </group>
+    <group name="php-interpreters">
+      <project id="lint-staged" values="0" collectionTime="1453989340848" />
+      <project id="victory-bar" values="0" collectionTime="1455737455899" />
+      <project id="postcss.org" values="0" collectionTime="1456167821402" />
+      <project id="web-app" values="0" collectionTime="1457433273177" />
+      <project id="eslint-config-wildbit" values="0" collectionTime="1459526775898" />
+      <project id="postmark-status" values="0" collectionTime="1459526775875" />
+      <project id="postmark-status-craft" values="0" collectionTime="1457624015588" />
+      <project id="beta-prototype" values="0" collectionTime="1456165750118" />
+      <project id="adverity" values="0" collectionTime="1459334176749" />
+      <project id="metalsmith-remote" values="0" collectionTime="1455795785405" />
+      <project id="beta-web" values="0" collectionTime="1454354765980" />
+      <project id="postmark-craft" values="0" collectionTime="1452767572053" />
+      <project id="express-api-helper" values="0" collectionTime="1458913762218" />
+      <project id="enzyme-example-mocha" values="0" collectionTime="1457610451993" />
+      <project id="react-element-resize-detector" values="0" collectionTime="1459526775940" />
+      <project id="stylelint-config-wildbit" values="0" collectionTime="1452776377919" />
+      <project id="metalsmith-remote-json-to-files" values="0" collectionTime="1458913758562" />
+      <project id="electron-plex" values="0" collectionTime="1453989338535" />
+      <project id="metalsmith-webpack" values="0" collectionTime="1455276794283" />
+      <project id="react-boilerplate" values="0" collectionTime="1457714805469" />
+      <project id="babel-preset-es2015-loose-native-modules" values="0" collectionTime="1458221245729" />
+      <project id="beanstalk" values="0" collectionTime="1452771479085" />
+      <project id="metalsmith-webpack-dev-server" values="0" collectionTime="1455792750577" />
+      <project id="lint-2016" values="0" collectionTime="1453989311034" />
+      <project id="website" values="0" collectionTime="1459499825658" />
+    </group>
+    <group name="php-interpreter-version">
+      <project id="lint-staged" values="not installed" collectionTime="1453989340848" />
+      <project id="victory-bar" values="not installed" collectionTime="1455737455899" />
+      <project id="postcss.org" values="not installed" collectionTime="1456167821394" />
+      <project id="web-app" values="not installed" collectionTime="1457433273175" />
+      <project id="eslint-config-wildbit" values="not installed" collectionTime="1459526775898" />
+      <project id="postmark-status" values="not installed" collectionTime="1459526775875" />
+      <project id="postmark-status-craft" values="not installed" collectionTime="1457624015588" />
+      <project id="beta-prototype" values="not installed" collectionTime="1456165750118" />
+      <project id="adverity" values="not installed" collectionTime="1459334176749" />
+      <project id="metalsmith-remote" values="not installed" collectionTime="1455795785405" />
+      <project id="beta-web" values="not installed" collectionTime="1454354765980" />
+      <project id="postmark-craft" values="not installed" collectionTime="1452767572046" />
+      <project id="express-api-helper" values="not installed" collectionTime="1458913762218" />
+      <project id="enzyme-example-mocha" values="not installed" collectionTime="1457610451993" />
+      <project id="react-element-resize-detector" values="not installed" collectionTime="1459526775940" />
+      <project id="stylelint-config-wildbit" values="not installed" collectionTime="1452776377919" />
+      <project id="metalsmith-remote-json-to-files" values="not installed" collectionTime="1458913758562" />
+      <project id="electron-plex" values="not installed" collectionTime="1453989338535" />
+      <project id="metalsmith-webpack" values="not installed" collectionTime="1455276794281" />
+      <project id="react-boilerplate" values="not installed" collectionTime="1457714805468" />
+      <project id="babel-preset-es2015-loose-native-modules" values="not installed" collectionTime="1458221245729" />
+      <project id="beanstalk" values="not installed" collectionTime="1452771479085" />
+      <project id="metalsmith-webpack-dev-server" values="not installed" collectionTime="1455792750577" />
+      <project id="lint-2016" values="not installed" collectionTime="1453989311034" />
+      <project id="website" values="not installed" collectionTime="1459499825656" />
+    </group>
+    <group name="vcs">
+      <project id="react-dropzone" values="Git" collectionTime="1452610477872" />
+      <project id="demo" values="Git" collectionTime="1444420722049" />
+      <project id="website" values="Git" collectionTime="1459499825256" />
+      <project id="beanstalk" values="Git" collectionTime="1452771478986" />
+      <project id="babel-jscs" values="Git" collectionTime="1434814883771" />
+      <project id="webpack-css-commons" values="Git" collectionTime="1439556368570" />
+      <project id="barista-web" values="Git" collectionTime="1432470950831" />
+      <project id="deploybot-app" values="Git" collectionTime="1445958227195" />
+      <project id="metalsmith-webpack" values="Git" collectionTime="1455276793974" />
+      <project id="wallaby-webpack-es7" values="Git" collectionTime="1435822036057" />
+      <project id="kaffemik-carousel" values="Git" collectionTime="1432412784042" />
+      <project id="beta-os-x" values="Git" collectionTime="1450348347275" />
+      <project id="plex-music-client" values="Git" collectionTime="1452006242876" />
+      <project id="adverity" values="Git" collectionTime="1459334176516" />
+      <project id="eslint-config-wildbit" values="Git" collectionTime="1459526775877" />
+      <project id="angular1.4-ES6-material-webpack-boilerplate" values="Git" collectionTime="1439547363170" />
+      <project id="metalsmith-remote-json-to-files" values="Git" collectionTime="1458913758525" />
+      <project id="flummox" values="Git" collectionTime="1445867809413" />
+      <project id="attr-accept" values="Git" collectionTime="1446712961993" />
+      <project id="webpack-long-term-cache-demo" values="Git" collectionTime="1436693438291" />
+      <project id="react-playground" values="Git" collectionTime="1450699550587" />
+      <project id="js-codemods" values="Git" collectionTime="1447439878773" />
+      <project id="postmark-status-craft" values="Git" collectionTime="1457624015496" />
+      <project id="beta-prototype" values="Git" collectionTime="1456165750029" />
+      <project id="postcss.org" values="Git" collectionTime="1456167820669" />
+      <project id="stylelint-config-wildbit" values="Git" collectionTime="1452776377745" />
+      <project id="beta-web" values="Git" collectionTime="1454354765804" />
+      <project id="relay-treasurehunt" values="Git" collectionTime="1447439883056" />
+      <project id="react-absolute-grid" values="Git" collectionTime="1448964851704" />
+      <project id="postmark-status" values="Git" collectionTime="1459526775798" />
+      <project id="lint-staged" values="Git" collectionTime="1453989340840" />
+      <project id="okonet.github.com" values="Git" collectionTime="1452504138501" />
+      <project id="enzyme-example-mocha" values="Git" collectionTime="1457610451976" />
+      <project id="metalsmith-webpack-dev-server" values="Git" collectionTime="1455792750526" />
+      <project id="node-ffmetadata" values="Git" collectionTime="1452006242849" />
+      <project id="react-transform-boilerplate" values="Git" collectionTime="1444402268569" />
+      <project id="babel-preset-es2015-loose-native-modules" values="Git" collectionTime="1458221245630" />
+      <project id="danielamulle.at" values="Git" collectionTime="1442220528159" />
+      <project id="react-sparklines" values="Git" collectionTime="1443107003608" />
+      <project id="okonet.ru" values="Git" collectionTime="1452504143455" />
+      <project id="react-easy-style" values="Git" collectionTime="1445963039157" />
+      <project id="victory-bar" values="Git" collectionTime="1455737455637" />
+      <project id="postmark-craft" values="Git" collectionTime="1452767570807" />
+      <project id="kaffeemik-website" values="Git" collectionTime="1432408591147" />
+      <project id="ngReact" values="Git" collectionTime="1439547359304" />
+      <project id="express-api-helper" values="Git" collectionTime="1458913762207" />
+      <project id="fifteens" values="Git" collectionTime="1450114919312" />
+      <project id="react-element-resize-detector" values="Git" collectionTime="1459526775898" />
+      <project id="react-boilerplate" values="Git" collectionTime="1457714805028" />
+      <project id="electron-plex" values="Git" collectionTime="1453989338508" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="adverity" values="GrailsRunConfigurationType,JavascriptDebugType,wallaby" collectionTime="1459334176516" />
+      <project id="ColorSnapperIdeaPlugin" values="#org.jetbrains.idea.devkit.run.PluginConfigurationType" collectionTime="1437732584008" />
+      <project id="wallaby-webpack-es7" values="wallaby" collectionTime="1435822036059" />
+      <project id="fifteens" values="wallaby" collectionTime="1450114919312" />
+      <project id="metalsmith-remote-json-to-files" values="wallaby" collectionTime="1458913758525" />
+      <project id="postmark-status" values="wallaby" collectionTime="1459526775801" />
+      <project id="react-sparklines" values="wallaby" collectionTime="1443107003608" />
+      <project id="rivus" values="JUnit,Application,Remote,Unknown" collectionTime="1445507494377" />
+      <project id="frontend-pairing-test-master" values="wallaby" collectionTime="1435049404989" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="frontend-pairing-test-master" values="NodeJSConfigurationType" collectionTime="1435049404989" />
+      <project id="attr-accept" values="NodeJSConfigurationType" collectionTime="1446712961993" />
+    </group>
+    <group name="file-type">
+      <project id="react-absolute-grid" values="JavaScript,HTML,JSON,UNKNOWN,JSX Harmony,IDEA_MODULE,XML,CSS,ESLint,PLAIN_TEXT,Markdown,Git file" collectionTime="1448964851852" />
+      <project id="client" values="JavaScript,IDEA_MODULE,PLAIN_TEXT,UNKNOWN,XML,JSON,Jade" collectionTime="1450119901673" />
+      <project id="demo" values="IDEA_MODULE,XML,PLAIN_TEXT,Markdown,JSON,Git file,UNKNOWN,JavaScript,ESLint,HTML" collectionTime="1444420722081" />
+      <project id="website" values="HTML,JSON,Git file,Images,UNKNOWN,CSS,IDEA_MODULE,SCSS,Markdown,JavaScript,XML,PLAIN_TEXT,Native" collectionTime="1459499825398" />
+      <project id="beanstalk" values="Kotlin,XHTML,RHTML,SCSS,Images,C++,Handlebars/Mustache,Bash,ARCHIVE,XML,DTD,JSHint,PLAIN_TEXT,PATCH,ActionScript,CoffeeScript,JAVA,C#,Slim,TypeScript,Git file,UNKNOWN,JavaScript,JSP,HTML,JSON,Haskell,RXML,YAML,PHP,IDEA_MODULE,Erlang,Groovy,SourceMap,CSS,Properties,SmartyConfig,Ruby,Markdown" collectionTime="1452771479019" />
+      <project id="babel-jscs" values="ESLint,Git file,YAML,IDEA_MODULE,Markdown,XML,PLAIN_TEXT,UNKNOWN,JavaScript,JSCS,Npm file,JSON" collectionTime="1434814883804" />
+      <project id="webpack-css-commons" values="Git file,CSS,JavaScript,UNKNOWN,JSON,PLAIN_TEXT,XML,IDEA_MODULE" collectionTime="1439556368705" />
+      <project id="okonet.ru" values="Ruby,IDEA_MODULE,UNKNOWN,PLAIN_TEXT,HTML,HAML,Git file,Images,XML,SCSS" collectionTime="1452504143466" />
+      <project id="id3fixer" values="IDEA_MODULE,Markdown,Bash,PLAIN_TEXT,C++,Ruby,Images,UNKNOWN,JSON,ESLint,JSCS,JavaScript,YAML,XML,Npm file" collectionTime="1452006242838" />
+      <project id="barista-web" values="RHTML,XML,UNKNOWN,PLAIN_TEXT,Ruby,IDEA_MODULE,SQL" collectionTime="1432470950837" />
+      <project id="deploybot-app" values="CSS,Bash,Ruby,Images,YAML,RHTML,XML,JSON,SourceMap,HTML,IDEA_MODULE,SQL,JavaScript,Markdown,SCSS,ARCHIVE,PLAIN_TEXT,Git file,UNKNOWN,RXML,JSHint" collectionTime="1445958227239" />
+      <project id="metalsmith-remote" values="XML,UNKNOWN" collectionTime="1455795785402" />
+      <project id="metalsmith-webpack" values="IDEA_MODULE,Git file,HTML,Bash,Images,Jade,JSON,CSS,CoffeeScript,Handlebars/Mustache,JavaScript,ARCHIVE,YAML,SmartyConfig,PATCH,UNKNOWN,Ignore file,Npm file,SourceMap,JSCS,XML,PLAIN_TEXT,C++,Markdown,JSHint file,JSHint,ESLint,JAVA" collectionTime="1455276794026" />
+      <project id="wallaby-webpack-es7" values="PLAIN_TEXT,Markdown,IDEA_MODULE,Git file,JavaScript,XML,UNKNOWN,JSON" collectionTime="1435822036111" />
+      <project id="kaffemik-carousel" values="Ruby,Git file,JavaScript,SCSS,Markdown,Images,CSS,RHTML,UNKNOWN,YAML,XML,IDEA_MODULE,HTML,PLAIN_TEXT" collectionTime="1432412784045" />
+      <project id="diff" values="JSON,Handlebars/Mustache,JavaScript,IDEA_MODULE,PLAIN_TEXT,XML,SCSS,UNKNOWN" collectionTime="1449484641106" />
+      <project id="plex-music-client" values="Bash,HTML,PATCH,UNKNOWN,XML,PLAIN_TEXT,JSON,YAML,Handlebars/Mustache,CoffeeScript,Npm file,Git file,CSS,C++,JSHint file,Images,JSCS,JSHint,Markdown,JavaScript,SourceMap,ESLint" collectionTime="1452006242895" />
+      <project id="adverity" values="Properties,JAVA,SQL,Ignore file,Npm file,ESLint,DATASOURCE_STORAGE,Groovy,JSON,Bash,Markdown,Native,Images,IDEA_MODULE,Docker file,SQLite Database,JSHint file,PATCH,CSS,HTML,Manifest,SourceMap,XML,CoffeeScript,TypeScript,YAML,Less,ARCHIVE,UNKNOWN,CLASS,PLAIN_TEXT,Git file,JSHint,GSP,JavaScript,SCSS,JSCS,C++,SmartyConfig" collectionTime="1459334176705" />
+      <project id="web-app" values="Bash,Git file,Handlebars/Mustache,C++,SmartyConfig,PLAIN_TEXT,JSON,Less,XML,SCSS,Groovy,CoffeeScript,HTML,ESLint,Markdown,JSX Harmony,Native,UNKNOWN,IDEA_MODULE,CSS,Ignore file,JavaScript,ARCHIVE,Jade,JSHint,YAML,JSHint file,SourceMap,TypeScript,SQLite Database,PATCH,Npm file,JSCS,Images" collectionTime="1457433273048" />
+      <project id="eslint-config-wildbit" values="IDEA_MODULE,Images,JSON,Bash,ESLint,PLAIN_TEXT,JSHint file,Npm file,Markdown,Git file,JSHint,UNKNOWN,SourceMap,CoffeeScript,PATCH,XML,C++,JavaScript,CSS,Handlebars/Mustache,YAML,HTML" collectionTime="1459526775896" />
+      <project id="ColorSnapperIdeaPlugin" values="IDEA_MODULE,XML,JAVA,UNKNOWN,PLAIN_TEXT" collectionTime="1437732584254" />
+      <project id="metalsmith-remote-json-to-files" values="Images,CoffeeScript,PLAIN_TEXT,Handlebars/Mustache,IDEA_MODULE,JavaScript,Bash,CSS,SmartyConfig,XML,Markdown,C++,Jade,PATCH,SourceMap,JSON,HTML,UNKNOWN,JSHint,JSCS,Git file,Npm file,ESLint,YAML,Ignore file" collectionTime="1458913758552" />
+      <project id="beta-web" values="RHTML,Bash,ESLint,YAML,HTML,Markdown,Git file,Images,IDEA_MODULE,UNKNOWN,SCSS,XML,JavaScript,PLAIN_TEXT,JSON,Less,Ruby,SmartyConfig" collectionTime="1454354765935" />
+      <project id="webpack-long-term-cache-demo" values="Git file,IDEA_MODULE,Markdown,JSON,PLAIN_TEXT,JavaScript,UNKNOWN,XML" collectionTime="1436693438295" />
+      <project id="flummox" values="Git file,CSS,JSON,ESLint,Npm file,XML,PLAIN_TEXT,UNKNOWN,HTML,IDEA_MODULE,JavaScript,YAML,SCSS,Markdown" collectionTime="1445867809473" />
+      <project id="js-codemods" values="UNKNOWN,Git file,XML,PLAIN_TEXT,JavaScript,Markdown,IDEA_MODULE" collectionTime="1447439878813" />
+      <project id="postmark-status-craft" values="PLAIN_TEXT,XML,HTML,PHP,JSON,Git file,UNKNOWN,IDEA_MODULE" collectionTime="1457624015533" />
+      <project id="beta-prototype" values="Markdown,CSS,ESLint,XML,PLAIN_TEXT,HTML,Bash,JavaScript,JSON,SCSS,Images,IDEA_MODULE,UNKNOWN,Git file" collectionTime="1456165750087" />
+      <project id="postcss.org" values="Handlebars/Mustache,ESLint,UNKNOWN,JavaScript,Markdown,SourceMap,Git file,Ignore file,CSS,HTML,PATCH,JSHint file,C++,IDEA_MODULE,TypeScript,PLAIN_TEXT,JSHint,JSCS,Less,SmartyConfig,JSON,XML,CoffeeScript,Npm file,Images,YAML,Bash,SQLite Database,JSX Harmony" collectionTime="1456167821115" />
+      <project id="stylelint-config-wildbit" values="PLAIN_TEXT,YAML,Markdown,JSON,JSHint,CoffeeScript,SourceMap,JavaScript,JSCS,SCSS,HTML,IDEA_MODULE,Git file,CSS,UNKNOWN,Bash,ESLint,TypeScript,Npm file,XML" collectionTime="1452776377794" />
+      <project id="react-playground" values="Sass,HTML,RHTML,RDOC,JSHint file,Ruby,JSHint,Slim,Jade,CoffeeScript,JSX Harmony,Ignore file,JavaScript,IDEA_MODULE,C++,JAVA,Images,JSON,PATCH,Bash,UNKNOWN,SCSS,ARCHIVE,PLAIN_TEXT,SourceMap,Handlebars/Mustache,YAML,JSCS,Git file,TypeScript,Npm file,ESLint,CSS,XML,Markdown" collectionTime="1450699550600" />
+      <project id="relay-treasurehunt" values="Markdown,Git file,IDEA_MODULE,PLAIN_TEXT,JavaScript,UNKNOWN,HTML,JSON,XML" collectionTime="1447439883103" />
+      <project id="ngReact" values="ESLint,JSCS,JSHint file,ARCHIVE,JSHint,IDEA_MODULE,Ruby,Images,YAML,Npm file,Markdown,PATCH,SCSS,SourceMap,Handlebars/Mustache,HTML,Git file,UNKNOWN,XML,C++,JSON,JavaScript,PLAIN_TEXT,CoffeeScript,CSS" collectionTime="1439547359318" />
+      <project id="postmark-status" values="Git file,HTML,SCSS,JSON,XML,JavaScript,IDEA_MODULE,PLAIN_TEXT,UNKNOWN,Images" collectionTime="1459526775834" />
+      <project id="lint-staged" values="CoffeeScript,JSCS,Npm file,PLAIN_TEXT,Markdown,Bash,Handlebars/Mustache,ESLint,IDEA_MODULE,Git file,JSHint,XML,JavaScript,CSS,UNKNOWN,HTML,SourceMap,JSON,TypeScript,PATCH,YAML" collectionTime="1453989340847" />
+      <project id="angular1.4-ES6-material-webpack-boilerplate" values="UNKNOWN,SCSS,JavaScript,Markdown,PLAIN_TEXT,IDEA_MODULE,JSON,HTML,Git file,XML" collectionTime="1439547363181" />
+      <project id="enzyme-example-mocha" values="Images,HTML,JSX Harmony,CSS,IDEA_MODULE,JavaScript,SmartyConfig,UNKNOWN,JSON,Git file,IDL,ESLint,PATCH,Jade,YAML,Markdown,CoffeeScript,JSCS,PLAIN_TEXT,JSHint,SourceMap,Bash,Npm file,XML,C++" collectionTime="1457610451988" />
+      <project id="react-boilerplate" values="CSS,PLAIN_TEXT,Bash,IDEA_MODULE,TypeScript,YAML,UNKNOWN,Ignore file,SmartyConfig,JSX Harmony,CoffeeScript,Jade,Native,Less,Stylus,SCSS,Images,Sass,ESLint,HTML,SourceMap,Markdown,PATCH,JSON,ActionScript,JSHint,JSCS,C++,JavaScript,Npm file,Handlebars/Mustache,XML,JSHint file,Git file" collectionTime="1457714805142" />
+      <project id="rivus" values="Manifest,UNKNOWN,YAML,Kotlin,JSON,Git file,HTML,JavaScript,C#,JSP,CoffeeScript,JAVA,Npm file,CSS,SourceMap,Properties,Handlebars/Mustache,Markdown,Native,PLAIN_TEXT,RHTML,SCSS,CLASS,Less,ARCHIVE,Images,Ruby,IDEA_MODULE,C++,XML,Bash,JSHint,DTD,Perl" collectionTime="1445507494404" />
+      <project id="ColorSnapper Idea Plugin" values="PLAIN_TEXT,XML,IDEA_MODULE,UNKNOWN" collectionTime="1436693436346" />
+      <project id="node-ffmetadata" values="PLAIN_TEXT,Git file,UNKNOWN,C++,IDEA_MODULE,JSON,YAML,Images,XML,HTML,Npm file,Markdown,JavaScript,Bash" collectionTime="1452006242871" />
+      <project id="react-dropzone" values="SourceMap,Ignore file,CoffeeScript,JSCS,Handlebars/Mustache,IDEA_MODULE,ESLint,JSHint,Bash,HTML,JSON,Images,C++,Git file,CSS,Jade,PATCH,XML,Markdown,JavaScript,YAML,UNKNOWN,Npm file,JSX Harmony,PLAIN_TEXT" collectionTime="1452610477934" />
+      <project id="react-transform-boilerplate" values="Git file,XML,UNKNOWN,Markdown,ESLint,JavaScript,PLAIN_TEXT,JSON,IDEA_MODULE,HTML" collectionTime="1444402268597" />
+      <project id="babel-preset-es2015-loose-native-modules" values="Git file,UNKNOWN,JSON,IDEA_MODULE,JavaScript,Markdown,PLAIN_TEXT,SourceMap,CSS,Npm file,CoffeeScript,YAML,XML,HTML,JSHint" collectionTime="1458221245682" />
+      <project id="metalsmith-webpack-dev-server" values="ESLint,JavaScript,C++,XML,Markdown,Bash,Ignore file,Jade,Handlebars/Mustache,HTML,PLAIN_TEXT,JSCS,CoffeeScript,YAML,JSHint,SmartyConfig,PATCH,SourceMap,JSON,Npm file,Images,Git file,IDEA_MODULE,UNKNOWN,CSS" collectionTime="1455792750555" />
+      <project id="danielamulle.at" values="Git file,SQLite Database,Images,PLAIN_TEXT,UNKNOWN,CSS,JavaScript,JSON,IDEA_MODULE,XML,HTML,SCSS" collectionTime="1442220528242" />
+      <project id="react-sparklines" values="Markdown,PLAIN_TEXT,UNKNOWN,JSON,XML,HTML,Npm file,Git file,JavaScript,IDEA_MODULE" collectionTime="1443107003641" />
+      <project id="webui" values="SourceMap,JSON,CoffeeScript,YAML,SCSS,Npm file,Markdown,JSHint,Handlebars/Mustache,RHTML,Bash,Images,Ruby,PLAIN_TEXT,Perl,IDEA_MODULE,Kotlin,Less,XML,Git file,HTML,JavaScript,UNKNOWN,Native,CSS" collectionTime="1449160284793" />
+      <project id="beta-os-x" values="PLAIN_TEXT,UNKNOWN,HTML,Images,IDEA_MODULE,Native,JavaScript,XML,Markdown,C++,Git file,ESLint,Bash,JSON" collectionTime="1450348347297" />
+      <project id="react-easy-style" values="XML,IDEA_MODULE,JavaScript,Npm file,Markdown,JSON,PLAIN_TEXT,Git file,UNKNOWN" collectionTime="1445963039208" />
+      <project id="victory-bar" values="JSHint,Git file,JSON,SourceMap,ARCHIVE,C++,Npm file,JSHint file,HTML,PATCH,Native,Images,Ignore file,Jade,Bash,IDEA_MODULE,CoffeeScript,YAML,JSCS,JavaScript,ESLint,XML,UNKNOWN,Markdown,SmartyConfig,Handlebars/Mustache,CSS,JSX Harmony,PLAIN_TEXT" collectionTime="1455737455749" />
+      <project id="postmark-craft" values="Images,JavaScript,UNKNOWN,SourceMap,Git file,PHP,SmartyConfig,Handlebars/Mustache,TypeScript,ESLint,SCSS,Twig,JSON,Markdown,Bash,JSHint,IDEA_MODULE,C++,YAML,CSS,JSHint file,JSCS,Ruby,PATCH,CoffeeScript,PLAIN_TEXT,Npm file,HTML,XML" collectionTime="1452767570995" />
+      <project id="lint-2016" values="ESLint,PATCH,XML,Ignore file,JSHint,UNKNOWN,Npm file,Markdown,JavaScript,Images,IDEA_MODULE,PLAIN_TEXT,TypeScript,YAML,CoffeeScript,JSX Harmony,HTML,JSHint file,SmartyConfig,C++,JSON,Handlebars/Mustache,CSS,SourceMap,Bash,JSCS" collectionTime="1453989311018" />
+      <project id="kaffeemik-website" values="IDEA_MODULE,CSS,Git file,HTML,XML,PLAIN_TEXT,UNKNOWN" collectionTime="1432408591163" />
+      <project id="attr-accept" values="PLAIN_TEXT,Git file,UNKNOWN,JavaScript,ESLint,Markdown,Npm file,YAML,XML,JSON,IDEA_MODULE" collectionTime="1446712962022" />
+      <project id="express-api-helper" values="PLAIN_TEXT,IDEA_MODULE,JSON,Git file,XML,Npm file,Markdown,JavaScript,UNKNOWN,YAML" collectionTime="1458913762215" />
+      <project id="fifteens" values="Git file,Bash,JSON,JavaScript,Images,XML,HTML,IDEA_MODULE,PLAIN_TEXT,ESLint,UNKNOWN,SCSS,CoffeeScript" collectionTime="1450114919343" />
+      <project id="react-element-resize-detector" values="JSHint,XML,JSCS,SourceMap,Images,Bash,Ignore file,YAML,C++,Jade,Markdown,PATCH,Docker file,ESLint,PLAIN_TEXT,Git file,JavaScript,CSS,CoffeeScript,Handlebars/Mustache,HTML,IDEA_MODULE,SmartyConfig,Npm file,TypeScript,JSON,UNKNOWN" collectionTime="1459526775921" />
+      <project id="frontend-pairing-test-master" values="JSHint file,Git file,SourceMap,JSON,JSCS,XML,ESLint,PATCH,JavaScript,Npm file,Markdown,C++,CSS,IDEA_MODULE,PLAIN_TEXT,Handlebars/Mustache,HTML,YAML,Images,JSHint,UNKNOWN,CoffeeScript" collectionTime="1435049405035" />
+      <project id="okonet.github.com" values="Ruby,JSON,HTML,CSS,IDEA_MODULE,Git file,XML,HAML,PLAIN_TEXT,UNKNOWN,YAML,Images,SCSS" collectionTime="1452504138620" />
+      <project id="electron-plex" values="PATCH,CoffeeScript,Npm file,JSHint file,Images,CSS,SmartyConfig,JSHint,ESLint,HTML,SourceMap,XML,Git file,YAML,UNKNOWN,JSON,Bash,PLAIN_TEXT,IDEA_MODULE,Markdown,C++,Handlebars/Mustache,JavaScript" collectionTime="1453989338534" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="react-absolute-grid" values="Project,Directory,Project,Project" collectionTime="1448964852163" />
+      <project id="client" values="Project,Project,Project" collectionTime="1450119901845" />
+      <project id="demo" values="Project,Project,Directory,Project" collectionTime="1444420722114" />
+      <project id="website" values="Project,Project,Directory,Project" collectionTime="1459499825649" />
+      <project id="beanstalk" values="Project,Project,Project,Directory" collectionTime="1452771479085" />
+      <project id="babel-jscs" values="Project,Directory,Project" collectionTime="1434814883818" />
+      <project id="webpack-css-commons" values="Project,Directory,Project,Project" collectionTime="1439556368887" />
+      <project id="okonet.ru" values="Project,Project,Project" collectionTime="1452504143474" />
+      <project id="id3fixer" values="Project,Project,Project" collectionTime="1452006242846" />
+      <project id="barista-web" values="Project,Project" collectionTime="1432470950847" />
+      <project id="deploybot-app" values="Project,Project,Project" collectionTime="1445958227251" />
+      <project id="metalsmith-remote" values="Project,Project,Project" collectionTime="1455795785405" />
+      <project id="metalsmith-webpack" values="Project,Project,Project" collectionTime="1455276794271" />
+      <project id="wallaby-webpack-es7" values="Directory,Project,Project,Project" collectionTime="1435822036539" />
+      <project id="kaffemik-carousel" values="Project,Project" collectionTime="1432412784049" />
+      <project id="diff" values="Project,Project,Project" collectionTime="1449484641107" />
+      <project id="plex-music-client" values="Project,Project,Project" collectionTime="1452006242982" />
+      <project id="adverity" values="Project,Project,Project,Project,Project" collectionTime="1459334176748" />
+      <project id="web-app" values="Project,Project,Project" collectionTime="1457433273169" />
+      <project id="eslint-config-wildbit" values="Project,Project,Project" collectionTime="1459526775897" />
+      <project id="ColorSnapperIdeaPlugin" values="Project,Project" collectionTime="1437732584591" />
+      <project id="metalsmith-remote-json-to-files" values="Project,Project,Project" collectionTime="1458913758561" />
+      <project id="beta-web" values="Project,Project,Project,Directory" collectionTime="1454354765980" />
+      <project id="webpack-long-term-cache-demo" values="Directory,Project,Project" collectionTime="1436693438296" />
+      <project id="flummox" values="Project,Project,Directory,Project" collectionTime="1445867809490" />
+      <project id="js-codemods" values="Project,Project,Project" collectionTime="1447439878995" />
+      <project id="postmark-status-craft" values="Project,Project,Project" collectionTime="1457624015587" />
+      <project id="beta-prototype" values="Project,Project,Project" collectionTime="1456165750118" />
+      <project id="postcss.org" values="Project,Project,Project" collectionTime="1456167821387" />
+      <project id="stylelint-config-wildbit" values="Project,Project,Project" collectionTime="1452776377918" />
+      <project id="react-playground" values="Project,Project,Project,Directory" collectionTime="1450699550602" />
+      <project id="relay-treasurehunt" values="Project,Project,Directory,Project" collectionTime="1447439883119" />
+      <project id="ngReact" values="Project,Project,Project" collectionTime="1439547359325" />
+      <project id="postmark-status" values="Project,Project,Project" collectionTime="1459526775874" />
+      <project id="lint-staged" values="Project,Project,Project" collectionTime="1453989340848" />
+      <project id="angular1.4-ES6-material-webpack-boilerplate" values="Directory,Project,Project,Project" collectionTime="1439547363181" />
+      <project id="enzyme-example-mocha" values="Project,Project,Project" collectionTime="1457610451991" />
+      <project id="react-boilerplate" values="Project,Project,Project" collectionTime="1457714805463" />
+      <project id="rivus" values="Project,Project" collectionTime="1445507494447" />
+      <project id="ColorSnapper Idea Plugin" values="Project,Project" collectionTime="1436693436348" />
+      <project id="node-ffmetadata" values="Project,Project,Project" collectionTime="1452006242875" />
+      <project id="react-dropzone" values="Project,Project,Project" collectionTime="1452610477992" />
+      <project id="react-transform-boilerplate" values="Project,Project,Directory,Project" collectionTime="1444402268860" />
+      <project id="babel-preset-es2015-loose-native-modules" values="Project,Project,Project" collectionTime="1458221245729" />
+      <project id="metalsmith-webpack-dev-server" values="Project,Project,Project" collectionTime="1455792750576" />
+      <project id="danielamulle.at" values="Directory,Project,Project" collectionTime="1442220528372" />
+      <project id="react-sparklines" values="Project,Directory,Project,Project" collectionTime="1443107003667" />
+      <project id="webui" values="Project,Project,Project,Directory" collectionTime="1449160284821" />
+      <project id="beta-os-x" values="Project,Project,Directory,Project" collectionTime="1450348347560" />
+      <project id="react-easy-style" values="Directory,Project,Project,Project" collectionTime="1445963039223" />
+      <project id="victory-bar" values="Project,Project,Project" collectionTime="1455737455885" />
+      <project id="postmark-craft" values="Project,Project,Project" collectionTime="1452767571985" />
+      <project id="lint-2016" values="Project,Project,Project" collectionTime="1453989311033" />
+      <project id="kaffeemik-website" values="Project,Project" collectionTime="1432408591338" />
+      <project id="attr-accept" values="Project,Project,Project,Directory" collectionTime="1446712962028" />
+      <project id="express-api-helper" values="Project,Project,Project" collectionTime="1458913762218" />
+      <project id="fifteens" values="Project,Directory,Project,Project" collectionTime="1450114919348" />
+      <project id="react-element-resize-detector" values="Project,Project,Project" collectionTime="1459526775940" />
+      <project id="frontend-pairing-test-master" values="Project,Project" collectionTime="1435049405054" />
+      <project id="okonet.github.com" values="Project,Project" collectionTime="1452504138743" />
+      <project id="electron-plex" values="Project,Project,Project" collectionTime="1453989338535" />
+    </group>
+    <group name="jdbc-datasource">
+      <project id="adverity" values="PostgreSQL/9.3.5" collectionTime="1459334176748" />
+    </group>
+    <group name="spring">
+      <project id="rivus" values="fileset_configFiles5,fileset_xmlContext,fileset_configFiles5,fileset_xmlContext" collectionTime="1445507494458" />
+      <project id="adverity" values="fileset_configFiles5,fileset_xmlContext" collectionTime="1459334176759" />
+    </group>
+    <group name="module type">
+      <project id="react-playground" values="JAVA_MODULE" collectionTime="1450699550587" />
+      <project id="client" values="JAVA_MODULE" collectionTime="1450119901663" />
+      <project id="demo" values="JAVA_MODULE" collectionTime="1444420722049" />
+      <project id="website" values="JAVA_MODULE" collectionTime="1459499825257" />
+      <project id="beanstalk" values="JAVA_MODULE" collectionTime="1452771478988" />
+      <project id="babel-jscs" values="JAVA_MODULE" collectionTime="1434814883771" />
+      <project id="webpack-css-commons" values="JAVA_MODULE" collectionTime="1439556368571" />
+      <project id="okonet.ru" values="JAVA_MODULE" collectionTime="1452504143455" />
+      <project id="id3fixer" values="JAVA_MODULE" collectionTime="1452006242788" />
+      <project id="barista-web" values="JAVA_MODULE" collectionTime="1432470950831" />
+      <project id="deploybot-app" values="JAVA_MODULE" collectionTime="1445958227195" />
+      <project id="metalsmith-remote" values="JAVA_MODULE" collectionTime="1455795785363" />
+      <project id="metalsmith-webpack" values="JAVA_MODULE" collectionTime="1455276793975" />
+      <project id="wallaby-webpack-es7" values="JAVA_MODULE" collectionTime="1435822036058" />
+      <project id="react-boilerplate" values="JAVA_MODULE" collectionTime="1457714805028" />
+      <project id="diff" values="JAVA_MODULE" collectionTime="1449484641092" />
+      <project id="plex-music-client" values="JAVA_MODULE" collectionTime="1452006242876" />
+      <project id="adverity" values="JAVA_MODULE,WEB_MODULE" collectionTime="1459334176516" />
+      <project id="web-app" values="JAVA_MODULE" collectionTime="1457433272894" />
+      <project id="eslint-config-wildbit" values="JAVA_MODULE" collectionTime="1459526775877" />
+      <project id="ColorSnapperIdeaPlugin" values="PLUGIN_MODULE" collectionTime="1437732584007" />
+      <project id="metalsmith-remote-json-to-files" values="JAVA_MODULE" collectionTime="1458913758525" />
+      <project id="react-absolute-grid" values="JAVA_MODULE" collectionTime="1448964851705" />
+      <project id="webpack-long-term-cache-demo" values="JAVA_MODULE" collectionTime="1436693438291" />
+      <project id="flummox" values="JAVA_MODULE" collectionTime="1445867809413" />
+      <project id="js-codemods" values="JAVA_MODULE" collectionTime="1447439878774" />
+      <project id="postmark-status-craft" values="JAVA_MODULE" collectionTime="1457624015496" />
+      <project id="beta-prototype" values="JAVA_MODULE" collectionTime="1456165750029" />
+      <project id="postcss.org" values="JAVA_MODULE" collectionTime="1456167820671" />
+      <project id="stylelint-config-wildbit" values="JAVA_MODULE" collectionTime="1452776377746" />
+      <project id="beta-web" values="JAVA_MODULE" collectionTime="1454354765806" />
+      <project id="relay-treasurehunt" values="JAVA_MODULE" collectionTime="1447439883056" />
+      <project id="ngReact" values="JAVA_MODULE" collectionTime="1439547359305" />
+      <project id="postmark-status" values="JAVA_MODULE" collectionTime="1459526775798" />
+      <project id="lint-staged" values="JAVA_MODULE" collectionTime="1453989340840" />
+      <project id="express-api-helper" values="JAVA_MODULE" collectionTime="1458913762207" />
+      <project id="kaffemik-carousel" values="JAVA_MODULE" collectionTime="1432412784042" />
+      <project id="enzyme-example-mocha" values="JAVA_MODULE" collectionTime="1457610451976" />
+      <project id="ColorSnapper Idea Plugin" values="JAVA_MODULE" collectionTime="1436693436244" />
+      <project id="rivus" values="JAVA_MODULE" collectionTime="1445507494376" />
+      <project id="node-ffmetadata" values="JAVA_MODULE" collectionTime="1452006242851" />
+      <project id="react-dropzone" values="JAVA_MODULE" collectionTime="1452610477872" />
+      <project id="react-transform-boilerplate" values="JAVA_MODULE" collectionTime="1444402268570" />
+      <project id="babel-preset-es2015-loose-native-modules" values="JAVA_MODULE" collectionTime="1458221245630" />
+      <project id="angular1.4-ES6-material-webpack-boilerplate" values="JAVA_MODULE" collectionTime="1439547363170" />
+      <project id="danielamulle.at" values="JAVA_MODULE" collectionTime="1442220528159" />
+      <project id="react-sparklines" values="JAVA_MODULE" collectionTime="1443107003608" />
+      <project id="webui" values="JAVA_MODULE" collectionTime="1449160284735" />
+      <project id="beta-os-x" values="JAVA_MODULE" collectionTime="1450348347275" />
+      <project id="react-easy-style" values="JAVA_MODULE" collectionTime="1445963039157" />
+      <project id="metalsmith-webpack-dev-server" values="JAVA_MODULE" collectionTime="1455792750526" />
+      <project id="postmark-craft" values="JAVA_MODULE" collectionTime="1452767570812" />
+      <project id="lint-2016" values="JAVA_MODULE" collectionTime="1453989310988" />
+      <project id="victory-bar" values="JAVA_MODULE" collectionTime="1455737455641" />
+      <project id="attr-accept" values="JAVA_MODULE" collectionTime="1446712961993" />
+      <project id="kaffeemik-website" values="JAVA_MODULE" collectionTime="1432408591148" />
+      <project id="fifteens" values="JAVA_MODULE" collectionTime="1450114919312" />
+      <project id="react-element-resize-detector" values="JAVA_MODULE" collectionTime="1459526775898" />
+      <project id="frontend-pairing-test-master" values="JAVA_MODULE" collectionTime="1435049404988" />
+      <project id="okonet.github.com" values="JAVA_MODULE" collectionTime="1452504138503" />
+      <project id="electron-plex" values="JAVA_MODULE" collectionTime="1453989338508" />
+    </group>
+    <group name="Git">
+      <project id="client" values="config.warn.about.crlf.enabled,config.ssh.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled" collectionTime="1450119901696" />
+      <project id="react-dropzone" values="config.force.push.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.warn.about.detached.enabled,data.remote.branches.count.2+,config.warn.about.crlf.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,data.local.branches.count.2+,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,data.remotes.in.project.1" collectionTime="1452610477980" />
+      <project id="okonet.github.com" values="config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,data.remotes.in.project.1,config.push.autoupdate.disabled,config.ssh.enabled,data.remote.branches.count.1,config.repo.sync.NOT_DECIDED,data.local.branches.count.1,config.save.policy.STASH" collectionTime="1452504138632" />
+      <project id="website" values="config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,data.remote.branches.count.8+,config.ssh.enabled,config.warn.about.detached.enabled,data.local.branches.count.8+,config.save.policy.STASH,data.remotes.in.project.2+" collectionTime="1459499825451" />
+      <project id="beanstalk" values="data.remotes.in.project.1,config.force.push.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,data.remote.branches.count.15+,data.local.branches.count.2+,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1452771479062" />
+      <project id="id3fixer" values="config.push.autoupdate.disabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH" collectionTime="1452006242845" />
+      <project id="metalsmith-remote" values="config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.push.autoupdate.disabled" collectionTime="1455795785405" />
+      <project id="metalsmith-webpack" values="config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,data.local.branches.count.1,config.warn.about.detached.enabled,data.remote.branches.count.1,config.save.policy.STASH,config.push.update.all.roots.enabled,config.force.push.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.autoupdate.disabled" collectionTime="1455276794102" />
+      <project id="postmark-craft" values="config.save.policy.STASH,config.push.autoupdate.disabled,config.force.push.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,data.local.branches.count.1,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,data.remotes.in.project.1,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.1" collectionTime="1452767571162" />
+      <project id="react-boilerplate" values="config.ssh.enabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.5+,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,data.local.branches.count.2+" collectionTime="1457714805249" />
+      <project id="diff" values="config.warn.about.detached.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.force.push.enabled" collectionTime="1449484641107" />
+      <project id="plex-music-client" values="config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,data.remotes.in.project.1,config.ssh.enabled,config.force.push.enabled,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,data.remote.branches.count.1,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1452006242928" />
+      <project id="adverity" values="config.ssh.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,data.local.branches.count.15+,config.warn.about.detached.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.save.policy.STASH,data.remotes.in.project.1,data.remote.branches.count.30+" collectionTime="1459334176737" />
+      <project id="metalsmith-webpack-dev-server" values="config.ssh.enabled,config.force.push.enabled,config.warn.about.detached.enabled,data.local.branches.count.1,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,data.remote.branches.count.1,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.save.policy.STASH" collectionTime="1455792750570" />
+      <project id="metalsmith-remote-json-to-files" values="data.remote.branches.count.1,config.push.autoupdate.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,data.local.branches.count.1,config.force.push.enabled,config.push.update.all.roots.enabled" collectionTime="1458913758553" />
+      <project id="webui" values="config.force.push.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled" collectionTime="1449160284808" />
+      <project id="postmark-status-craft" values="config.cherry-pick.autocommit.disabled,data.remote.branches.count.1,config.force.push.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,data.local.branches.count.1,config.ssh.enabled,data.remotes.in.project.1,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled" collectionTime="1457624015577" />
+      <project id="beta-prototype" values="config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.2+,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,data.local.branches.count.5+,data.remotes.in.project.1,config.push.autoupdate.disabled" collectionTime="1456165750115" />
+      <project id="postcss.org" values="config.force.push.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.ssh.enabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,data.local.branches.count.2+,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,data.remote.branches.count.8+" collectionTime="1456167821163" />
+      <project id="stylelint-config-wildbit" values="data.remotes.in.project.1,config.force.push.enabled,data.remote.branches.count.1,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,data.local.branches.count.1,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled" collectionTime="1452776377865" />
+      <project id="react-playground" values="config.warn.about.detached.enabled,data.remotes.in.project.1,config.save.policy.STASH,config.warn.about.crlf.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,data.local.branches.count.1,data.remote.branches.count.1,config.repo.sync.NOT_DECIDED" collectionTime="1450699550602" />
+      <project id="react-absolute-grid" values="config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.2+,config.force.push.enabled,data.local.branches.count.1,data.remote.branches.count.5+,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.ssh.enabled" collectionTime="1448964851900" />
+      <project id="postmark-status" values="config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,data.local.branches.count.5+,data.remote.branches.count.2+,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,config.save.policy.STASH" collectionTime="1459526775861" />
+      <project id="lint-staged" values="config.repo.sync.NOT_DECIDED,data.remote.branches.count.1,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,data.local.branches.count.1,config.force.push.enabled,data.remotes.in.project.1,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.ssh.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled" collectionTime="1453989340847" />
+      <project id="express-api-helper" values="config.warn.about.detached.enabled,data.remote.branches.count.1,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.save.policy.STASH,data.local.branches.count.1,config.push.update.all.roots.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1" collectionTime="1458913762217" />
+      <project id="enzyme-example-mocha" values="config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.ssh.enabled,data.local.branches.count.1,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,data.remotes.in.project.1,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,data.remote.branches.count.1,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled" collectionTime="1457610451990" />
+      <project id="node-ffmetadata" values="data.local.branches.count.1,config.push.update.all.roots.enabled,data.remote.branches.count.1,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1452006242874" />
+      <project id="eslint-config-wildbit" values="data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,data.remote.branches.count.1,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,data.local.branches.count.1,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.ssh.enabled" collectionTime="1459526775897" />
+      <project id="babel-preset-es2015-loose-native-modules" values="config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.ssh.enabled,data.remotes.in.project.1,data.local.branches.count.1,config.warn.about.crlf.enabled,config.save.policy.STASH,data.remote.branches.count.1,config.force.push.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1458221245711" />
+      <project id="react-element-resize-detector" values="config.force.push.enabled,config.repo.sync.NOT_DECIDED,data.local.branches.count.1,data.remote.branches.count.1,config.push.autoupdate.disabled,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.detached.enabled" collectionTime="1459526775922" />
+      <project id="okonet.ru" values="config.repo.sync.NOT_DECIDED,data.remote.branches.count.5+,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.force.push.enabled,config.warn.about.crlf.enabled,data.remotes.in.project.2+,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.ssh.enabled,data.local.branches.count.2+,config.warn.about.detached.enabled" collectionTime="1452504143471" />
+      <project id="victory-bar" values="data.remote.branches.count.5+,config.ssh.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.save.policy.STASH,data.remotes.in.project.1,data.local.branches.count.1" collectionTime="1455737455822" />
+      <project id="beta-os-x" values="data.remote.branches.count.2+,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,data.local.branches.count.2+,config.warn.about.detached.enabled,config.force.push.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1" collectionTime="1450348347552" />
+      <project id="lint-2016" values="config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.force.push.enabled" collectionTime="1453989311033" />
+      <project id="web-app" values="config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled" collectionTime="1457433273061" />
+      <project id="fifteens" values="config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,data.remote.branches.count.2+,config.force.push.enabled,data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,data.local.branches.count.2+" collectionTime="1450114919346" />
+      <project id="beta-web" values="config.push.autoupdate.disabled,data.local.branches.count.2+,config.ssh.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,data.remote.branches.count.5+,data.remotes.in.project.1" collectionTime="1454354765975" />
+      <project id="electron-plex" values="config.warn.about.crlf.enabled,config.save.policy.STASH,data.remotes.in.project.0,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,data.local.branches.count.1,config.push.update.all.roots.enabled,data.remote.branches.count.0,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled" collectionTime="1453989338535" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="adverity" values="org.postgresql.Driver" collectionTime="1459334176748" />
+    </group>
+    <group name="ruby-project-type">
+      <project id="beta-web" values="rails unknown" collectionTime="1454354765983" />
+      <project id="react-playground" values="rails unknown" collectionTime="1450699550602" />
+      <project id="beanstalk" values="rails unknown" collectionTime="1452771479086" />
+    </group>
+    <group name="php-include-path">
+      <project id="lint-staged" values="0" collectionTime="1453989340848" />
+      <project id="victory-bar" values="0" collectionTime="1455737455896" />
+      <project id="postcss.org" values="0" collectionTime="1456167821387" />
+      <project id="web-app" values="0" collectionTime="1457433273169" />
+      <project id="eslint-config-wildbit" values="0" collectionTime="1459526775897" />
+      <project id="postmark-status" values="0" collectionTime="1459526775874" />
+      <project id="postmark-status-craft" values="0" collectionTime="1457624015587" />
+      <project id="beta-prototype" values="0" collectionTime="1456165750118" />
+      <project id="adverity" values="0" collectionTime="1459334176748" />
+      <project id="metalsmith-remote" values="0" collectionTime="1455795785405" />
+      <project id="beta-web" values="0" collectionTime="1454354765980" />
+      <project id="postmark-craft" values="0" collectionTime="1452767572020" />
+      <project id="express-api-helper" values="0" collectionTime="1458913762218" />
+      <project id="enzyme-example-mocha" values="0" collectionTime="1457610451992" />
+      <project id="react-element-resize-detector" values="0" collectionTime="1459526775940" />
+      <project id="stylelint-config-wildbit" values="0" collectionTime="1452776377918" />
+      <project id="metalsmith-remote-json-to-files" values="0" collectionTime="1458913758561" />
+      <project id="electron-plex" values="0" collectionTime="1453989338535" />
+      <project id="metalsmith-webpack" values="0" collectionTime="1455276794271" />
+      <project id="react-boilerplate" values="0" collectionTime="1457714805464" />
+      <project id="babel-preset-es2015-loose-native-modules" values="0" collectionTime="1458221245729" />
+      <project id="beanstalk" values="0" collectionTime="1452771479085" />
+      <project id="metalsmith-webpack-dev-server" values="0" collectionTime="1455792750576" />
+      <project id="lint-2016" values="0" collectionTime="1453989311033" />
+      <project id="website" values="0" collectionTime="1459499825649" />
+    </group>
+    <group name="frameworks">
+      <project id="beta-web" values="JRUBY,JRailsFacetType" collectionTime="1454354765806" />
+      <project id="react-playground" values="JRUBY,JRailsFacetType" collectionTime="1450699550587" />
+      <project id="rivus" values="web,Spring" collectionTime="1445507494376" />
+      <project id="beanstalk" values="JRailsFacetType,JRUBY" collectionTime="1452771478988" />
+      <project id="adverity" values="Spring,web" collectionTime="1459334176516" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="react-absolute-grid" values="JSX Harmony" collectionTime="1448964852163" />
+      <project id="client" values="JSX Harmony" collectionTime="1450119901845" />
+      <project id="demo" values="JSX Harmony" collectionTime="1444420722114" />
+      <project id="website" values="ECMAScript 6" collectionTime="1459499825649" />
+      <project id="beanstalk" values="JSX Harmony" collectionTime="1452771479085" />
+      <project id="babel-jscs" values="DEFAULT" collectionTime="1434814883818" />
+      <project id="webpack-css-commons" values="JSX Harmony" collectionTime="1439556368887" />
+      <project id="okonet.ru" values="JSX Harmony" collectionTime="1452504143474" />
+      <project id="id3fixer" values="JSX Harmony" collectionTime="1452006242846" />
+      <project id="barista-web" values="DEFAULT" collectionTime="1432470950847" />
+      <project id="deploybot-app" values="JSX Harmony" collectionTime="1445958227251" />
+      <project id="metalsmith-remote" values="Flow" collectionTime="1455795785405" />
+      <project id="metalsmith-webpack" values="JSX Harmony" collectionTime="1455276794271" />
+      <project id="wallaby-webpack-es7" values="JSX Harmony" collectionTime="1435822036539" />
+      <project id="kaffemik-carousel" values="DEFAULT" collectionTime="1432412784049" />
+      <project id="diff" values="JSX Harmony" collectionTime="1449484641107" />
+      <project id="plex-music-client" values="JSX Harmony" collectionTime="1452006242982" />
+      <project id="adverity" values="Flow" collectionTime="1459334176748" />
+      <project id="web-app" values="JSX Harmony" collectionTime="1457433273169" />
+      <project id="eslint-config-wildbit" values="JSX Harmony" collectionTime="1459526775897" />
+      <project id="ColorSnapperIdeaPlugin" values="ECMAScript 5.1" collectionTime="1437732584591" />
+      <project id="metalsmith-remote-json-to-files" values="Flow" collectionTime="1458913758561" />
+      <project id="beta-web" values="JSX Harmony" collectionTime="1454354765980" />
+      <project id="webpack-long-term-cache-demo" values="ECMAScript 5.1" collectionTime="1436693438296" />
+      <project id="flummox" values="JSX Harmony" collectionTime="1445867809490" />
+      <project id="js-codemods" values="JSX Harmony" collectionTime="1447439878995" />
+      <project id="postmark-status-craft" values="JSX Harmony" collectionTime="1457624015587" />
+      <project id="beta-prototype" values="Flow" collectionTime="1456165750118" />
+      <project id="postcss.org" values="JSX Harmony" collectionTime="1456167821387" />
+      <project id="stylelint-config-wildbit" values="JSX Harmony" collectionTime="1452776377918" />
+      <project id="react-playground" values="JSX Harmony" collectionTime="1450699550602" />
+      <project id="relay-treasurehunt" values="JSX Harmony" collectionTime="1447439883119" />
+      <project id="ngReact" values="JSX Harmony" collectionTime="1439547359325" />
+      <project id="postmark-status" values="Flow" collectionTime="1459526775874" />
+      <project id="lint-staged" values="JSX Harmony" collectionTime="1453989340848" />
+      <project id="angular1.4-ES6-material-webpack-boilerplate" values="JSX Harmony" collectionTime="1439547363181" />
+      <project id="enzyme-example-mocha" values="JSX Harmony" collectionTime="1457610451992" />
+      <project id="react-boilerplate" values="JSX Harmony" collectionTime="1457714805463" />
+      <project id="rivus" values="ECMAScript 5.1" collectionTime="1445507494447" />
+      <project id="ColorSnapper Idea Plugin" values="ECMAScript 5.1" collectionTime="1436693436348" />
+      <project id="node-ffmetadata" values="JSX Harmony" collectionTime="1452006242875" />
+      <project id="react-dropzone" values="JSX Harmony" collectionTime="1452610477992" />
+      <project id="react-transform-boilerplate" values="JSX Harmony" collectionTime="1444402268860" />
+      <project id="babel-preset-es2015-loose-native-modules" values="JSX Harmony" collectionTime="1458221245729" />
+      <project id="metalsmith-webpack-dev-server" values="JSX Harmony" collectionTime="1455792750576" />
+      <project id="danielamulle.at" values="ECMAScript 5.1" collectionTime="1442220528372" />
+      <project id="react-sparklines" values="JSX Harmony" collectionTime="1443107003667" />
+      <project id="webui" values="JSX Harmony" collectionTime="1449160284821" />
+      <project id="beta-os-x" values="JSX Harmony" collectionTime="1450348347560" />
+      <project id="react-easy-style" values="JSX Harmony" collectionTime="1445963039223" />
+      <project id="victory-bar" values="JSX Harmony" collectionTime="1455737455890" />
+      <project id="postmark-craft" values="JSX Harmony" collectionTime="1452767572020" />
+      <project id="lint-2016" values="JSX Harmony" collectionTime="1453989311033" />
+      <project id="kaffeemik-website" values="DEFAULT" collectionTime="1432408591338" />
+      <project id="attr-accept" values="JSX Harmony" collectionTime="1446712962028" />
+      <project id="express-api-helper" values="JSX Harmony" collectionTime="1458913762218" />
+      <project id="fifteens" values="Flow" collectionTime="1450114919348" />
+      <project id="react-element-resize-detector" values="Flow" collectionTime="1459526775940" />
+      <project id="frontend-pairing-test-master" values="DEFAULT" collectionTime="1435049405054" />
+      <project id="okonet.github.com" values="ECMAScript 5.1" collectionTime="1452504138743" />
+      <project id="electron-plex" values="JSX Harmony" collectionTime="1453989338535" />
+    </group>
+    <group name="javaScript Frameworks">
+      <project id="attr-accept" values="node_modules" collectionTime="1446712962028" />
+      <project id="react-easy-style" values="node_modules" collectionTime="1445963039223" />
+      <project id="relay-treasurehunt" values="node_modules" collectionTime="1447439883119" />
+      <project id="danielamulle.at" values="node_modules" collectionTime="1442220528372" />
+      <project id="webpack-long-term-cache-demo" values="node_modules" collectionTime="1436693438296" />
+      <project id="demo" values="node_modules" collectionTime="1444420722114" />
+      <project id="angular1.4-ES6-material-webpack-boilerplate" values="node_modules" collectionTime="1439547363181" />
+      <project id="adverity" values="node_modules" collectionTime="1459334176748" />
+      <project id="beanstalk" values="node_modules" collectionTime="1452771479085" />
+      <project id="react-absolute-grid" values="node_modules" collectionTime="1448964852163" />
+      <project id="react-sparklines" values="node_modules" collectionTime="1443107003667" />
+      <project id="beta-web" values="node_modules" collectionTime="1454354765980" />
+      <project id="webui" values="node_modules" collectionTime="1449160284821" />
+      <project id="beta-os-x" values="node_modules" collectionTime="1450348347559" />
+      <project id="react-transform-boilerplate" values="node_modules" collectionTime="1444402268860" />
+      <project id="babel-jscs" values="node_modules" collectionTime="1434814883818" />
+      <project id="flummox" values="node_modules" collectionTime="1445867809490" />
+      <project id="react-playground" values="node_modules" collectionTime="1450699550602" />
+      <project id="wallaby-webpack-es7" values="node_modules" collectionTime="1435822036539" />
+      <project id="webpack-css-commons" values="node_modules" collectionTime="1439556368887" />
+      <project id="website" values="node_modules" collectionTime="1459499825649" />
+      <project id="fifteens" values="node_modules" collectionTime="1450114919348" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="lint-staged" values="0" collectionTime="1453989340848" />
+      <project id="victory-bar" values="0" collectionTime="1455737455902" />
+      <project id="postcss.org" values="0" collectionTime="1456167821406" />
+      <project id="web-app" values="0" collectionTime="1457433273179" />
+      <project id="eslint-config-wildbit" values="0" collectionTime="1459526775898" />
+      <project id="postmark-status" values="0" collectionTime="1459526775875" />
+      <project id="postmark-status-craft" values="0" collectionTime="1457624015588" />
+      <project id="beta-prototype" values="0" collectionTime="1456165750118" />
+      <project id="adverity" values="0" collectionTime="1459334176749" />
+      <project id="metalsmith-remote" values="0" collectionTime="1455795785405" />
+      <project id="beta-web" values="0" collectionTime="1454354765980" />
+      <project id="postmark-craft" values="0" collectionTime="1452767572058" />
+      <project id="express-api-helper" values="0" collectionTime="1458913762218" />
+      <project id="enzyme-example-mocha" values="0" collectionTime="1457610451993" />
+      <project id="react-element-resize-detector" values="0" collectionTime="1459526775941" />
+      <project id="stylelint-config-wildbit" values="0" collectionTime="1452776377919" />
+      <project id="metalsmith-remote-json-to-files" values="0" collectionTime="1458913758562" />
+      <project id="electron-plex" values="0" collectionTime="1453989338535" />
+      <project id="metalsmith-webpack" values="0" collectionTime="1455276794285" />
+      <project id="react-boilerplate" values="0" collectionTime="1457714805471" />
+      <project id="babel-preset-es2015-loose-native-modules" values="0" collectionTime="1458221245729" />
+      <project id="beanstalk" values="0" collectionTime="1452771479085" />
+      <project id="metalsmith-webpack-dev-server" values="0" collectionTime="1455792750577" />
+      <project id="lint-2016" values="0" collectionTime="1453989311034" />
+      <project id="website" values="0" collectionTime="1459499825660" />
+    </group>
+    <group name="libraries">
+      <project id="attr-accept" values="javaScript" collectionTime="1446712962022" />
+      <project id="website" values="javaScript" collectionTime="1459499825411" />
+      <project id="react-easy-style" values="javaScript" collectionTime="1445963039208" />
+      <project id="relay-treasurehunt" values="javaScript" collectionTime="1447439883114" />
+      <project id="danielamulle.at" values="javaScript" collectionTime="1442220528250" />
+      <project id="webpack-long-term-cache-demo" values="javaScript" collectionTime="1436693438295" />
+      <project id="demo" values="javaScript" collectionTime="1444420722082" />
+      <project id="angular1.4-ES6-material-webpack-boilerplate" values="javaScript" collectionTime="1439547363181" />
+      <project id="adverity" values="groovy,EJB,gant,spring-mvc,grails,spring,javaScript,TransactionJavaee,WebSocket" collectionTime="1459334176708" />
+      <project id="beanstalk" values="javaScript" collectionTime="1452771479055" />
+      <project id="react-absolute-grid" values="javaScript" collectionTime="1448964851865" />
+      <project id="react-sparklines" values="javaScript" collectionTime="1443107003658" />
+      <project id="beta-web" values="javaScript" collectionTime="1454354765935" />
+      <project id="webui" values="javaScript" collectionTime="1449160284796" />
+      <project id="beta-os-x" values="javaScript" collectionTime="1450348347297" />
+      <project id="react-transform-boilerplate" values="javaScript" collectionTime="1444402268608" />
+      <project id="babel-jscs" values="javaScript" collectionTime="1434814883806" />
+      <project id="flummox" values="javaScript" collectionTime="1445867809474" />
+      <project id="react-playground" values="javaScript" collectionTime="1450699550600" />
+      <project id="wallaby-webpack-es7" values="javaScript" collectionTime="1435822036144" />
+      <project id="webpack-css-commons" values="javaScript" collectionTime="1439556368714" />
+      <project id="rivus" values="kotlin-js-stdlib,kotlin-java-runtime,JAX-RS" collectionTime="1445507494423" />
+      <project id="fifteens" values="javaScript" collectionTime="1450114919343" />
+    </group>
+    <group name="php-servers">
+      <project id="lint-staged" values="0" collectionTime="1453989340848" />
+      <project id="victory-bar" values="0" collectionTime="1455737455899" />
+      <project id="postcss.org" values="0" collectionTime="1456167821394" />
+      <project id="web-app" values="0" collectionTime="1457433273175" />
+      <project id="eslint-config-wildbit" values="0" collectionTime="1459526775898" />
+      <project id="postmark-status" values="0" collectionTime="1459526775875" />
+      <project id="postmark-status-craft" values="0" collectionTime="1457624015588" />
+      <project id="beta-prototype" values="0" collectionTime="1456165750118" />
+      <project id="adverity" values="0" collectionTime="1459334176748" />
+      <project id="metalsmith-remote" values="0" collectionTime="1455795785405" />
+      <project id="beta-web" values="0" collectionTime="1454354765980" />
+      <project id="postmark-craft" values="0" collectionTime="1452767572046" />
+      <project id="express-api-helper" values="0" collectionTime="1458913762218" />
+      <project id="enzyme-example-mocha" values="0" collectionTime="1457610451993" />
+      <project id="react-element-resize-detector" values="0" collectionTime="1459526775940" />
+      <project id="stylelint-config-wildbit" values="0" collectionTime="1452776377919" />
+      <project id="metalsmith-remote-json-to-files" values="0" collectionTime="1458913758562" />
+      <project id="electron-plex" values="0" collectionTime="1453989338535" />
+      <project id="metalsmith-webpack" values="0" collectionTime="1455276794281" />
+      <project id="react-boilerplate" values="0" collectionTime="1457714805468" />
+      <project id="babel-preset-es2015-loose-native-modules" values="0" collectionTime="1458221245729" />
+      <project id="beanstalk" values="0" collectionTime="1452771479085" />
+      <project id="metalsmith-webpack-dev-server" values="0" collectionTime="1455792750577" />
+      <project id="lint-2016" values="0" collectionTime="1453989311034" />
+      <project id="website" values="0" collectionTime="1459499825656" />
+    </group>
+    <group name="Libraries by jars">
+      <project id="adverity" values="spring-security_3.1,spring-mvc_4.0,spring-amqp_1.1,velocity_1.7,spring-core_4.0" collectionTime="1459334176736" />
+    </group>
+    <group name="language-level">
+      <project id="react-absolute-grid" values="JDK_1_6" collectionTime="1448964851881" />
+      <project id="client" values="JDK_1_6" collectionTime="1450119901695" />
+      <project id="demo" values="JDK_1_6" collectionTime="1444420722105" />
+      <project id="website" values="JDK_1_6" collectionTime="1459499825440" />
+      <project id="beanstalk" values="JDK_1_6" collectionTime="1452771479058" />
+      <project id="babel-jscs" values="JDK_1_6" collectionTime="1434814883809" />
+      <project id="webpack-css-commons" values="JDK_1_6" collectionTime="1439556368739" />
+      <project id="okonet.ru" values="JDK_1_6" collectionTime="1452504143471" />
+      <project id="id3fixer" values="JDK_1_6" collectionTime="1452006242845" />
+      <project id="barista-web" values="JDK_1_6" collectionTime="1432470950841" />
+      <project id="deploybot-app" values="JDK_1_6" collectionTime="1445958227247" />
+      <project id="metalsmith-remote" values="JDK_1_6" collectionTime="1455795785405" />
+      <project id="metalsmith-webpack" values="JDK_1_6" collectionTime="1455276794093" />
+      <project id="wallaby-webpack-es7" values="JDK_1_6" collectionTime="1435822036158" />
+      <project id="kaffemik-carousel" values="JDK_1_6" collectionTime="1432412784047" />
+      <project id="diff" values="JDK_1_6" collectionTime="1449484641107" />
+      <project id="plex-music-client" values="JDK_1_6" collectionTime="1452006242928" />
+      <project id="adverity" values="JDK_1_6" collectionTime="1459334176737" />
+      <project id="web-app" values="JDK_1_6" collectionTime="1457433273057" />
+      <project id="eslint-config-wildbit" values="JDK_1_6" collectionTime="1459526775897" />
+      <project id="ColorSnapperIdeaPlugin" values="JDK_1_8" collectionTime="1437732584267" />
+      <project id="metalsmith-remote-json-to-files" values="JDK_1_6" collectionTime="1458913758553" />
+      <project id="beta-web" values="JDK_1_6" collectionTime="1454354765972" />
+      <project id="webpack-long-term-cache-demo" values="JDK_1_6" collectionTime="1436693438296" />
+      <project id="flummox" values="JDK_1_6" collectionTime="1445867809484" />
+      <project id="js-codemods" values="JDK_1_6" collectionTime="1447439878825" />
+      <project id="postmark-status-craft" values="JDK_1_6" collectionTime="1457624015575" />
+      <project id="beta-prototype" values="JDK_1_6" collectionTime="1456165750112" />
+      <project id="postcss.org" values="JDK_1_6" collectionTime="1456167821161" />
+      <project id="stylelint-config-wildbit" values="JDK_1_6" collectionTime="1452776377863" />
+      <project id="react-playground" values="JDK_1_6" collectionTime="1450699550602" />
+      <project id="relay-treasurehunt" values="JDK_1_6" collectionTime="1447439883118" />
+      <project id="ngReact" values="JDK_1_6" collectionTime="1439547359319" />
+      <project id="postmark-status" values="JDK_1_6" collectionTime="1459526775855" />
+      <project id="lint-staged" values="JDK_1_6" collectionTime="1453989340847" />
+      <project id="angular1.4-ES6-material-webpack-boilerplate" values="JDK_1_6" collectionTime="1439547363181" />
+      <project id="enzyme-example-mocha" values="JDK_1_6" collectionTime="1457610451990" />
+      <project id="react-boilerplate" values="JDK_1_6" collectionTime="1457714805245" />
+      <project id="rivus" values="JDK_1_7,JDK_1_6" collectionTime="1445507494425" />
+      <project id="ColorSnapper Idea Plugin" values="JDK_1_7" collectionTime="1436693436348" />
+      <project id="node-ffmetadata" values="JDK_1_6" collectionTime="1452006242874" />
+      <project id="react-dropzone" values="JDK_1_6" collectionTime="1452610477978" />
+      <project id="react-transform-boilerplate" values="JDK_1_6" collectionTime="1444402268641" />
+      <project id="babel-preset-es2015-loose-native-modules" values="JDK_1_6" collectionTime="1458221245710" />
+      <project id="metalsmith-webpack-dev-server" values="JDK_1_6" collectionTime="1455792750570" />
+      <project id="danielamulle.at" values="JDK_1_6" collectionTime="1442220528268" />
+      <project id="react-sparklines" values="JDK_1_6" collectionTime="1443107003661" />
+      <project id="webui" values="JDK_1_6" collectionTime="1449160284806" />
+      <project id="beta-os-x" values="JDK_1_6" collectionTime="1450348347550" />
+      <project id="react-easy-style" values="JDK_1_6" collectionTime="1445963039214" />
+      <project id="victory-bar" values="JDK_1_6" collectionTime="1455737455812" />
+      <project id="postmark-craft" values="JDK_1_6" collectionTime="1452767571110" />
+      <project id="lint-2016" values="JDK_1_6" collectionTime="1453989311031" />
+      <project id="kaffeemik-website" values="JDK_1_6" collectionTime="1432408591172" />
+      <project id="attr-accept" values="JDK_1_6" collectionTime="1446712962028" />
+      <project id="express-api-helper" values="JDK_1_6" collectionTime="1458913762217" />
+      <project id="fifteens" values="JDK_1_6" collectionTime="1450114919346" />
+      <project id="react-element-resize-detector" values="JDK_1_6" collectionTime="1459526775922" />
+      <project id="frontend-pairing-test-master" values="JDK_1_6" collectionTime="1435049405042" />
+      <project id="okonet.github.com" values="JDK_1_6" collectionTime="1452504138630" />
+      <project id="electron-plex" values="JDK_1_6" collectionTime="1453989338535" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="24" />
+      <entry feature="JSDebugConfig.Run.browser-default.preferredBrowser-null.no_mappings" count="3" />
+      <entry feature="diff.TextDiffSettings.IgnorePolicy.DEFAULT" count="10" />
+      <entry feature="execute.#org.jetbrains.idea.devkit.run.PluginConfigurationType.Debug" count="5" />
+      <entry feature="execute.#org.jetbrains.idea.devkit.run.PluginConfigurationType.Run" count="7" />
+      <entry feature="execute.Application.Run" count="2" />
+      <entry feature="execute.GrailsRunConfigurationType.Debug" count="6" />
+      <entry feature="execute.GrailsRunConfigurationType.Run" count="89" />
+      <entry feature="execute.JavascriptDebugType.Run" count="3" />
+      <entry feature="execute.NodeJSConfigurationType.Run" count="2" />
+      <entry feature="execute.wallaby.Run" count="608" />
+      <entry feature="ide.help.ideaInterface.run" count="1" />
+      <entry feature="ide.settings.Appearance" count="13" />
+      <entry feature="ide.settings.Code_Completion" count="2" />
+      <entry feature="ide.settings.Code_Style" count="5" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="15" />
+      <entry feature="ide.settings.ERB" count="1" />
+      <entry feature="ide.settings.ESLint" count="27" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="22" />
+      <entry feature="ide.settings.Font" count="29" />
+      <entry feature="ide.settings.General" count="2" />
+      <entry feature="ide.settings.HTML" count="1" />
+      <entry feature="ide.settings.Inspections" count="5" />
+      <entry feature="ide.settings.JSCS" count="1" />
+      <entry feature="ide.settings.JavaScript" count="16" />
+      <entry feature="ide.settings.Keymap" count="4" />
+      <entry feature="ide.settings.PHP" count="1" />
+      <entry feature="ide.settings.Path_Variables" count="2" />
+      <entry feature="ide.settings.Plugins" count="2" />
+      <entry feature="ide.settings.Ruby" count="1" />
+      <entry feature="ide.settings.SCSS" count="1" />
+      <entry feature="ide.settings.Smart_Keys" count="1" />
+      <entry feature="idea.caches.invalidated" count="1" />
+      <entry feature="ideaapp.started" count="170" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="61" />
+      <entry feature="terminal.mac" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
+    </counts>
+  </component>
+</application>

@@ -1,0 +1,15 @@
+s = {
+	id = "90124AC6-5E0E-466D-B4FA-8DEB40ECC70F",
+	internalName = "Five Stars",
+	title = ZSTR "$$$/LibraryToolkit/Defaults/SmartCollections/FiveStars=Five Stars",
+	type = "LibrarySmartCollection",
+	value = {
+		{
+			criteria = "rating",
+			operation = ">=",
+			value = 5,
+		},
+		combine = "intersect",
+	},
+	version = 0,
+}

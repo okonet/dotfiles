@@ -1,0 +1,17 @@
+s = {
+	deflated = {
+		{
+			{
+				value = "custom_token",
+			},
+			name = "Custom Name",
+			presetType = "Naming",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	title = ZSTR "$$$/TokenPresets/Naming/Title/CustomText=Custom Name",
+	internalName = "CustomName",
+	type = "Naming_Tokens",
+	version = 2,
+}

@@ -1,0 +1,1 @@
+The <code><strong>fetch()</strong></code> method of the <a href="/en-US/docs/Web/API/WindowOrWorkerGlobalScope"><code>WindowOrWorkerGlobalScope</code></a> mixin starts the process of fetching a resource from the network, returning a promise which is fulfilled once the response is available.

@@ -1,0 +1,27 @@
+s = {
+	id = "4DCC28BF-BAF4-43F8-8956-4584FA18520D",
+	internalName = "Flagged",
+	title = ZSTR "$$$/AgLibrary/FilterPresets/Flagged=Flagged",
+	type = "LibraryFilter",
+	version = 0,
+	value = {
+		filtersActive = true,
+
+		labelOp = "any",
+		label1 = false,
+		label2 = false,
+		label3 = false,
+		label4 = false,
+		label5 = false,
+		customLabel = false,
+		noLabel = false,
+
+		ratingOp = ">=",
+		minRating = "<nil>",
+
+		pick = "flagged",
+
+		usage = "<nil>",
+		whichCopies = "<nil>",
+	},
+}

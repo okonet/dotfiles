@@ -1,0 +1,16 @@
+s = {
+	id = "7BE6EC78-BE76-4777-98FB-CA5BEF790324",
+	internalName = "Recently Modified",
+	title = ZSTR "$$$/LibraryToolkit/Defaults/SmartCollections/RecentlyModified=Recently Modified",
+	type = "LibrarySmartCollection",
+	value = {
+		{
+			criteria = "touchTime",
+			operation = "inLast",
+			value = 2,
+			value_units = "days",
+		},
+		combine = "intersect",
+	},
+	version = 1,
+}

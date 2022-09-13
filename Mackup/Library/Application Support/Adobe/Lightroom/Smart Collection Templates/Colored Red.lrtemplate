@@ -1,0 +1,15 @@
+s = {
+	id = "D21C0CF6-DD52-4DF8-84E6-E7D84D557D48",
+	internalName = "Colored Red",
+	title = ZSTR "$$$/LibraryToolkit/Defaults/SmartCollections/ColoredRed=Colored Red",
+	type = "LibrarySmartCollection",
+	value = {
+		{
+			criteria = "labelColor",
+			operation = "==",
+			value = 1,
+		},
+		combine = "intersect",
+	},
+	version = 1,
+}

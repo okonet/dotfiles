@@ -1,0 +1,1 @@
+* jediterm-ssh - SSH terminal from https://github.com/JetBrains/jediterm

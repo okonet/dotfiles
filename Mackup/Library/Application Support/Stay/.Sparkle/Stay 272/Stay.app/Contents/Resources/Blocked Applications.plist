@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>com.adobe.bridge4</string>
+	<string>com.adobe.Contribute</string>
+	<string>com.adobe.devicecentral-3.0</string>
+	<string>com.adobe.dreamweaver-11.0</string>
+	<string>com.adobe.ExtensionManager</string>
+	<string>com.macromedia.fireworks</string>
+	<string>com.adobe.flash</string>
+	<string>com.adobe.illustrator</string>
+	<string>com.adobe.InDesign</string>
+	<string>com.adobe.amp.4875E02D9FB21EE389F73B8D1702B320485DF8CE.1</string>
+	<string>com.adobe.Photoshop</string>
+    <string>com.adobe.Lightroom6</string>
+	<string>com.valvesoftware.steam</string>
+	<string>com.mizage.divvy</string>
+	<string>com.excitedpixel.breaktime</string>
+	<string>org.x.X11</string>
+	<string>com.ximian.monodevelop</string>
+	<string>com.apple.notificationcenterui</string>
+	<string>com.crowdcafe.windowmagnet</string>
+	<string>com.surteesstudios.Bartender</string>
+	<string>com.apple.systemuiserver</string>
+	<string>com.getdropbox.dropbox</string>
+	<string>com.haystacksoftware.ArqAgent</string>
+</array>
+</plist>

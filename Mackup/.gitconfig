@@ -1,0 +1,43 @@
+[core]
+	excludesfile = /Users/okonet/.gitignore
+	autocrlf = input
+	pager = diff-so-fancy | less --tabs=4 -RFX
+[user]
+	name = Andrey Okonetchnikov
+	email = andrey@okonet.dev
+[github]
+	user = okonet
+	g = 673e31cd29080d1a40f873c7fc8d649e
+[alias]
+	st = status -sb
+	ci = commit
+	co = checkout
+	br = branch
+	df = diff --word-diff
+	dc = diff --cached
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --
+	pl = pull
+	pr = pull --rebase
+[color]
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
+[merge]
+	tool = opendiff
+[push]
+	default = tracking
+	autoSetupRemote = true
+[branch]
+	autosetuprebase = always
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	required = true
+	process = git-lfs filter-process
+[help]
+	autocorrect = -1
+[interactive]
+	# diffFilter = diff-so-fancy
+[init]
+	defaultBranch = main

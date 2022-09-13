@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="External Executable Critical Failures" displayType="TOOL_WINDOW" />
+    <notification groupId="Compiler" displayType="NONE" />
+    <notification groupId="Git Minor Notifications" />
+    <notification groupId="Grape" />
+    <notification groupId="Framework Detection" />
+    <notification groupId="Configure Kotlin: balloon" displayType="STICKY_BALLOON" />
+    <notification groupId="Clean artifact" />
+    <notification groupId="FindInPath" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Git Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Groovy DSL errors" />
+    <notification groupId="HotSwap" displayType="TOOL_WINDOW" />
+    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="JavaScript Library Management" displayType="STICKY_BALLOON" />
+    <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="color" />
+    <notification groupId="Outdated Kotlin Runtime" />
+    <notification groupId="Load Error" />
+    <notification groupId="IDE Fatal Errors" displayType="NONE" />
+    <notification groupId="Plugin Error" />
+    <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Vcs Minor Notifications" />
+    <notification groupId="Project Loading Error" />
+    <notification groupId="Update Checker" displayType="STICKY_BALLOON" />
+    <notification groupId="Plugins Suggestion" displayType="STICKY_BALLOON" />
+    <toolWindow group="Git Messages" />
+    <toolWindow group="External Executable Critical Failures" />
+    <toolWindow group="FindInPath" />
+    <toolWindow group="Common Version Control Messages" />
+    <toolWindow group="HotSwap" />
+    <toolWindow group="Debugger messages" />
+  </component>
+</application>
+

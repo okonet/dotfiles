@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="ViewsSettings">
+    <option name="SHOW_OBJECTID" value="true" />
+    <option name="HIDE_NULL_ARRAY_ELEMENTS" value="true" />
+    <option name="AUTOSCROLL_TO_NEW_LOCALS" value="true" />
+    <option name="ENABLE_AUTO_EXPRESSIONS" value="true" />
+  </component>
+</application>
+

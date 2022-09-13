@@ -1,0 +1,28 @@
+{
+  "source": "doc/api/documentation.markdown",
+  "miscs": [
+    {
+      "textRaw": "About this Documentation",
+      "name": "About this Documentation",
+      "type": "misc",
+      "desc": "<p>The goal of this documentation is to comprehensively explain the io.js\nAPI, both from a reference as well as a conceptual point of view.  Each\nsection describes a built-in module or high-level concept.\n\n</p>\n<p>Where appropriate, property types, method arguments, and the arguments\nprovided to event handlers are detailed in a list underneath the topic\nheading.\n\n</p>\n<p>Every <code>.html</code> document has a corresponding <code>.json</code> document presenting\nthe same information in a structured manner.  This feature is\nexperimental, and added for the benefit of IDEs and other utilities that\nwish to do programmatic things with the documentation.\n\n</p>\n<p>Every <code>.html</code> and <code>.json</code> file is generated based on the corresponding\n<code>.markdown</code> file in the <code>doc/api/</code> folder in io.js&#39;s source tree.  The\ndocumentation is generated using the <code>tools/doc/generate.js</code> program.\nThe HTML template is located at <code>doc/template.html</code>.\n\n</p>\n",
+      "miscs": [
+        {
+          "textRaw": "Stability Index",
+          "name": "Stability Index",
+          "type": "misc",
+          "desc": "<p>Throughout the documentation, you will see indications of a section&#39;s\nstability.  The io.js API is still somewhat changing, and as it\nmatures, certain parts are more reliable than others.  Some are so\nproven, and so relied upon, that they are unlikely to ever change at\nall.  Others are brand new and experimental, or known to be hazardous\nand in the process of being redesigned.\n\n</p>\n<p>The stability indices are as follows:\n\n</p>\n<pre><code>Stability: 0 - Deprecated\nThis feature is known to be problematic, and changes are\nplanned.  Do not rely on it.  Use of the feature may cause warnings.  Backwards\ncompatibility should not be expected.</code></pre>\n<pre><code>Stability: 1 - Experimental\nThis feature is subject to change, and is gated by a command line flag.\nIt may change or be removed in future versions.</code></pre>\n<pre><code>Stability: 2 - Stable\nThe API has proven satisfactory. Compatibility with the npm ecosystem\nis a high priority, and will not be broken unless absolutely necessary.</code></pre>\n<pre><code>Stability: 3 - Locked\nOnly fixes related to security, performance, or bug fixes will be accepted.\nPlease do not suggest API changes in this area; they will be refused.</code></pre>\n"
+        },
+        {
+          "textRaw": "JSON Output",
+          "name": "json_output",
+          "stability": 1,
+          "stabilityText": "Experimental",
+          "desc": "<p>Every HTML file in the markdown has a corresponding JSON file with the\nsame data.\n\n</p>\n<p>This feature was added in node v0.6.12.  It is experimental.\n</p>\n",
+          "type": "misc",
+          "displayName": "JSON Output"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="com.wallaby.javascript.actions.RunTestAction">
+        <abbreviation name="w" />
+        <abbreviation name="wallaby" />
+      </action>
+      <action id="com.wallaby.javascript.actions.ShowLineUncoveredRangesAction">
+        <abbreviation name="w" />
+        <abbreviation name="wallaby" />
+      </action>
+      <action id="com.wallaby.javascript.actions.RunTestFileAction">
+        <abbreviation name="w" />
+        <abbreviation name="wallaby" />
+      </action>
+      <action id="com.wallaby.javascript.actions.ShowLineTestsAction">
+        <abbreviation name="w" />
+        <abbreviation name="wallaby" />
+      </action>
+      <action id="com.wallaby.javascript.actions.ShowLastRunScreenShotAction">
+        <abbreviation name="w" />
+        <abbreviation name="wallaby" />
+      </action>
+      <action id="com.wallaby.javascript.actions.ShowFileUncoveredRangesAction">
+        <abbreviation name="w" />
+        <abbreviation name="wallaby" />
+      </action>
+      <action id="com.wallaby.javascript.actions.RunAllTestsAction">
+        <abbreviation name="wallaby" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

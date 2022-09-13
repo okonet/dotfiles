@@ -1,0 +1,125 @@
+--- 
+class_types:
+  # classes with dynamic type, e.g. builder
+  ActionController::Routing::RouteSet::Mapper: :empty
+  Builder::XmlMarkup: Builder::XmlMarkup
+
+method_types:
+  ActionController: 
+    RackDelegation: 
+      headers: Hash
+    Base: 
+      response: 
+        rails 2.2: ActionController::AbstractResponse
+        rails 2.3: ActionController::Response
+      session: 
+        rails 2.2: CGI::Session
+        rails 2.3: ActionController::Session::AbstractStore::SessionHash
+      action_name: String
+      request: 
+        rails 2.2: ActionController::AbstractRequest
+        rails 2.3: ActionController::Request
+      params: 
+        rails 2.3: HashWithIndifferentAccess
+      headers: Hash
+    Metal: 
+      response: ActionDispatch::Response
+      session: 
+        rails 3.0: ActionDispatch::Session::AbstractStore::SessionHash
+        rails 3.1: Rack::Session::Abstract::SessionHash
+      request: ActionDispatch::Request
+      params: ActiveSupport::HashWithIndifferentAccess
+      headers: Hash
+    Cookies: 
+      cookies: ActionDispatch::Cookies::CookieJar
+  ActiveRecord:
+    Base:
+      create: :same_as_receiver_instance
+    Persistence:
+      ClassMethods:
+        create: :same_as_receiver_instance
+        create!: :same_as_receiver_instance
+    Validations:
+      ClassMethods:
+        create!: :same_as_receiver_instance
+  Rails:
+    Application:
+      #rails 3.0 stuff
+      metal_loader: Rails::Application::MetalLoader
+      routes: ActionDispatch::Routing::RouteSet
+      railties: Rails::Application::Railties
+      routes_reloader: Rails::Application::RoutesReloader
+      instance: Rails::Application
+    logger: ActiveSupport::BufferedLogger
+  AbstractController: 
+    Base: 
+      action_name: String
+
+dynamic_members:
+  ActiveSupport: 
+    BufferedLogger:
+      # activesupport-xxx/lib/active_support/buffered_logger.rb
+      instance_methods: debug, debug?, error, error?, fatal, fatal?, info, info?, unknown, unknown?, warn, warn?
+  ActionController:
+    TestProcess:
+      # tests
+      instance_methods: delete, get, head, post, put
+    MimeResponds:
+      # see action_controller/mime_types.rb
+      Responder: 
+        instance_methods: all, atom, css, csv, html, ics, js, json, rss, text, xml, yaml
+      Collector: 
+        instance_methods: all, atom, css, csv, html, ics, js, json, rss, text, xml, yaml
+
+  ActiveResource:
+    Schema: 
+      instance_methods: float, integer, string
+
+  ActiveRecord:
+    Associations:
+      HasManyAssociation:
+        # When calling has_many :items we're invoking Associations::Builder::HasMany that defines method 'items' that delegates to
+        # association method 'reader' which (in case of has_many) association uses CollectionProxy that delegates to corresponding scope.
+        # Thus we cannot see a gopher, but it's there
+        rails >=4.0.0.beta:
+          instance_methods:
+            sum: ActiveRecord::Associations::CollectionProxy
+    Callbacks:
+      # see activerecord-xxx/lib/active_record/callbacks.rb:
+      rails >=3.0.0.beta:
+        class_methods: after_create, after_destroy, after_find, after_initialize, after_save, after_update, after_validation, around_create, around_destroy, around_save, around_update, before_create, before_destroy, before_save, before_update, before_validation
+      rails <3.0.0.beta: 
+        class_methods: after_create, after_destroy, after_find, after_initialize, after_save, after_update, after_validation, after_validation_on_create, after_validation_on_update, before_create, before_destroy, before_save, before_update, before_validation, before_validation_on_create, before_validation_on_update
+    Validations:
+      # see activerecord-xxx/lib/active_record/validations.rb
+      rails <3.0.0.beta:
+        class_methods: validate, validate_on_create, validate_on_update
+    ConnectionAdapters:
+      TableDefinition:
+        instance_methods:
+          methods: binary, boolean, date, datetime, decimal, float, integer, string, text, time, timestamp
+          target: ActiveRecord::ConnectionAdapters::TableDefinition::column
+    Relation:
+      instance_methods: from, group, having, includes, joins, limit, lock, offset, order, readonly, select, where
+
+  ActionView:
+    Helpers: 
+      FormBuilder:
+        # see actionpack-xxx/lib/action_view/helpers/form_helper.rb
+        instance_methods: 
+          apply_form_for_options!: ActionView::Helpers::FormHelper::apply_form_for_options!
+          text_area: ActionView::Helpers::FormHelper::text_area
+          text_field: ActionView::Helpers::FormHelper::text_field
+  AbstractController: 
+    Callbacks: 
+      ClassMethods:
+        rails <4.0.0.beta:
+          instance_methods: after_filter, append_after_filter, append_around_filter, append_before_filter, around_filter, before_filter, prepend_after_filter, prepend_around_filter, prepend_before_filter, skip_after_filter, skip_before_filter, skip_filter
+        rails >=4.0.0.beta:
+          instance_methods: after_filter, append_after_filter, append_around_filter, append_before_filter, around_filter, before_filter, prepend_after_filter, prepend_around_filter, prepend_before_filter, skip_after_filter, skip_before_filter, skip_filter, after_action, append_after_action, append_around_action, append_before_action, around_action, before_action, prepend_after_action, prepend_around_action, prepend_before_action, skip_after_action, skip_before_action, skip_action
+
+block_variable_types:
+  ActionView::Helpers::FormHelper.form_for: ActionView::Helpers::FormBuilder
+  ActionController::MimeResponds.respond_to: ActionController::MimeResponds::Collector
+  ActionController::MimeResponds::InstanceMethods.respond_to: ActionController::MimeResponds::Responder
+  ActiveRecord::ConnectionAdapters::SchemaStatements.create_table: ActiveRecord::ConnectionAdapters::TableDefinition

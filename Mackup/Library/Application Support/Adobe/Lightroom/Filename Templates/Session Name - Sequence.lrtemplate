@@ -1,0 +1,22 @@
+s = {
+	deflated = {
+		{
+			{
+				value = "shoot_custom_token",
+			},
+			"-",
+			{
+				value = "naming_sequenceNumber_3Digits",
+			},
+			name = "Session Name - Sequence",
+			presetType = "Naming",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	internalName = "SessionNameSequence",
+	title = ZSTR "$$$/TokenPresets/Naming/Title/SessionNameSequence=Session Name - Sequence",
+	type = "Naming_Tokens",
+	specialClass = { "tether" },
+	version = 2,
+}

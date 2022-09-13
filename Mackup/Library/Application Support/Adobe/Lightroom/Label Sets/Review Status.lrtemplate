@@ -1,0 +1,13 @@
+s = {
+	title = ZSTR "$$$/AgLibrary/ColorSetFactoryDefaults/ReviewStatus=Review Status",
+	internalName = "Review Status",
+	type = "LabelSet",
+	version = 1,
+	value = {
+		label1 = ZSTR "$$$/AgLibrary/ColorSetFactoryDefaults/ReviewStatus/ToDelete=To Delete",
+		label2 = ZSTR "$$$/AgLibrary/ColorSetFactoryDefaults/ReviewStatus/ColorCorrectionNeeded=Color Correction Needed",
+		label3 = ZSTR "$$$/AgLibrary/ColorSetFactoryDefaults/ReviewStatus/GoodToUse=Good to Use",
+		label4 = ZSTR "$$$/AgLibrary/ColorSetFactoryDefaults/ReviewStatus/RetouchingNeeded=Retouching Needed",
+		label5 = ZSTR "$$$/AgLibrary/ColorSetFactoryDefaults/ReviewStatus/ToPrint=To Print",
+	},
+}

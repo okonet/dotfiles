@@ -1,0 +1,652 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Projects/kleiner_perkins/crm_web_client/eslint">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-183.2407.4" />
+              <option name="buildTimestamp" value="1536676176858" />
+              <option name="eap" value="true" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1539264338238" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/reason-conf">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-183.5153.33" />
+              <option name="buildTimestamp" value="1547016600651" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1554279375511" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/reason-conf-2019">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-183.5153.33" />
+              <option name="buildTimestamp" value="1547016625334" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1552557363164" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/reason-conf-assets">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-183.5153.33" />
+              <option name="buildTimestamp" value="1547016619755" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1555331130967" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/reason-conf-assets-apollo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-183.5153.33" />
+              <option name="buildTimestamp" value="1547016632369" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1553180558263" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/viennajs/react-focus-within">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-192.5728.23" />
+              <option name="buildTimestamp" value="1562782457302" />
+              <option name="eap" value="true" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1563265897173" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/ws-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-181.3986.8" />
+              <option name="buildTimestamp" value="1519737586978" />
+              <option name="eap" value="true" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1520005833410" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/ws-jest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-181.3986.8" />
+              <option name="buildTimestamp" value="1519737550004" />
+              <option name="eap" value="true" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1520326768547" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/zyda/reign">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-181.3986.8" />
+              <option name="buildTimestamp" value="1519737582826" />
+              <option name="eap" value="true" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1522160403803" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/zyda/reign-ui">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-181.3986.8" />
+              <option name="buildTimestamp" value="1519737582826" />
+              <option name="eap" value="true" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1522161776419" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/reason-conf-assets">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-183.5153.33" />
+              <option name="buildTimestamp" value="1547016632369" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1553179324254" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/untitled">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1UmtzMvYpcycDYcXC9HMhCGTxE5">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-193.5233.80" />
+              <option name="buildTimestamp" value="1574675997286" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1575973859637" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/homebridge-squeezebox">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1UqlHT1xNMjHCW7FSZbeMjas9E8">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-193.5233.80" />
+              <option name="buildTimestamp" value="1574675958701" />
+              <frame x="0" y="23" width="1555" height="1417" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1576155696613" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/ColorSnapper/website">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1TmsjrkClJWpZILfbOSBsMaNLfQ">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-193.5233.80" />
+              <option name="buildTimestamp" value="1574675958701" />
+              <frame x="0" y="23" width="1274" height="1417" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1576657587159" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1WkuupBsGi9x4t08mArvl4K1Gmv">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-193.6015.20" />
+              <option name="buildTimestamp" value="1578932907099" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1579706139570" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/mrm-tasks">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1WkuwNG34ZSoO9snTYIpulMy1sJ">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-193.6015.20" />
+              <option name="buildTimestamp" value="1578932907099" />
+              <frame x="0" y="23" width="1680" height="1027" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1579706151387" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/wvdigital/WVUnited-Shared-Platform-Distribution">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1WCU3We7fHKJuPQU96LuuQJsyUK">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-193.6015.20" />
+              <option name="buildTimestamp" value="1578932907099" />
+              <frame x="79" y="104" width="1593" height="1303" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1579856689335" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/adverity/insights/web-app">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1ZvuZR28mvSOCFGyUygIQzuE9pj">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.6487.16" />
+              <option name="buildTimestamp" value="1584550563711" />
+              <option name="eap" value="true" />
+              <frame x="1199" y="57" width="1328" height="1278" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1585746328137" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/component-driven/react-design-tokens">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1MosKY4Tb4a6Qpxcqn5xZXDrCT4">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.6668.68" />
+              <option name="buildTimestamp" value="1585766616704" />
+              <frame x="0" y="23" width="1443" height="1027" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1586250409454" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/adverity/adverity-datatap/web-app">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1aGGbgB1u6UDBW3dXX7f1RaQi9y">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.6668.68" />
+              <option name="buildTimestamp" value="1585766596264" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1586354589247" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/adverity/adverity-datatap">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1ZItrYEknzYiP1uZtJXQkc30ayc">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.6668.68" />
+              <option name="buildTimestamp" value="1585766596264" />
+              <frame x="712" y="23" width="1848" height="1275" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1586432040124" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/adverity/insights">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1ZfgTCPcP2QO5JlGGFwab85JYRH">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.6668.68" />
+              <option name="buildTimestamp" value="1585766596264" />
+              <frame x="0" y="23" width="1275" height="703" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1586432057696" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/wvdigital/WVUnited-Shared-Platform-Distribution/modules/mwv/my_world_vision/mwv_react">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1WCUAr6kZ3o6IKvCmOX8KAYeAYC">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.6668.68" />
+              <option name="buildTimestamp" value="1585766596264" />
+              <frame x="0" y="23" width="1275" height="1417" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1586430502284" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/mdx-deck">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1aOk43sKoPCvhwSmGgQ0hueh9ej">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.6668.68" />
+              <option name="buildTimestamp" value="1585766596264" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1586613832884" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/adverity/adverity-components">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1YzOXf8znOqdhmjsv7tNv1ur94Y">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.6668.106" />
+              <option name="buildTimestamp" value="1586190075647" />
+              <frame x="355" y="68" width="1523" height="1131" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1587481518454" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/adverity/adverity-presense-frontend">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1YzMV0EaHxYno7imjh66IrsBOgE">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.6668.106" />
+              <option name="buildTimestamp" value="1586190075647" />
+              <frame x="1285" y="38" width="1275" height="1402" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1587542476164" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/react-focus-utils">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1YtTrm3CfRLJwvUDauEZXLx3SX9">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.7223.34" />
+              <option name="buildTimestamp" value="1587457907394" />
+              <frame x="2" y="23" width="1275" height="1417" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1589361824920" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/dotfiles/./.">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1bzJVOPKCOpxnUumx0gufrmQJ2S">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.7223.93" />
+              <option name="buildTimestamp" value="1588234320708" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1589629012361" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/component-driven/mdx-deck-theme">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1aOal3Ev9jMstax6ReQWVJAy49a">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.7223.93" />
+              <option name="buildTimestamp" value="1588234339819" />
+              <frame x="507" y="1463" width="1282" height="1027" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1591001031188" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Bluereceipt-dashboard-develop">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1ctKGRjXXWB21sUa0DAQnIFZLKy">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.7223.93" />
+              <option name="buildTimestamp" value="1588234367924" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1591620242005" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/adverity/adverity-usage-collector">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1d7tPjHV7TJiJFggdwVDb9jTBdD">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-202.5428.27" />
+              <option name="buildTimestamp" value="1591887278027" />
+              <option name="eap" value="true" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1592294385339" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/dotfiles">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1bzJVOPKCOpxnUumx0gufrmQJ2S">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-202.6109.29" />
+              <option name="buildTimestamp" value="1593693560886" />
+              <option name="eap" value="true" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1594113071901" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/component-driven/ds-101-workshop">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1ZZfZ6WTjs3I4Rp7oBdtbCsFHNK">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-202.6250.10" />
+              <option name="buildTimestamp" value="1594189637537" />
+              <option name="eap" value="true" />
+              <frame x="488" y="1463" width="1129" height="877" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1594622982153" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/gatsby-plugin-open-graph-images">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1g3ft7cE8aPEuGuSJR6U0OBhqgx">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-202.6397.88" />
+              <option name="buildTimestamp" value="1595617534789" />
+              <frame x="1172" y="23" width="1356" height="1417" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1597395027886" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/lint-staged">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1a4zu1ZlMkcxU0fZGons425BeKM">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-202.6397.88" />
+              <option name="buildTimestamp" value="1595617555541" />
+              <frame fullScreen="true" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1598256727511" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/component-driven/resilient-component-libraries">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1eiEZleSoTVJYrO2pxQJWPyDexH">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-202.6397.88" />
+              <option name="buildTimestamp" value="1595617504050" />
+              <frame x="0" y="23" width="2560" height="1417" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1598858450714" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/OSS/homebridge-yeelight-wifi">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1UxwrvbPU0DCo38KFl3OsBGYpj6">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-202.6397.88" />
+              <option name="buildTimestamp" value="1595617504050" />
+              <frame x="0" y="0" width="2560" height="1440" fullScreen="true" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1599052771444" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/xiaomi-roborock-token-extractor">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1hXTvUph5XuIO7V0tpZMQX8Dpqh">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-202.7319.44" />
+              <option name="buildTimestamp" value="1599647133972" />
+              <frame x="68" y="24" width="2443" height="1417" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1600156918813" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/component-driven/component-driven-development">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1MosJwh4ddLl7bifKkt9lIWiT04">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-202.7319.49" />
+              <option name="buildTimestamp" value="1600075258129" />
+              <frame x="0" y="23" width="1271" height="1417" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1602940535487" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/feedly/client">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1Y4lMRBB1UiyeSRqyQjoSRz69ly">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-202.7660.23" />
+              <option name="buildTimestamp" value="1601476481330" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1603189458410" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/component-driven/gatsby-theme-content-collections">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1g0M0xcWuDluy0U991vPshFVgCd">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-202.7660.23" />
+              <option name="buildTimestamp" value="1601476456427" />
+              <frame x="594" y="23" width="1275" height="1417" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1605276415945" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/viewar/viewar-developer-portal">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1NDq3TGJ5PXFQEUdEJlj7S0p0Fz">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-202.7660.23" />
+              <option name="buildTimestamp" value="1601476477555" />
+              <frame x="214" y="23" width="1616" height="1417" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1605531131483" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/adverity/design-system/scripts/icons-publisher">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1kT07hb8ZuqHg8NVxqixSpisGFu">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-202.7660.23" />
+              <option name="buildTimestamp" value="1601476477555" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1605709114127" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/danielamulle.at">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1WOGP8SHDrl2rs1R8PjYGfiIEG3">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-202.7660.23" />
+              <option name="buildTimestamp" value="1601476480869" />
+              <frame x="0" y="23" width="1275" height="1417" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1605868338635" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/kleiner_perkins/crm_web_client">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1MxzpWL1NZR5BSX4Hy0GI8xLWCS">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-202.7660.23" />
+              <option name="buildTimestamp" value="1601476480869" />
+              <frame x="27" y="23" width="1487" height="1417" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1605780392966" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/wvdigital/WVUnited-React-Widgets">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1Xn6z5Wq6Qw2OR0TpujrwtL4eL5">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-202.7660.23" />
+              <option name="buildTimestamp" value="1601476446523" />
+              <frame x="226" y="34" width="1426" height="1383" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1606477155614" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/facetype/monolisa-website">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1NUnsZntaRLjx7N6mwZL9tVejsd">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-202.7660.23" />
+              <option name="buildTimestamp" value="1601476446523" />
+              <frame x="837" y="223" width="1171" height="1192" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1606487816282" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/component-driven.io">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1MosKkOPhx4AKKoSxgjsBB8DOwz">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-202.7660.23" />
+              <option name="buildTimestamp" value="1601476446523" />
+              <frame x="721" y="23" width="1275" height="1417" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1606726275522" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/component-driven/ui">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1ksSTjtKeCWFs9ZSd3vxcexOXyz">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-202.7660.23" />
+              <option name="buildTimestamp" value="1601476446523" />
+              <frame x="0" y="23" width="1275" height="1417" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1606726275522" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/adverity/design-system">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1WQK6XOKR2m4qrU6wVBtbKQXZxO">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-202.7660.23" />
+              <option name="buildTimestamp" value="1601476446523" />
+              <frame x="0" y="23" width="1275" height="1417" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1606726275522" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Projects" />
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Projects/adverity/design-system" />
+        <option value="$USER_HOME$/Projects/component-driven/ui" />
+        <option value="$USER_HOME$/Projects/component-driven.io" />
+        <option value="$USER_HOME$/Projects/facetype/monolisa-website" />
+        <option value="$USER_HOME$/Projects/wvdigital/WVUnited-React-Widgets" />
+        <option value="$USER_HOME$/Projects/kleiner_perkins/crm_web_client" />
+        <option value="$USER_HOME$/Projects/danielamulle.at" />
+        <option value="$USER_HOME$/Projects/adverity/design-system/scripts/icons-publisher" />
+        <option value="$USER_HOME$/Projects/viewar/viewar-developer-portal" />
+        <option value="$USER_HOME$/Projects/component-driven/gatsby-theme-content-collections" />
+        <option value="$USER_HOME$/Projects/feedly/client" />
+        <option value="$USER_HOME$/Projects/component-driven/component-driven-development" />
+        <option value="$USER_HOME$/Projects/xiaomi-roborock-token-extractor" />
+        <option value="$USER_HOME$/Projects/OSS/homebridge-yeelight-wifi" />
+        <option value="$USER_HOME$/Projects/component-driven/resilient-component-libraries" />
+        <option value="$USER_HOME$/Projects/OSS/lint-staged" />
+        <option value="$USER_HOME$/Projects/OSS/gatsby-plugin-open-graph-images" />
+        <option value="$USER_HOME$/Projects/component-driven/ds-101-workshop" />
+        <option value="$USER_HOME$/Projects/dotfiles" />
+        <option value="$USER_HOME$/Projects/adverity/adverity-usage-collector" />
+        <option value="$USER_HOME$/Downloads/Bluereceipt-dashboard-develop" />
+        <option value="$USER_HOME$/Projects/component-driven/mdx-deck-theme" />
+        <option value="$USER_HOME$/Projects/dotfiles/./." />
+        <option value="$USER_HOME$/Projects/OSS/react-focus-utils" />
+        <option value="$USER_HOME$/Projects/adverity/adverity-presense-frontend" />
+        <option value="$USER_HOME$/Projects/adverity/adverity-components" />
+        <option value="$USER_HOME$/Projects/OSS/mdx-deck" />
+        <option value="$USER_HOME$/Projects/wvdigital/WVUnited-Shared-Platform-Distribution/modules/mwv/my_world_vision/mwv_react" />
+        <option value="$USER_HOME$/Projects/adverity/insights" />
+        <option value="$USER_HOME$/Projects/adverity/adverity-datatap" />
+        <option value="$USER_HOME$/Projects/adverity/adverity-datatap/web-app" />
+        <option value="$USER_HOME$/Projects/component-driven/react-design-tokens" />
+        <option value="$USER_HOME$/Projects/adverity/insights/web-app" />
+        <option value="$USER_HOME$/Projects/wvdigital/WVUnited-Shared-Platform-Distribution" />
+        <option value="$USER_HOME$/Projects/OSS/mrm-tasks" />
+        <option value="$USER_HOME$/Projects/OSS" />
+        <option value="$USER_HOME$/Projects/ColorSnapper/website" />
+        <option value="$USER_HOME$/Projects/OSS/homebridge-squeezebox" />
+        <option value="$USER_HOME$/Projects/untitled" />
+        <option value="$USER_HOME$/reason-conf-assets" />
+        <option value="$USER_HOME$/Projects/zyda/reign-ui" />
+        <option value="$USER_HOME$/Projects/zyda/reign" />
+        <option value="$USER_HOME$/Projects/ws-jest" />
+        <option value="$USER_HOME$/Projects/ws-demo" />
+        <option value="$USER_HOME$/Projects/viennajs/react-focus-within" />
+        <option value="$USER_HOME$/Projects/reason-conf-assets-apollo" />
+        <option value="$USER_HOME$/Projects/reason-conf-assets" />
+        <option value="$USER_HOME$/Projects/reason-conf-2019" />
+        <option value="$USER_HOME$/Projects/reason-conf" />
+        <option value="$USER_HOME$/Projects/kleiner_perkins/crm_web_client/eslint" />
+      </list>
+    </option>
+  </component>
+</application>

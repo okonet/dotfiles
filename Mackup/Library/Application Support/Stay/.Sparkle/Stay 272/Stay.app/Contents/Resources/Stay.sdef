@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "file://localhost/System/Library/DTDs/sdef.dtd">
+<dictionary title="Dictionary" xmlns:xi="http://www.w3.org/2003/XInclude">
+	
+	<suite name="Stay Suite" code="Stay" description="Commands and classes for Stay scripting.">
+		
+		<!-- top level commands -->
+		<command name="get URL" code="GURLGURL" description="Open a selected URL from a different application.">
+			<cocoa class="STURLHandler"/>
+			<direct-parameter description="url parameter passed to the command as text." type="text"/>
+		</command>
+		
+		<!-- menu commands -->
+		<command name="restore all windows" code="StayRAll" description="Restore all windows to their stored sizes and positions.">
+			<cocoa class="STScriptingSupport"/>
+			<result description="Whether restoring windows was successful." type="boolean"/>
+		</command>
+		
+		<command name="restore active application windows" code="StayRApp" description="Restore the windows of the active application to their stored sizes and positions.">
+			<cocoa class="STScriptingSupport"/>
+			<result description="Whether restoring windows was successful." type="boolean"/>
+		</command>
+		
+		<command name="store active application windows" code="StaySApp" description="Store the windows of the active application.">
+			<cocoa class="STScriptingSupport"/>			<parameter name="overwrite" code="SOWr" type="boolean" optional="yes"       description="Whether to overwrite existing stored windows. Existing stored windows will not be overwritten by default." >
+				<cocoa key="Overwrite"/>
+			</parameter>
+			<result description="Whether storing windows was successful." type="boolean"/>
+		</command>
+		
+		<command name="store active window" code="StaySWin" description="Store the active window.">
+			<cocoa class="STScriptingSupport"/>			<parameter name="overwrite" code="SOWr" type="boolean" optional="yes" description="Whether to overwrite existing stored windows. Existing stored windows will not be overwritten by default." >
+				<cocoa key="Overwrite"/>
+			</parameter>
+			<result description="Whether storing windows was successful." type="boolean"/>
+		</command>
+		
+		<command name="store all windows" code="StaySAll" description="Store all windows.">
+			<cocoa class="STScriptingSupport"/>
+			<parameter name="overwrite" code="SOWr" type="boolean" optional="yes" description="Whether to overwrite existing stored windows. Existing stored windows will not be overwritten by default." >
+				<cocoa key="Overwrite"/>
+			</parameter>
+			<result description="Whether storing windows was successful." type="boolean"/>
+		</command>
+        
+        <command name="make display configuration active" code="StayMkAc" description="Makes a display configuration active if it is possible to do so.">
+            <cocoa class="STScriptingSupport"/>
+            <parameter name="name" code="SNam" type="text" optional="no" description="The name of the display configuration to make active." >
+                <cocoa key="DisplayConfigurationName"/>
+            </parameter>
+            <result description="Whether making the display configuration active was successful." type="boolean"/>
+        </command>
+    
+	</suite>
+	
+</dictionary>

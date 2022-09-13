@@ -1,0 +1,13 @@
+s = {
+	title = ZSTR "$$$/AgLibrary/ColorSetFactoryDefaults/BridgeDefault=Bridge Default",
+	internalName = "Bridge Default",
+	type = "LabelSet",
+	version = 1,
+	value = {
+		label1 = ZSTR "$$$/AgLibrary/ColorSetFactoryDefaults/Bridge/Select=Select",
+		label2 = ZSTR "$$$/AgLibrary/ColorSetFactoryDefaults/Bridge/Second=Second",
+		label3 = ZSTR "$$$/AgLibrary/ColorSetFactoryDefaults/Bridge/Approved=Approved",
+		label4 = ZSTR "$$$/AgLibrary/ColorSetFactoryDefaults/Bridge/Review=Review",
+		label5 = ZSTR "$$$/AgLibrary/ColorSetFactoryDefaults/Bridge/ToDo=To Do",
+	},
+}

@@ -1,0 +1,13 @@
+s = {
+	title = ZSTR "$$$/AgLibrary/ColorSetFactoryDefaults/LrDefault=Lightroom Default",
+	internalName = "Default",
+	type = "LabelSet",
+	version = 1,
+	value = {
+		label1 = ZSTR "$$$/AgLibrary/Menu/Photo/Label/Red=Red",
+		label2 = ZSTR "$$$/AgLibrary/Menu/Photo/Label/Yellow=Yellow",
+		label3 = ZSTR "$$$/AgLibrary/Menu/Photo/Label/Green=Green",
+		label4 = ZSTR "$$$/AgLibrary/Menu/Photo/Label/Blue=Blue",
+		label5 = ZSTR "$$$/AgLibrary/Menu/Photo/Label/Purple=Purple",
+	},
+}

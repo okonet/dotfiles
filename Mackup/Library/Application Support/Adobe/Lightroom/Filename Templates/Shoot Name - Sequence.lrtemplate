@@ -1,0 +1,22 @@
+s = {
+	deflated = {
+		{
+			{
+				value = "shoot_custom_token",
+			},
+			"-",
+			{
+				value = "naming_sequenceNumber_3Digits",
+			},
+			name = "Shoot Name - Sequence",
+			presetType = "Naming",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	internalName = "ShootNameSequence2",
+	title = ZSTR "$$$/TokenPresets/Naming/Title/ShootNameSequence=Shoot Name - Sequence",
+	type = "Naming_Tokens",
+	specialClass = { "import" },
+	version = 2,
+}

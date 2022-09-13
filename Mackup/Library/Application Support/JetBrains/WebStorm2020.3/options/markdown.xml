@@ -1,0 +1,6 @@
+<application>
+  <component name="MarkdownApplicationSettings">
+    <MarkdownCssSettings />
+    <MarkdownPreviewSettings DefaultSplitLayout="Show editor only" />
+  </component>
+</application>

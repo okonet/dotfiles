@@ -1,0 +1,17 @@
+s = {
+	deflated = {
+		{
+			{
+				value = "image_name",
+			},
+			name = "Filename",
+			presetType = "Naming",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	title = ZSTR "$$$/TokenPresets/Naming/Title/Filename=Filename",
+	internalName = "Filename",
+	type = "Naming_Tokens",
+	version = 1,
+}

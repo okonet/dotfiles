@@ -1,0 +1,26 @@
+s = {
+	id = "D0F48510-7810-41F8-A98A-613B4AEC1022",
+	internalName = "Unrated",
+	title = ZSTR "$$$/AgLibrary/FilterPresets/Unrated=Unrated",
+	type = "LibraryFilter",
+	version = 2,
+	value = {
+		filtersActive = true,
+		
+		labelOp = "any",
+		label1 = false,
+		label2 = false,
+		label3 = false,
+		label4 = false,
+		label5 = false,
+		noLabel = false,
+		customLabel = false,
+		
+		ratingOp = "==",
+		minRating = "<nil>",
+		
+		pick = "<nil>",
+		usage = "<nil>",
+		whichCopies = "<nil>",
+	},
+}

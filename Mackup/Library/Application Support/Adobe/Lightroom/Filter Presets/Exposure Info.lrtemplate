@@ -1,0 +1,24 @@
+s = {
+	id = "56A24080-5EE7-4700-903F-9881DC72BFE9",
+	internalName = "Exposure Info",
+	title = ZSTR "$$$/AgLibrary/FilterPresets/ExposureInfo=Exposure Info",
+	type = "LibraryFilter",
+	value = {
+		columnBrowserActive = true,
+		columnBrowserDesc = {
+			{
+				criteria = "focalLength",
+			},
+			{
+				criteria = "isoSpeed",
+			},
+			{
+				criteria = "aperture",
+			},
+			{
+				criteria = "shutterSpeed",
+			},
+		},
+	},
+	version = 1,
+}

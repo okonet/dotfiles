@@ -1,0 +1,1440 @@
+cr_sdk_initialize: Adobe Lightroom 5.4 (Macintosh), version 14.4x1121, 64-bit, Release
+gDNGMaxSIMD: 1
+Memory allocator: baseline (cr_memory_allocator)
+libdispatch threading: yes
+thread type: dispatch
+ACE thread type: dispatch
+PatchMatch initialized (version 5.81.0.0). Using 8 threads.
+OS: 11.4
+CPU: Apple M1
+MPProcessorCount (hyperthreading = false): 8
+MPProcessorCount (hyperthreading = true): 8
+MPThreadCount: 5
+std::thread::hardware_concurrency: 8
+AVX support: no
+AVX2 support: no
+AVX512 support: no
+System physical RAM: 16 GB
+Initialize GPU system
+Read GPU config
+Safe load GPU
+Building pipeline states for Apple M1
+Loaded GPU system: Metal
+GPU primary driver version: 11.4.0
+GPU device count: 1
+GPU device names: Apple M1
+GPU3 allow list: yes
+GPU3 deny list: no
+GPU3 prev digest: 91A39972948BA55E7400BE59C5076A18
+GPU3 new digest: 91A39972948BA55E7400BE59C5076A18
+Need to run gpu self tests : False.
+GPU Init Status (part 1): I2_GPU2
+GPU3 Hard Status Result (part 1): unknown
+GPU3 Soft Status Result (part 1): success
+GPU4 Hard Status Result (part 1): fail_config_disable
+GPU4 Soft Status Result (part 1): success
+Apple M1: Building compute pipeline state (1/253)
+MaxTotalThreadsPerThreadGroup: TestNOPCompute,1024,1024
+Apple M1: Building compute pipeline state (2/253)
+Intel Compiler: no
+MaxTotalThreadsPerThreadGroup: Test1dFunctionsCompute,832,832
+Apple M1: Building compute pipeline state (3/253)
+MaxTotalThreadsPerThreadGroup: TestComputeCompute,1024,1024
+Apple M1: Building compute pipeline state (4/253)
+MaxTotalThreadsPerThreadGroup: TestComputeSpeedCompute,1024,1024
+Apple M1: Building compute pipeline state (5/253)
+MaxTotalThreadsPerThreadGroup: TestDispatchIndirectFillBuffersCompute,1024,1024
+Apple M1: Building compute pipeline state (6/253)
+MaxTotalThreadsPerThreadGroup: TestDispatchIndirectRecordInfoCompute,1024,1024
+Apple M1: Building compute pipeline state (7/253)
+MaxTotalThreadsPerThreadGroup: TestDoRenderCompute,1024,1024
+Apple M1: Building compute pipeline state (8/253)
+MaxTotalThreadsPerThreadGroup: TestMarkTip32Compute,1024,1024
+Apple M1: Building compute pipeline state (9/253)
+MaxTotalThreadsPerThreadGroup: TestShader1_BufInPlace_2D_R32FloatCompute,1024,1024
+Apple M1: Building compute pipeline state (10/253)
+MaxTotalThreadsPerThreadGroup: TestShader1_BufPingPong_2D_R32FloatCompute,1024,1024
+Apple M1: Building compute pipeline state (11/253)
+MaxTotalThreadsPerThreadGroup: TestShader1_TexPingPong_2DCompute,1024,1024
+Apple M1: Building compute pipeline state (12/253)
+MaxTotalThreadsPerThreadGroup: AutoLateralCAWarpTransformCompute,1024,1024
+Apple M1: Building compute pipeline state (13/253)
+MaxTotalThreadsPerThreadGroup: Blur1Pass1PlaneRadius1Compute,1024,1024
+Apple M1: Building compute pipeline state (14/253)
+MaxTotalThreadsPerThreadGroup: Blur1Pass1PlaneRadius2Compute,1024,1024
+Apple M1: Building compute pipeline state (15/253)
+MaxTotalThreadsPerThreadGroup: Blur1Pass1PlaneRadius3Compute,1024,1024
+Apple M1: Building compute pipeline state (16/253)
+MaxTotalThreadsPerThreadGroup: Blur1Pass1PlaneRadius4Compute,1024,1024
+Apple M1: Building compute pipeline state (17/253)
+MaxTotalThreadsPerThreadGroup: Blur1Pass1PlaneRadius5Compute,1024,1024
+Apple M1: Building compute pipeline state (18/253)
+MaxTotalThreadsPerThreadGroup: Blur1Pass1PlaneRadius6Compute,1024,1024
+Apple M1: Building compute pipeline state (19/253)
+MaxTotalThreadsPerThreadGroup: Blur1Pass4PlaneRadius1Compute,1024,1024
+Apple M1: Building compute pipeline state (20/253)
+MaxTotalThreadsPerThreadGroup: Blur1Pass4PlaneRadius2Compute,1024,1024
+Apple M1: Building compute pipeline state (21/253)
+MaxTotalThreadsPerThreadGroup: Blur1Pass4PlaneRadius3Compute,1024,1024
+Apple M1: Building compute pipeline state (22/253)
+MaxTotalThreadsPerThreadGroup: Blur1Pass4PlaneRadius4Compute,832,832
+Apple M1: Building compute pipeline state (23/253)
+MaxTotalThreadsPerThreadGroup: Blur1Pass4PlaneRadius5Compute,832,832
+Apple M1: Building compute pipeline state (24/253)
+MaxTotalThreadsPerThreadGroup: Blur1Pass4PlaneRadius6Compute,640,640
+Apple M1: Building compute pipeline state (25/253)
+MaxTotalThreadsPerThreadGroup: BlurAcrossOrDown1PlaneRadius1Compute,1024,1024
+Apple M1: Building compute pipeline state (26/253)
+MaxTotalThreadsPerThreadGroup: BlurAcrossOrDown1PlaneRadius2Compute,1024,1024
+Apple M1: Building compute pipeline state (27/253)
+MaxTotalThreadsPerThreadGroup: BlurAcrossOrDown1PlaneRadius3Compute,1024,1024
+Apple M1: Building compute pipeline state (28/253)
+MaxTotalThreadsPerThreadGroup: BlurAcrossOrDown1PlaneRadius4Compute,1024,1024
+Apple M1: Building compute pipeline state (29/253)
+MaxTotalThreadsPerThreadGroup: BlurAcrossOrDown1PlaneRadius5Compute,1024,1024
+Apple M1: Building compute pipeline state (30/253)
+MaxTotalThreadsPerThreadGroup: BlurAcrossOrDown1PlaneRadius6Compute,1024,1024
+Apple M1: Building compute pipeline state (31/253)
+MaxTotalThreadsPerThreadGroup: BlurAcrossOrDown1PlaneRadiusNCompute,1024,1024
+Apple M1: Building compute pipeline state (32/253)
+MaxTotalThreadsPerThreadGroup: BlurAcrossOrDown4PlaneRadius1Compute,1024,1024
+Apple M1: Building compute pipeline state (33/253)
+MaxTotalThreadsPerThreadGroup: BlurAcrossOrDown4PlaneRadius2Compute,1024,1024
+Apple M1: Building compute pipeline state (34/253)
+MaxTotalThreadsPerThreadGroup: BlurAcrossOrDown4PlaneRadius3Compute,1024,1024
+Apple M1: Building compute pipeline state (35/253)
+MaxTotalThreadsPerThreadGroup: BlurAcrossOrDown4PlaneRadius4Compute,1024,1024
+Apple M1: Building compute pipeline state (36/253)
+MaxTotalThreadsPerThreadGroup: BlurAcrossOrDown4PlaneRadius5Compute,1024,1024
+Apple M1: Building compute pipeline state (37/253)
+MaxTotalThreadsPerThreadGroup: BlurAcrossOrDown4PlaneRadius6Compute,1024,1024
+Apple M1: Building compute pipeline state (38/253)
+MaxTotalThreadsPerThreadGroup: BlurAcrossOrDown4PlaneRadiusNCompute,1024,1024
+Apple M1: Building compute pipeline state (39/253)
+MaxTotalThreadsPerThreadGroup: BoxBlur1Pass1PlanePlusComputeABRadius1Compute,1024,1024
+Apple M1: Building compute pipeline state (40/253)
+MaxTotalThreadsPerThreadGroup: BoxBlur1Pass1PlanePlusComputeABRadius2Compute,1024,1024
+Apple M1: Building compute pipeline state (41/253)
+MaxTotalThreadsPerThreadGroup: BoxBlur1Pass1PlanePlusComputeABRadius3Compute,1024,1024
+Apple M1: Building compute pipeline state (42/253)
+MaxTotalThreadsPerThreadGroup: BoxBlur1Pass1PlanePlusComputeABRadius4Compute,1024,1024
+Apple M1: Building compute pipeline state (43/253)
+MaxTotalThreadsPerThreadGroup: BoxBlur1Pass1PlanePlusComputeABRadius5Compute,1024,1024
+Apple M1: Building compute pipeline state (44/253)
+MaxTotalThreadsPerThreadGroup: BoxBlur1Pass1PlanePlusComputeABRadius6Compute,1024,1024
+Apple M1: Building compute pipeline state (45/253)
+MaxTotalThreadsPerThreadGroup: BoxBlur1Pass2PlanePlusAffinePlusPreprocessRadius1Compute,1024,1024
+Apple M1: Building compute pipeline state (46/253)
+MaxTotalThreadsPerThreadGroup: BoxBlur1Pass2PlanePlusAffinePlusPreprocessRadius2Compute,896,896
+Apple M1: Building compute pipeline state (47/253)
+MaxTotalThreadsPerThreadGroup: BoxBlur1Pass2PlanePlusAffinePlusPreprocessRadius3Compute,512,512
+Apple M1: Building compute pipeline state (48/253)
+MaxTotalThreadsPerThreadGroup: BoxBlur1Pass2PlanePlusAffinePlusPreprocessRadius4Compute,384,384
+Apple M1: Building compute pipeline state (49/253)
+MaxTotalThreadsPerThreadGroup: BoxBlur1Pass2PlanePlusAffinePlusPreprocessRadius5Compute,384,384
+Apple M1: Building compute pipeline state (50/253)
+MaxTotalThreadsPerThreadGroup: BoxBlur1Pass3PlanePlusComputeABRadius1Compute,1024,1024
+Apple M1: Building compute pipeline state (51/253)
+MaxTotalThreadsPerThreadGroup: BoxBlur1Pass3PlanePlusComputeABRadius2Compute,704,704
+Apple M1: Building compute pipeline state (52/253)
+MaxTotalThreadsPerThreadGroup: BoxBlur1Pass3PlanePlusComputeABRadius3Compute,448,448
+Apple M1: Building compute pipeline state (53/253)
+MaxTotalThreadsPerThreadGroup: BoxBlur1Pass3PlanePlusComputeABRadius4Compute,384,384
+Apple M1: Building compute pipeline state (54/253)
+MaxTotalThreadsPerThreadGroup: BoxBlur1Pass3PlanePlusComputeABRadius5Compute,1024,1024
+Apple M1: Building compute pipeline state (55/253)
+MaxTotalThreadsPerThreadGroup: BoxBlur1Pass3PlanePlusComputeABRadius6Compute,1024,1024
+Apple M1: Building compute pipeline state (56/253)
+MaxTotalThreadsPerThreadGroup: BoxBlur1Pass4PlaneRadius1Compute,1024,1024
+Apple M1: Building compute pipeline state (57/253)
+MaxTotalThreadsPerThreadGroup: BoxBlur1Pass4PlaneRadius2Compute,1024,1024
+Apple M1: Building compute pipeline state (58/253)
+MaxTotalThreadsPerThreadGroup: BoxBlur1Pass4PlaneRadius3Compute,1024,1024
+Apple M1: Building compute pipeline state (59/253)
+MaxTotalThreadsPerThreadGroup: BoxBlur1Pass4PlaneRadius4Compute,1024,1024
+Apple M1: Building compute pipeline state (60/253)
+MaxTotalThreadsPerThreadGroup: BoxBlur1Pass4PlaneRadius5Compute,832,832
+Apple M1: Building compute pipeline state (61/253)
+MaxTotalThreadsPerThreadGroup: BoxBlur1Pass4PlaneRadius6Compute,1024,1024
+Apple M1: Building compute pipeline state (62/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcross1PlanePlusIpProductRadius1Compute,1024,1024
+Apple M1: Building compute pipeline state (63/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcross1PlanePlusIpProductRadius2Compute,1024,1024
+Apple M1: Building compute pipeline state (64/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcross1PlanePlusIpProductRadius3Compute,1024,1024
+Apple M1: Building compute pipeline state (65/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcross1PlanePlusIpProductRadius4Compute,1024,1024
+Apple M1: Building compute pipeline state (66/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcross1PlanePlusIpProductRadius5Compute,1024,1024
+Apple M1: Building compute pipeline state (67/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcross1PlanePlusIpProductRadius6Compute,1024,1024
+Apple M1: Building compute pipeline state (68/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcross1PlanePlusIpProductRadiusNCompute,1024,1024
+Apple M1: Building compute pipeline state (69/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcross1PlanePlusIpProductRadiusNMovingAverageCompute,1024,1024
+Apple M1: Building compute pipeline state (70/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcross2PlaneRadius1Compute,1024,1024
+Apple M1: Building compute pipeline state (71/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcross2PlaneRadius2Compute,1024,1024
+Apple M1: Building compute pipeline state (72/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcross2PlaneRadius3Compute,1024,1024
+Apple M1: Building compute pipeline state (73/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcross2PlaneRadius4Compute,1024,1024
+Apple M1: Building compute pipeline state (74/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcross2PlaneRadius5Compute,1024,1024
+Apple M1: Building compute pipeline state (75/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcross2PlaneRadius6Compute,1024,1024
+Apple M1: Building compute pipeline state (76/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcross2PlaneRadiusNCompute,1024,1024
+Apple M1: Building compute pipeline state (77/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcross2PlaneRadiusNMovingAverageCompute,1024,1024
+Apple M1: Building compute pipeline state (78/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcross3PlanePlusIpProductRadius1Compute,1024,1024
+Apple M1: Building compute pipeline state (79/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcross3PlanePlusIpProductRadius2Compute,1024,1024
+Apple M1: Building compute pipeline state (80/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcross3PlanePlusIpProductRadius3Compute,1024,1024
+Apple M1: Building compute pipeline state (81/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcross3PlanePlusIpProductRadius4Compute,1024,1024
+Apple M1: Building compute pipeline state (82/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcross3PlanePlusIpProductRadius5Compute,1024,1024
+Apple M1: Building compute pipeline state (83/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcross3PlanePlusIpProductRadius6Compute,1024,1024
+Apple M1: Building compute pipeline state (84/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcross3PlanePlusIpProductRadiusNCompute,1024,1024
+Apple M1: Building compute pipeline state (85/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcross3PlanePlusIpProductRadiusNMovingAverageCompute,1024,1024
+Apple M1: Building compute pipeline state (86/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcrossOrDown4PlaneRadius1Compute,1024,1024
+Apple M1: Building compute pipeline state (87/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcrossOrDown4PlaneRadius2Compute,1024,1024
+Apple M1: Building compute pipeline state (88/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcrossOrDown4PlaneRadius3Compute,1024,1024
+Apple M1: Building compute pipeline state (89/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcrossOrDown4PlaneRadius4Compute,1024,1024
+Apple M1: Building compute pipeline state (90/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcrossOrDown4PlaneRadius5Compute,1024,1024
+Apple M1: Building compute pipeline state (91/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcrossOrDown4PlaneRadius6Compute,1024,1024
+Apple M1: Building compute pipeline state (92/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcrossOrDown4PlaneRadiusNCompute,1024,1024
+Apple M1: Building compute pipeline state (93/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurAcrossOrDown4PlaneRadiusNMovingAverageCompute,1024,1024
+Apple M1: Building compute pipeline state (94/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurDown1PlanePlusComputeABRadius1Compute,1024,1024
+Apple M1: Building compute pipeline state (95/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurDown1PlanePlusComputeABRadius2Compute,1024,1024
+Apple M1: Building compute pipeline state (96/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurDown1PlanePlusComputeABRadius3Compute,1024,1024
+Apple M1: Building compute pipeline state (97/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurDown1PlanePlusComputeABRadius4Compute,1024,1024
+Apple M1: Building compute pipeline state (98/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurDown1PlanePlusComputeABRadius5Compute,1024,1024
+Apple M1: Building compute pipeline state (99/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurDown1PlanePlusComputeABRadius6Compute,1024,1024
+Apple M1: Building compute pipeline state (100/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurDown1PlanePlusComputeABRadiusNCompute,1024,1024
+Apple M1: Building compute pipeline state (101/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurDown1PlanePlusComputeABRadiusNMovingAverageCompute,1024,1024
+Apple M1: Building compute pipeline state (102/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurDown2PlanePlusAffinePlusPreprocessRadius1Compute,1024,1024
+Apple M1: Building compute pipeline state (103/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurDown2PlanePlusAffinePlusPreprocessRadius2Compute,1024,1024
+Apple M1: Building compute pipeline state (104/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurDown2PlanePlusAffinePlusPreprocessRadius3Compute,1024,1024
+Apple M1: Building compute pipeline state (105/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurDown2PlanePlusAffinePlusPreprocessRadius4Compute,1024,1024
+Apple M1: Building compute pipeline state (106/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurDown2PlanePlusAffinePlusPreprocessRadius5Compute,1024,1024
+Apple M1: Building compute pipeline state (107/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurDown2PlanePlusAffinePlusPreprocessRadius6Compute,1024,1024
+Apple M1: Building compute pipeline state (108/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurDown2PlanePlusAffinePlusPreprocessRadiusNCompute,1024,1024
+Apple M1: Building compute pipeline state (109/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurDown2PlanePlusAffinePlusPreprocessRadiusNMovingAverageCompute,1024,1024
+Apple M1: Building compute pipeline state (110/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurDown3PlanePlusComputeABRadius1Compute,1024,1024
+Apple M1: Building compute pipeline state (111/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurDown3PlanePlusComputeABRadius2Compute,1024,1024
+Apple M1: Building compute pipeline state (112/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurDown3PlanePlusComputeABRadius3Compute,1024,1024
+Apple M1: Building compute pipeline state (113/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurDown3PlanePlusComputeABRadius4Compute,1024,1024
+Apple M1: Building compute pipeline state (114/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurDown3PlanePlusComputeABRadius5Compute,1024,1024
+Apple M1: Building compute pipeline state (115/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurDown3PlanePlusComputeABRadius6Compute,1024,1024
+Apple M1: Building compute pipeline state (116/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurDown3PlanePlusComputeABRadiusNCompute,1024,1024
+Apple M1: Building compute pipeline state (117/253)
+MaxTotalThreadsPerThreadGroup: BoxBlurDown3PlanePlusComputeABRadiusNMovingAverageCompute,1024,1024
+Apple M1: Building compute pipeline state (118/253)
+MaxTotalThreadsPerThreadGroup: Copy2PlaneTextureTo4PlaneTextureCompute,1024,1024
+Apple M1: Building compute pipeline state (119/253)
+MaxTotalThreadsPerThreadGroup: CopyBuffer16sToTexture32Compute,1024,1024
+Apple M1: Building compute pipeline state (120/253)
+MaxTotalThreadsPerThreadGroup: CopyBuffer16uToTexture32Compute,1024,1024
+Apple M1: Building compute pipeline state (121/253)
+MaxTotalThreadsPerThreadGroup: CopyBuffer32ToTexture32Compute,1024,1024
+Apple M1: Building compute pipeline state (122/253)
+MaxTotalThreadsPerThreadGroup: CopyBufferToBufferCompute,1024,1024
+Apple M1: Building compute pipeline state (123/253)
+MaxTotalThreadsPerThreadGroup: CopyBufferToTextureCompute,1024,1024
+Apple M1: Building compute pipeline state (124/253)
+MaxTotalThreadsPerThreadGroup: CopyTexelBufferToTexelBufferCompute,1024,1024
+Apple M1: Building compute pipeline state (125/253)
+MaxTotalThreadsPerThreadGroup: CopyTextureToTextureCompute,1024,1024
+Apple M1: Building compute pipeline state (126/253)
+MaxTotalThreadsPerThreadGroup: CopyTextureToTextureWithDitherCompute,1024,1024
+Apple M1: Building compute pipeline state (127/253)
+MaxTotalThreadsPerThreadGroup: CopyTextureToTextureWithEdgeOptionCompute,1024,1024
+Apple M1: Building compute pipeline state (128/253)
+MaxTotalThreadsPerThreadGroup: CopyTextureToTextureWithPaddingCompute,1024,1024
+Apple M1: Building compute pipeline state (129/253)
+MaxTotalThreadsPerThreadGroup: DefringeCompute,1024,1024
+Apple M1: Building compute pipeline state (130/253)
+MaxTotalThreadsPerThreadGroup: DefringeBlendBlurNonBlurredCompute,1024,1024
+Apple M1: Building compute pipeline state (131/253)
+MaxTotalThreadsPerThreadGroup: DefringeCompositeMaskCompute,1024,1024
+Apple M1: Building compute pipeline state (132/253)
+MaxTotalThreadsPerThreadGroup: DefringeMaskCompute,1024,1024
+Apple M1: Building compute pipeline state (133/253)
+MaxTotalThreadsPerThreadGroup: DefringeMaxAcrossRadius1Compute,1024,1024
+Apple M1: Building compute pipeline state (134/253)
+MaxTotalThreadsPerThreadGroup: DefringeMaxDownRadius1Compute,1024,1024
+Apple M1: Building compute pipeline state (135/253)
+MaxTotalThreadsPerThreadGroup: DefringeMaxMaskCompute,1024,1024
+Apple M1: Building compute pipeline state (136/253)
+MaxTotalThreadsPerThreadGroup: DefringeMinMaskCompute,1024,1024
+Apple M1: Building compute pipeline state (137/253)
+MaxTotalThreadsPerThreadGroup: DefringeMultiplyMaskCompute,1024,1024
+Apple M1: Building compute pipeline state (138/253)
+MaxTotalThreadsPerThreadGroup: DehazeMin1Pass1PlanePlusDarkChannelPreprocessRadius1Compute,1024,1024
+Apple M1: Building compute pipeline state (139/253)
+MaxTotalThreadsPerThreadGroup: DehazeMin1Pass1PlanePlusDarkChannelPreprocessRadius2Compute,1024,1024
+Apple M1: Building compute pipeline state (140/253)
+MaxTotalThreadsPerThreadGroup: DehazeMin1Pass1PlanePlusDarkChannelPreprocessRadius3Compute,1024,1024
+Apple M1: Building compute pipeline state (141/253)
+MaxTotalThreadsPerThreadGroup: DehazeMin1Pass1PlanePlusDarkChannelPreprocessRadius4Compute,1024,1024
+Apple M1: Building compute pipeline state (142/253)
+MaxTotalThreadsPerThreadGroup: DehazeMin1Pass1PlanePlusDarkChannelPreprocessRadius5Compute,1024,1024
+Apple M1: Building compute pipeline state (143/253)
+MaxTotalThreadsPerThreadGroup: DehazeMin1Pass1PlanePlusDarkChannelPreprocessRadius6Compute,1024,1024
+Apple M1: Building compute pipeline state (144/253)
+MaxTotalThreadsPerThreadGroup: DehazeMinFilter1PlaneAcrossPlusDarkChannelRadiusNCompute,1024,1024
+Apple M1: Building compute pipeline state (145/253)
+MaxTotalThreadsPerThreadGroup: DehazeMinFilter1PlaneDownPlusPreprocessRadiusNCompute,1024,1024
+Apple M1: Building compute pipeline state (146/253)
+MaxTotalThreadsPerThreadGroup: DehazeTrMDarkChannelCompute,1024,1024
+Apple M1: Building compute pipeline state (147/253)
+MaxTotalThreadsPerThreadGroup: DehazeTrMEmitIndexedRGBLCompute,1024,1024
+Apple M1: Building compute pipeline state (148/253)
+MaxTotalThreadsPerThreadGroup: DehazeTrMSetConstantAirlightCompute,1024,1024
+Apple M1: Building compute pipeline state (149/253)
+MaxTotalThreadsPerThreadGroup: DenoiseAlphaBlendCompute,1024,1024
+Apple M1: Building compute pipeline state (150/253)
+MaxTotalThreadsPerThreadGroup: DenoiseAlphaBlendLocalCompute,1024,1024
+Apple M1: Building compute pipeline state (151/253)
+MaxTotalThreadsPerThreadGroup: DenoiseBlendEdgesCompute,1024,1024
+Apple M1: Building compute pipeline state (152/253)
+MaxTotalThreadsPerThreadGroup: DenoiseCopyLumAndColorCompute,1024,1024
+Apple M1: Building compute pipeline state (153/253)
+MaxTotalThreadsPerThreadGroup: DenoiseCrossBilateralAcrossOrDownRadius1Compute,1024,1024
+Apple M1: Building compute pipeline state (154/253)
+MaxTotalThreadsPerThreadGroup: DenoiseCrossBilateralAcrossOrDownRadius2Compute,1024,1024
+Apple M1: Building compute pipeline state (155/253)
+MaxTotalThreadsPerThreadGroup: DenoiseCrossBilateralAcrossOrDownRadius3Compute,1024,1024
+Apple M1: Building compute pipeline state (156/253)
+MaxTotalThreadsPerThreadGroup: DenoiseCrossBilateralAcrossOrDownRadius4Compute,1024,1024
+Apple M1: Building compute pipeline state (157/253)
+MaxTotalThreadsPerThreadGroup: DenoiseCrossBilateralAcrossOrDownRadius5Compute,1024,1024
+Apple M1: Building compute pipeline state (158/253)
+MaxTotalThreadsPerThreadGroup: DenoiseCrossBilateralAcrossOrDownRadius6Compute,832,832
+Apple M1: Building compute pipeline state (159/253)
+MaxTotalThreadsPerThreadGroup: DenoiseCrossBilateralAcrossOrDownRadiusNCompute,1024,1024
+Apple M1: Building compute pipeline state (160/253)
+MaxTotalThreadsPerThreadGroup: DenoiseCrossBoxBlurWithDetailAcrossOrDownRadius1Compute,1024,1024
+Apple M1: Building compute pipeline state (161/253)
+MaxTotalThreadsPerThreadGroup: DenoiseCrossBoxBlurWithDetailAcrossOrDownRadius2Compute,1024,1024
+Apple M1: Building compute pipeline state (162/253)
+MaxTotalThreadsPerThreadGroup: DenoiseCrossBoxBlurWithDetailAcrossOrDownRadius3Compute,1024,1024
+Apple M1: Building compute pipeline state (163/253)
+MaxTotalThreadsPerThreadGroup: DenoiseCrossBoxBlurWithDetailAcrossOrDownRadius4Compute,1024,1024
+Apple M1: Building compute pipeline state (164/253)
+MaxTotalThreadsPerThreadGroup: DenoiseCrossBoxBlurWithDetailAcrossOrDownRadius5Compute,1024,1024
+Apple M1: Building compute pipeline state (165/253)
+MaxTotalThreadsPerThreadGroup: DenoiseCrossBoxBlurWithDetailAcrossOrDownRadius6Compute,1024,1024
+Apple M1: Building compute pipeline state (166/253)
+MaxTotalThreadsPerThreadGroup: DenoiseCrossBoxBlurWithDetailAcrossOrDownRadiusNCompute,1024,1024
+Apple M1: Building compute pipeline state (167/253)
+MaxTotalThreadsPerThreadGroup: DenoiseDeltaFindFeatureCompute,1024,1024
+Apple M1: Building compute pipeline state (168/253)
+MaxTotalThreadsPerThreadGroup: DenoiseDiffuseEdgeMarkersCompute,1024,1024
+Apple M1: Building compute pipeline state (169/253)
+MaxTotalThreadsPerThreadGroup: DenoiseFindAndRemoveNoiseBlockCompute,1024,1024
+Apple M1: Building compute pipeline state (170/253)
+MaxTotalThreadsPerThreadGroup: DenoiseMakeDeltaCompute,1024,1024
+Apple M1: Building compute pipeline state (171/253)
+MaxTotalThreadsPerThreadGroup: DenoiseOptionKeyFeedbackCompute,1024,1024
+Apple M1: Building compute pipeline state (172/253)
+MaxTotalThreadsPerThreadGroup: DenoisePrelimEdgeDirectionCompute,1024,1024
+Apple M1: Building compute pipeline state (173/253)
+MaxTotalThreadsPerThreadGroup: DenoisePyramidBuildHpCompute,1024,1024
+Apple M1: Building compute pipeline state (174/253)
+MaxTotalThreadsPerThreadGroup: DenoisePyramidBuildLp1Compute,1024,1024
+Apple M1: Building compute pipeline state (175/253)
+MaxTotalThreadsPerThreadGroup: DenoisePyramidBuildLp3Compute,1024,1024
+Apple M1: Building compute pipeline state (176/253)
+MaxTotalThreadsPerThreadGroup: DenoisePyramidCollapseLp1Compute,1024,1024
+Apple M1: Building compute pipeline state (177/253)
+MaxTotalThreadsPerThreadGroup: DenoisePyramidCollapseLp3WithHpCompute,1024,1024
+Apple M1: Building compute pipeline state (178/253)
+MaxTotalThreadsPerThreadGroup: DenoisePyramidCollapseLp3WithoutHpCompute,1024,1024
+Apple M1: Building compute pipeline state (179/253)
+MaxTotalThreadsPerThreadGroup: DenoiseRank3x3PlusHpThresholdCompute,1024,1024
+Apple M1: Building compute pipeline state (180/253)
+MaxTotalThreadsPerThreadGroup: DenoiseRecordMaxBorderCompute,1024,1024
+Apple M1: Building compute pipeline state (181/253)
+MaxTotalThreadsPerThreadGroup: DenoiseRefineDeltasCompute,1024,1024
+Apple M1: Building compute pipeline state (182/253)
+MaxTotalThreadsPerThreadGroup: DenoiseRefineRefEdgeDirectionsCompute,1024,1024
+Apple M1: Building compute pipeline state (183/253)
+MaxTotalThreadsPerThreadGroup: DenoiseSmoothEdgesCompute,1024,1024
+Apple M1: Building compute pipeline state (184/253)
+MaxTotalThreadsPerThreadGroup: DenoiseSmoothNonEdgeCompute,1024,1024
+Apple M1: Building compute pipeline state (185/253)
+MaxTotalThreadsPerThreadGroup: DrawLineOnTexCompute,1024,1024
+Apple M1: Building compute pipeline state (186/253)
+MaxTotalThreadsPerThreadGroup: FillBufferCompute,1024,1024
+Apple M1: Building compute pipeline state (187/253)
+MaxTotalThreadsPerThreadGroup: FillBuffer1PlaneCompute,1024,1024
+Apple M1: Building compute pipeline state (188/253)
+MaxTotalThreadsPerThreadGroup: FillTextureCompute,1024,1024
+Apple M1: Building compute pipeline state (189/253)
+MaxTotalThreadsPerThreadGroup: Histogram1PlaneCompute,1024,1024
+Apple M1: Building compute pipeline state (190/253)
+MaxTotalThreadsPerThreadGroup: Histogram1Plane_V1Compute,1024,1024
+Apple M1: Building compute pipeline state (191/253)
+MaxTotalThreadsPerThreadGroup: Histogram3PlaneCompute,1024,1024
+Apple M1: Building compute pipeline state (192/253)
+MaxTotalThreadsPerThreadGroup: Histogram4Plane_V1Compute,1024,1024
+Apple M1: Building compute pipeline state (193/253)
+MaxTotalThreadsPerThreadGroup: LocalContrastYCompute,1024,1024
+Apple M1: Building compute pipeline state (194/253)
+MaxTotalThreadsPerThreadGroup: LocalCorrectionCompositeCompute,1024,1024
+Apple M1: Building compute pipeline state (195/253)
+MaxTotalThreadsPerThreadGroup: ManualDistortionTransformCompute,1024,1024
+Apple M1: Building compute pipeline state (196/253)
+MaxTotalThreadsPerThreadGroup: MaskRenderComboCompute,1024,1024
+Apple M1: Building compute pipeline state (197/253)
+MaxTotalThreadsPerThreadGroup: MoireBoxBlur1PassAndBlendRadius1Compute,1024,1024
+Apple M1: Building compute pipeline state (198/253)
+MaxTotalThreadsPerThreadGroup: MoireBoxBlur1PassAndBlendRadius2Compute,1024,1024
+Apple M1: Building compute pipeline state (199/253)
+MaxTotalThreadsPerThreadGroup: MoireBoxBlur1PassAndBlendRadius3Compute,896,896
+Apple M1: Building compute pipeline state (200/253)
+MaxTotalThreadsPerThreadGroup: MoireBoxBlur1PassAndBlendRadius4Compute,896,896
+Apple M1: Building compute pipeline state (201/253)
+MaxTotalThreadsPerThreadGroup: MoireBoxBlur1PassAndBlendRadius5Compute,1024,1024
+Apple M1: Building compute pipeline state (202/253)
+MaxTotalThreadsPerThreadGroup: MoireBoxBlur1PassAndBlendRadius6Compute,1024,1024
+Apple M1: Building compute pipeline state (203/253)
+MaxTotalThreadsPerThreadGroup: MoireBoxBlurAcrossRadiusNCompute,1024,1024
+Apple M1: Building compute pipeline state (204/253)
+MaxTotalThreadsPerThreadGroup: MoireBoxBlurDownAndBlendRadiusNCompute,1024,1024
+Apple M1: Building compute pipeline state (205/253)
+MaxTotalThreadsPerThreadGroup: MoireCombine3Plane1PlaneCompute,1024,1024
+Apple M1: Building compute pipeline state (206/253)
+MaxTotalThreadsPerThreadGroup: OutputSharpenHPAndBlendGamma18Compute,1024,1024
+Apple M1: Building compute pipeline state (207/253)
+MaxTotalThreadsPerThreadGroup: OutputSharpenGamma18Compute,1024,1024
+Apple M1: Building compute pipeline state (208/253)
+MaxTotalThreadsPerThreadGroup: OutputSharpenUSMWithThresholdCompute,1024,1024
+Apple M1: Building compute pipeline state (209/253)
+MaxTotalThreadsPerThreadGroup: OverlayGrainCompute,1024,1024
+Apple M1: Building compute pipeline state (210/253)
+MaxTotalThreadsPerThreadGroup: PerspectiveTransformCompute,1024,1024
+Apple M1: Building compute pipeline state (211/253)
+MaxTotalThreadsPerThreadGroup: RadialTableWarpTransformCompute,1024,1024
+Apple M1: Building compute pipeline state (212/253)
+MaxTotalThreadsPerThreadGroup: ReorientTextureCompute,1024,1024
+Apple M1: Building compute pipeline state (213/253)
+MaxTotalThreadsPerThreadGroup: Sample1PlaneCompute,1024,1024
+Apple M1: Building compute pipeline state (214/253)
+MaxTotalThreadsPerThreadGroup: Sample4PlaneCompute,1024,1024
+Apple M1: Building compute pipeline state (215/253)
+MaxTotalThreadsPerThreadGroup: Sequence1TexCompute,896,896
+Apple M1: Building compute pipeline state (216/253)
+MaxTotalThreadsPerThreadGroup: Sequence2TexCompute,1024,1024
+Apple M1: Building compute pipeline state (217/253)
+MaxTotalThreadsPerThreadGroup: Sequence3TexCompute,1024,1024
+Apple M1: Building compute pipeline state (218/253)
+MaxTotalThreadsPerThreadGroup: Sequence4TexCompute,896,896
+Apple M1: Building compute pipeline state (219/253)
+MaxTotalThreadsPerThreadGroup: Sequence5TexCompute,1024,1024
+Apple M1: Building compute pipeline state (220/253)
+MaxTotalThreadsPerThreadGroup: Sharpen3BlurDownSharpenRadius1Compute,1024,1024
+Apple M1: Building compute pipeline state (221/253)
+MaxTotalThreadsPerThreadGroup: Sharpen3BlurDownSharpenRadius2Compute,1024,1024
+Apple M1: Building compute pipeline state (222/253)
+MaxTotalThreadsPerThreadGroup: Sharpen3BlurDownSharpenRadius3Compute,1024,1024
+Apple M1: Building compute pipeline state (223/253)
+MaxTotalThreadsPerThreadGroup: Sharpen3BlurDownSharpenRadius4Compute,1024,1024
+Apple M1: Building compute pipeline state (224/253)
+MaxTotalThreadsPerThreadGroup: Sharpen3BlurDownSharpenRadius5Compute,1024,1024
+Apple M1: Building compute pipeline state (225/253)
+MaxTotalThreadsPerThreadGroup: Sharpen3BlurDownSharpenRadius6Compute,1024,1024
+Apple M1: Building compute pipeline state (226/253)
+MaxTotalThreadsPerThreadGroup: Sharpen3BlurDownSharpenRadiusNCompute,1024,1024
+Apple M1: Building compute pipeline state (227/253)
+MaxTotalThreadsPerThreadGroup: Sharpen3BlurSharpen1PassRadius1Compute,1024,1024
+Apple M1: Building compute pipeline state (228/253)
+MaxTotalThreadsPerThreadGroup: Sharpen3BlurSharpen1PassRadius2Compute,1024,1024
+Apple M1: Building compute pipeline state (229/253)
+MaxTotalThreadsPerThreadGroup: Sharpen3BlurSharpen1PassRadius3Compute,1024,1024
+Apple M1: Building compute pipeline state (230/253)
+MaxTotalThreadsPerThreadGroup: Sharpen3BlurSharpen1PassRadius4Compute,1024,1024
+Apple M1: Building compute pipeline state (231/253)
+MaxTotalThreadsPerThreadGroup: Sharpen3BlurSharpen1PassRadius5Compute,1024,1024
+Apple M1: Building compute pipeline state (232/253)
+MaxTotalThreadsPerThreadGroup: Sharpen3BlurSharpen1PassRadius6Compute,832,832
+Apple M1: Building compute pipeline state (233/253)
+MaxTotalThreadsPerThreadGroup: Sharpen3CompositePlusCompute,1024,1024
+Apple M1: Building compute pipeline state (234/253)
+MaxTotalThreadsPerThreadGroup: Sharpen3EdgeDiff1PassRadius1Compute,1024,1024
+Apple M1: Building compute pipeline state (235/253)
+MaxTotalThreadsPerThreadGroup: Sharpen3LensBlurCompute,1024,1024
+Apple M1: Building compute pipeline state (236/253)
+MaxTotalThreadsPerThreadGroup: Sharpen3MinMax1PassRadius1Compute,1024,1024
+Apple M1: Building compute pipeline state (237/253)
+MaxTotalThreadsPerThreadGroup: Sharpen3RGBtoRGBYGamma18Compute,1024,1024
+Apple M1: Building compute pipeline state (238/253)
+MaxTotalThreadsPerThreadGroup: SkewHCompute,1024,1024
+Apple M1: Building compute pipeline state (239/253)
+MaxTotalThreadsPerThreadGroup: SkewVCompute,1024,1024
+Apple M1: Building compute pipeline state (240/253)
+MaxTotalThreadsPerThreadGroup: SolidFrameTexCompute,1024,1024
+Apple M1: Building compute pipeline state (241/253)
+MaxTotalThreadsPerThreadGroup: SortPhase0HistogramsZeroCompute,1024,1024
+Apple M1: Building compute pipeline state (242/253)
+MaxTotalThreadsPerThreadGroup: SortPhase1HistogramsCalcCompute,1024,1024
+Apple M1: Building compute pipeline state (243/253)
+MaxTotalThreadsPerThreadGroup: SortPhase2HistogramsScanCompute,1024,1024
+Apple M1: Building compute pipeline state (244/253)
+MaxTotalThreadsPerThreadGroup: SortPhase3ScatterCompute,1024,1024
+Apple M1: Building compute pipeline state (245/253)
+MaxTotalThreadsPerThreadGroup: SortPhase4LocalSortCompute,1024,1024
+Apple M1: Building compute pipeline state (246/253)
+MaxTotalThreadsPerThreadGroup: SortPhase5UnsortedFinalCopyCompute,1024,1024
+Apple M1: Building compute pipeline state (247/253)
+MaxTotalThreadsPerThreadGroup: TextureAffinePlusCompositeCompute,1024,1024
+Apple M1: Building compute pipeline state (248/253)
+MaxTotalThreadsPerThreadGroup: TextureEncodeLogYCCCompute,1024,1024
+Apple M1: Building compute pipeline state (249/253)
+MaxTotalThreadsPerThreadGroup: TextureUnitInfoCompute,1024,1024
+Apple M1: Building compute pipeline state (250/253)
+MaxTotalThreadsPerThreadGroup: WarpCompute,1024,1024
+Apple M1: Building compute pipeline state (251/253)
+MaxTotalThreadsPerThreadGroup: Warp4X4Compute,512,512
+Apple M1: Building compute pipeline state (252/253)
+MaxTotalThreadsPerThreadGroup: WarpPlanesDifferentCompute,1024,1024
+Apple M1: Building compute pipeline state (253/253)
+MaxTotalThreadsPerThreadGroup: WarpPlanesDifferent4X4Compute,896,896
+Apple M1: Finished building compute pipeline states.
+GPU Init Status (part 2): I4_GPU3
+GPU3 Hard Status Result (part 2): success
+GPU3 Soft Status Result (part 2): success
+GPU4 Hard Status Result (part 2): fail_config_disable
+GPU4 Soft Status Result (part 2): success
+TrimFootprint:    0.0 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  536.1 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  460.8 MB purged from pools.
+TrimFootprint:  962.9 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint: 1362.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  889.9 MB purged from pools.
+TrimFootprint: 2495.0 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint: 3301.2 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint: 1141.7 MB purged from pools.
+TrimFootprint: 1958.8 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint: 2153.8 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint: 1694.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint: 1652.4 MB purged from pools.
+TrimFootprint: 1707.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint: 1170.0 MB purged from pools.
+TrimFootprint: 1142.5 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  508.5 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:   64.3 MB purged from pools.
+TrimFootprint:  267.1 MB purged from pools.
+TrimFootprint: 2066.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint: 2179.1 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:   89.9 MB purged from pools.
+TrimFootprint:  662.4 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  335.2 MB purged from pools.
+TrimFootprint:  752.1 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  464.0 MB purged from pools.
+TrimFootprint: 1339.4 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint: 1113.9 MB purged from pools.
+TrimFootprint:  193.8 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  247.5 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  485.4 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  312.2 MB purged from pools.
+TrimFootprint:  165.2 MB purged from pools.
+TrimFootprint: 1193.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint: 1272.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  282.8 MB purged from pools.
+TrimFootprint:  388.3 MB purged from pools.
+TrimFootprint:  819.6 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  820.0 MB purged from pools.
+TrimFootprint:  194.0 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  424.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  367.3 MB purged from pools.
+TrimFootprint:  193.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  349.2 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  326.6 MB purged from pools.
+TrimFootprint:  193.6 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  346.2 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  303.7 MB purged from pools.
+TrimFootprint:  193.3 MB purged from pools.
+TrimFootprint:  499.9 MB purged from pools.
+TrimFootprint:  502.9 MB purged from pools.
+TrimFootprint:  213.5 MB purged from pools.
+TrimFootprint:  460.0 MB purged from pools.
+TrimFootprint:  505.7 MB purged from pools.
+TrimFootprint:  483.0 MB purged from pools.
+TrimFootprint:  480.0 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  296.7 MB purged from pools.
+TrimFootprint:  193.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  349.1 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  498.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  191.7 MB purged from pools.
+TrimFootprint:  289.0 MB purged from pools.
+TrimFootprint:  794.0 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  865.4 MB purged from pools.
+TrimFootprint:  194.0 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  292.4 MB purged from pools.
+TrimFootprint:  131.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  320.6 MB purged from pools.
+TrimFootprint:  194.1 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  330.2 MB purged from pools.
+TrimFootprint:  195.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  302.4 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  308.8 MB purged from pools.
+TrimFootprint:  194.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  341.4 MB purged from pools.
+TrimFootprint:  140.0 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  320.8 MB purged from pools.
+TrimFootprint:  192.2 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  315.8 MB purged from pools.
+TrimFootprint:   95.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  315.0 MB purged from pools.
+TrimFootprint:  193.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  483.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  405.9 MB purged from pools.
+TrimFootprint:  359.0 MB purged from pools.
+TrimFootprint:  968.8 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint: 1060.5 MB purged from pools.
+TrimFootprint:  194.9 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  463.8 MB purged from pools.
+TrimFootprint:  487.8 MB purged from pools.
+TrimFootprint:  540.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  448.0 MB purged from pools.
+TrimFootprint:  468.8 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  423.4 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  344.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  647.0 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  477.7 MB purged from pools.
+TrimFootprint:  106.9 MB purged from pools.
+TrimFootprint:  929.8 MB purged from pools.
+TrimFootprint: 1371.5 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint: 1565.4 MB purged from pools.
+TrimFootprint:  193.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  417.0 MB purged from pools.
+TrimFootprint:  495.9 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  310.0 MB purged from pools.
+TrimFootprint:  195.5 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  306.9 MB purged from pools.
+TrimFootprint:   94.3 MB purged from pools.
+TrimFootprint:  409.4 MB purged from pools.
+TrimFootprint:  307.3 MB purged from pools.
+TrimFootprint:  529.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  488.5 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  584.9 MB purged from pools.
+TrimFootprint: 1068.5 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint: 1743.4 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  398.9 MB purged from pools.
+TrimFootprint:  975.6 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint: 1078.3 MB purged from pools.
+TrimFootprint:  194.9 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  392.6 MB purged from pools.
+TrimFootprint:  431.9 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  340.2 MB purged from pools.
+TrimFootprint:   90.3 MB purged from pools.
+TrimFootprint:  418.9 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  334.5 MB purged from pools.
+TrimFootprint:  193.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  316.3 MB purged from pools.
+TrimFootprint:  417.0 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  359.1 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  322.4 MB purged from pools.
+TrimFootprint:  194.1 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  361.6 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  520.6 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  347.9 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  497.5 MB purged from pools.
+TrimFootprint:  401.2 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  331.0 MB purged from pools.
+TrimFootprint:  719.2 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  640.5 MB purged from pools.
+TrimFootprint:  194.9 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  209.4 MB purged from pools.
+TrimFootprint:  359.1 MB purged from pools.
+TrimFootprint:  545.5 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  533.3 MB purged from pools.
+TrimFootprint:  148.8 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint: 1332.3 MB purged from pools.
+TrimFootprint: 2387.6 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint: 2547.9 MB purged from pools.
+TrimFootprint:  195.6 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  350.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  305.3 MB purged from pools.
+TrimFootprint:  193.3 MB purged from pools.
+TrimFootprint:  218.4 MB purged from pools.
+TrimFootprint:  526.6 MB purged from pools.
+TrimFootprint:  482.4 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  451.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  581.3 MB purged from pools.
+TrimFootprint:  945.0 MB purged from pools.
+TrimFootprint: 1136.6 MB purged from pools.
+TrimFootprint:  619.6 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  416.3 MB purged from pools.
+TrimFootprint:  193.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  161.3 MB purged from pools.
+TrimFootprint:  276.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  473.5 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  432.0 MB purged from pools.
+TrimFootprint:  146.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  661.6 MB purged from pools.
+TrimFootprint: 2008.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint: 1941.8 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  447.8 MB purged from pools.
+TrimFootprint: 1070.2 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint: 1149.5 MB purged from pools.
+TrimFootprint:  215.5 MB purged from pools.
+TrimFootprint:  137.6 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  413.2 MB purged from pools.
+TrimFootprint:  895.4 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  838.9 MB purged from pools.
+TrimFootprint:  195.0 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  139.1 MB purged from pools.
+TrimFootprint:  317.5 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  368.8 MB purged from pools.
+TrimFootprint:  193.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  291.6 MB purged from pools.
+TrimFootprint:  128.8 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  295.8 MB purged from pools.
+TrimFootprint:  193.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  386.5 MB purged from pools.
+TrimFootprint:  499.9 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  402.6 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  383.8 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  120.1 MB purged from pools.
+TrimFootprint:  106.9 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  357.4 MB purged from pools.
+TrimFootprint:  193.4 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  293.1 MB purged from pools.
+TrimFootprint:  195.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  214.3 MB purged from pools.
+TrimFootprint:  106.9 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  330.0 MB purged from pools.
+TrimFootprint:  194.3 MB purged from pools.
+TrimFootprint:  143.6 MB purged from pools.
+TrimFootprint:  423.2 MB purged from pools.
+TrimFootprint:   93.5 MB purged from pools.
+TrimFootprint:  319.8 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  307.5 MB purged from pools.
+TrimFootprint:  195.0 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  352.2 MB purged from pools.
+TrimFootprint:  412.9 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  351.8 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  335.3 MB purged from pools.
+TrimFootprint:  193.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  332.4 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  329.7 MB purged from pools.
+TrimFootprint:  194.3 MB purged from pools.
+TrimFootprint:  262.4 MB purged from pools.
+TrimFootprint:  131.4 MB purged from pools.
+TrimFootprint:  426.5 MB purged from pools.
+TrimFootprint:   95.5 MB purged from pools.
+TrimFootprint:  417.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  307.6 MB purged from pools.
+TrimFootprint:  195.2 MB purged from pools.
+TrimFootprint:  415.6 MB purged from pools.
+TrimFootprint:   87.0 MB purged from pools.
+TrimFootprint:  410.2 MB purged from pools.
+TrimFootprint:  499.5 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  417.5 MB purged from pools.
+TrimFootprint:  496.6 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  339.0 MB purged from pools.
+TrimFootprint:  196.8 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:   64.9 MB purged from pools.
+TrimFootprint:  115.1 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  348.8 MB purged from pools.
+TrimFootprint:  194.1 MB purged from pools.
+TrimFootprint:  395.5 MB purged from pools.
+TrimFootprint:    0.0 MB purged from pools.
+TrimFootprint:  452.8 MB purged from pools.
+TrimFootprint:  518.6 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  385.9 MB purged from pools.
+TrimFootprint:  273.8 MB purged from pools.
+TrimFootprint:  146.9 MB purged from pools.
+TrimFootprint:  515.6 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  293.7 MB purged from pools.
+TrimFootprint:  195.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  422.1 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  206.4 MB purged from pools.
+TrimFootprint:  147.0 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  341.7 MB purged from pools.
+TrimFootprint:  194.0 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  345.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  331.0 MB purged from pools.
+TrimFootprint:  193.9 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  334.0 MB purged from pools.
+TrimFootprint:  106.7 MB purged from pools.
+TrimFootprint:  462.8 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  307.5 MB purged from pools.
+TrimFootprint:  194.8 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  324.3 MB purged from pools.
+TrimFootprint:  413.9 MB purged from pools.
+TrimFootprint:  218.2 MB purged from pools.
+TrimFootprint:   40.3 MB purged from pools.
+TrimFootprint:  412.1 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  204.8 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  304.1 MB purged from pools.
+TrimFootprint:  193.8 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  295.5 MB purged from pools.
+TrimFootprint:  195.2 MB purged from pools.
+TrimFootprint:  215.6 MB purged from pools.
+TrimFootprint:  281.0 MB purged from pools.
+TrimFootprint:  296.1 MB purged from pools.
+TrimFootprint:  205.0 MB purged from pools.
+TrimFootprint:  129.7 MB purged from pools.
+TrimFootprint:  427.5 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  492.4 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  481.3 MB purged from pools.
+TrimFootprint:  472.2 MB purged from pools.
+TrimFootprint:  973.2 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint: 1150.7 MB purged from pools.
+TrimFootprint:  193.9 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  325.9 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  335.3 MB purged from pools.
+TrimFootprint:  193.7 MB purged from pools.
+TrimFootprint:  437.5 MB purged from pools.
+TrimFootprint:  101.1 MB purged from pools.
+TrimFootprint:  409.1 MB purged from pools.
+TrimFootprint:  484.0 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  387.8 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  473.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  399.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  332.5 MB purged from pools.
+TrimFootprint:  193.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  212.6 MB purged from pools.
+TrimFootprint:  146.7 MB purged from pools.
+TrimFootprint:  218.8 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  309.4 MB purged from pools.
+TrimFootprint:  193.7 MB purged from pools.
+TrimFootprint:  360.3 MB purged from pools.
+TrimFootprint:   37.2 MB purged from pools.
+TrimFootprint:  430.1 MB purged from pools.
+TrimFootprint:  479.8 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  275.5 MB purged from pools.
+TrimFootprint:  194.8 MB purged from pools.
+TrimFootprint:  131.6 MB purged from pools.
+TrimFootprint:    0.0 MB purged from pools.
+TrimFootprint:  350.2 MB purged from pools.
+TrimFootprint:  424.8 MB purged from pools.
+TrimFootprint:  447.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  301.2 MB purged from pools.
+TrimFootprint:  194.1 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:   71.0 MB purged from pools.
+TrimFootprint:  147.0 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  347.8 MB purged from pools.
+TrimFootprint:  193.3 MB purged from pools.
+TrimFootprint:  378.7 MB purged from pools.
+TrimFootprint:  491.2 MB purged from pools.
+TrimFootprint:  113.8 MB purged from pools.
+TrimFootprint:  421.8 MB purged from pools.
+TrimFootprint:  112.2 MB purged from pools.
+TrimFootprint:  426.1 MB purged from pools.
+TrimFootprint:  487.3 MB purged from pools.
+TrimFootprint:  104.6 MB purged from pools.
+TrimFootprint:  450.7 MB purged from pools.
+TrimFootprint:  500.6 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  395.0 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:   66.8 MB purged from pools.
+TrimFootprint:    0.0 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  299.2 MB purged from pools.
+TrimFootprint:  193.5 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  317.4 MB purged from pools.
+TrimFootprint:  205.4 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  382.7 MB purged from pools.
+TrimFootprint:  193.6 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  290.9 MB purged from pools.
+TrimFootprint:  194.9 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  379.1 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  323.9 MB purged from pools.
+TrimFootprint:  193.8 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  319.6 MB purged from pools.
+TrimFootprint:  102.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  355.3 MB purged from pools.
+TrimFootprint:  194.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  329.8 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  291.5 MB purged from pools.
+TrimFootprint:  194.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  271.9 MB purged from pools.
+TrimFootprint:   94.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  478.1 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  195.5 MB purged from pools.
+TrimFootprint: 1313.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint: 1125.2 MB purged from pools.
+TrimFootprint:  194.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  299.6 MB purged from pools.
+TrimFootprint:  194.8 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  326.6 MB purged from pools.
+TrimFootprint:  175.2 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  354.5 MB purged from pools.
+TrimFootprint:  193.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  328.4 MB purged from pools.
+TrimFootprint:  422.4 MB purged from pools.
+TrimFootprint:  490.5 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  316.1 MB purged from pools.
+TrimFootprint:  195.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  148.0 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  335.3 MB purged from pools.
+TrimFootprint:  194.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  319.6 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  522.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  445.6 MB purged from pools.
+TrimFootprint:  679.9 MB purged from pools.
+TrimFootprint:  935.2 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint: 1374.3 MB purged from pools.
+TrimFootprint:  195.1 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  290.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  316.4 MB purged from pools.
+TrimFootprint:  193.9 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  324.5 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  325.1 MB purged from pools.
+TrimFootprint:  193.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  326.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  326.8 MB purged from pools.
+TrimFootprint:  193.7 MB purged from pools.
+TrimFootprint:  212.4 MB purged from pools.
+TrimFootprint:  107.0 MB purged from pools.
+TrimFootprint:  405.5 MB purged from pools.
+TrimFootprint:   95.7 MB purged from pools.
+TrimFootprint:  430.1 MB purged from pools.
+TrimFootprint:   95.7 MB purged from pools.
+TrimFootprint:  436.6 MB purged from pools.
+TrimFootprint:  248.9 MB purged from pools.
+TrimFootprint:  440.9 MB purged from pools.
+TrimFootprint:  116.6 MB purged from pools.
+TrimFootprint:   70.6 MB purged from pools.
+TrimFootprint:  430.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  318.5 MB purged from pools.
+TrimFootprint:  194.1 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  248.7 MB purged from pools.
+TrimFootprint:  106.9 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  333.1 MB purged from pools.
+TrimFootprint:  194.1 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  353.2 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  333.3 MB purged from pools.
+TrimFootprint:  194.0 MB purged from pools.
+TrimFootprint:  423.3 MB purged from pools.
+TrimFootprint:  517.6 MB purged from pools.
+TrimFootprint:  498.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  273.9 MB purged from pools.
+TrimFootprint:  194.9 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  211.2 MB purged from pools.
+TrimFootprint:  168.0 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  329.4 MB purged from pools.
+TrimFootprint:  194.4 MB purged from pools.
+TrimFootprint:  424.2 MB purged from pools.
+TrimFootprint:  497.2 MB purged from pools.
+TrimFootprint:  120.8 MB purged from pools.
+TrimFootprint:  427.5 MB purged from pools.
+TrimFootprint:  114.3 MB purged from pools.
+TrimFootprint:  404.1 MB purged from pools.
+TrimFootprint:  476.3 MB purged from pools.
+TrimFootprint:  500.6 MB purged from pools.
+TrimFootprint:  483.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  272.2 MB purged from pools.
+TrimFootprint:  194.8 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  211.2 MB purged from pools.
+TrimFootprint:   94.5 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  295.2 MB purged from pools.
+TrimFootprint:  193.7 MB purged from pools.
+TrimFootprint:  215.1 MB purged from pools.
+TrimFootprint:    0.0 MB purged from pools.
+TrimFootprint:  470.7 MB purged from pools.
+TrimFootprint:  483.2 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  304.5 MB purged from pools.
+TrimFootprint:  194.0 MB purged from pools.
+TrimFootprint:  248.3 MB purged from pools.
+TrimFootprint:  125.1 MB purged from pools.
+TrimFootprint:   79.4 MB purged from pools.
+TrimFootprint:  416.1 MB purged from pools.
+TrimFootprint:  496.2 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  207.5 MB purged from pools.
+TrimFootprint:  205.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  328.5 MB purged from pools.
+TrimFootprint:  194.4 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  416.2 MB purged from pools.
+TrimFootprint:  403.4 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  280.6 MB purged from pools.
+TrimFootprint:  192.2 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  182.0 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  341.2 MB purged from pools.
+TrimFootprint:  194.6 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  321.2 MB purged from pools.
+TrimFootprint:   94.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  323.2 MB purged from pools.
+TrimFootprint:  193.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  289.6 MB purged from pools.
+TrimFootprint:  194.8 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  270.3 MB purged from pools.
+TrimFootprint:  142.6 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  361.7 MB purged from pools.
+TrimFootprint:  192.4 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  292.6 MB purged from pools.
+TrimFootprint:  193.4 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  326.4 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  321.9 MB purged from pools.
+TrimFootprint:  194.3 MB purged from pools.
+TrimFootprint:  111.5 MB purged from pools.
+TrimFootprint:  155.3 MB purged from pools.
+TrimFootprint:  425.4 MB purged from pools.
+TrimFootprint:   95.9 MB purged from pools.
+TrimFootprint:  157.9 MB purged from pools.
+TrimFootprint:  422.1 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  326.8 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  326.4 MB purged from pools.
+TrimFootprint:  194.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  264.0 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  346.0 MB purged from pools.
+TrimFootprint:  194.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  212.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  347.1 MB purged from pools.
+TrimFootprint:  193.5 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  393.7 MB purged from pools.
+TrimFootprint:  431.2 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  142.6 MB purged from pools.
+TrimFootprint:  438.8 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  149.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  367.2 MB purged from pools.
+TrimFootprint:  194.0 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  272.5 MB purged from pools.
+TrimFootprint:  129.5 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  332.9 MB purged from pools.
+TrimFootprint:  193.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  401.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  285.5 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  337.8 MB purged from pools.
+TrimFootprint:  194.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  326.7 MB purged from pools.
+TrimFootprint:  413.5 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  289.9 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  326.7 MB purged from pools.
+TrimFootprint:  193.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  328.1 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  331.6 MB purged from pools.
+TrimFootprint:  193.7 MB purged from pools.
+TrimFootprint:  111.9 MB purged from pools.
+TrimFootprint:    0.3 MB purged from pools.
+TrimFootprint:  432.6 MB purged from pools.
+TrimFootprint:   94.3 MB purged from pools.
+TrimFootprint:    0.4 MB purged from pools.
+TrimFootprint:  435.0 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  141.4 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  348.3 MB purged from pools.
+TrimFootprint:  194.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  324.4 MB purged from pools.
+TrimFootprint:  406.9 MB purged from pools.
+TrimFootprint:  109.7 MB purged from pools.
+TrimFootprint:  439.1 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  203.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  286.8 MB purged from pools.
+TrimFootprint:  193.2 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:   66.9 MB purged from pools.
+TrimFootprint:  146.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  349.0 MB purged from pools.
+TrimFootprint:  193.5 MB purged from pools.
+TrimFootprint:  111.6 MB purged from pools.
+TrimFootprint:  435.1 MB purged from pools.
+TrimFootprint:  114.9 MB purged from pools.
+TrimFootprint:  429.1 MB purged from pools.
+TrimFootprint:  129.3 MB purged from pools.
+TrimFootprint:  429.7 MB purged from pools.
+TrimFootprint:  479.2 MB purged from pools.
+TrimFootprint:  454.0 MB purged from pools.
+TrimFootprint:  512.2 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  242.6 MB purged from pools.
+TrimFootprint:  368.7 MB purged from pools.
+TrimFootprint:  495.6 MB purged from pools.
+TrimFootprint:  112.2 MB purged from pools.
+TrimFootprint:  430.3 MB purged from pools.
+TrimFootprint:  127.6 MB purged from pools.
+TrimFootprint:  430.7 MB purged from pools.
+TrimFootprint:  493.2 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  549.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  168.8 MB purged from pools.
+TrimFootprint: 1040.2 MB purged from pools.
+TrimFootprint:  819.9 MB purged from pools.
+TrimFootprint:  431.3 MB purged from pools.
+TrimFootprint:  100.9 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  439.0 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  337.5 MB purged from pools.
+TrimFootprint:  159.2 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  283.5 MB purged from pools.
+TrimFootprint:  194.4 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  234.9 MB purged from pools.
+TrimFootprint:  470.9 MB purged from pools.
+TrimFootprint:  110.6 MB purged from pools.
+TrimFootprint:  440.2 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  439.1 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  246.1 MB purged from pools.
+TrimFootprint:  168.0 MB purged from pools.
+TrimFootprint:  356.4 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  423.9 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  332.5 MB purged from pools.
+TrimFootprint:  195.5 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  252.3 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  288.6 MB purged from pools.
+TrimFootprint:  192.8 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  300.0 MB purged from pools.
+TrimFootprint:  194.9 MB purged from pools.
+TrimFootprint:  499.0 MB purged from pools.
+TrimFootprint:  476.4 MB purged from pools.
+CalculateAutoTone: atvSDP
+CalculateAutoTone: atvSDP
+TrimFootprint:  297.3 MB purged from pools.
+TrimFootprint:  193.7 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  393.0 MB purged from pools.
+CalculateAutoTone: atvSDP
+TrimFootprint:  277.7 MB purged from pools.
+TrimFootprint:  775.3 MB purged from pools.
+TrimFootprint:  680.0 MB purged from pools.
+TrimFootprint:  147.0 MB purged from pools.
+TrimFootprint:  137.4 MB purged from pools.
+TrimFootprint:  106.8 MB purged from pools.
+TrimFootprint:   55.4 MB purged from pools.
+TrimFootprint:  115.2 MB purged from pools.
+TrimFootprint:   94.5 MB purged from pools.
+TrimFootprint:  146.8 MB purged from pools.
+TrimFootprint:  106.7 MB purged from pools.
+TrimFootprint:   94.3 MB purged from pools.
+TrimFootprint:  112.2 MB purged from pools.
+Terminate GPU system
+cr_sdk_terminate

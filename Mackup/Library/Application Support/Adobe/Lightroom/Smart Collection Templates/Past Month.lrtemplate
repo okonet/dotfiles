@@ -1,0 +1,16 @@
+s = {
+	id = "8943DC86-01C5-4092-BBE4-745760DCEC59",
+	internalName = "Past Month",
+	title = ZSTR "$$$/LibraryToolkit/Defaults/SmartCollections/Past Month=Past Month",
+	type = "LibrarySmartCollection",
+	value = {
+		{
+			criteria = "captureTime",
+			operation = "inLast",
+			value = 1,
+			value_units = "months",
+		},
+		combine = "intersect",
+	},
+	version = 1,
+}

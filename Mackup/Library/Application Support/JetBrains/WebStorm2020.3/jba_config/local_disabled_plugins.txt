@@ -1,0 +1,6 @@
+
+BashSupport
+com.chrisrm.idea.MaterialThemeUI
+org.intellij.plugins.postcss
+org.jetbrains.idea.clojure
+tanvd.grazi

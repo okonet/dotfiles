@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>OS io.js v2.3.4 Manual &amp; Documentation</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic">
+  <link rel="stylesheet" href="assets/style.css">
+  <link rel="stylesheet" href="assets/sh.css">
+  <link rel="canonical" href="https://iojs.org/api/os.html">
+</head>
+<body class="alt apidoc" id="api-section-os">
+  <div id="content" class="clearfix">
+    <div id="column2" class="interior">
+      <div id="intro" class="interior">
+        <a href="/" title="Go back to the home page">
+          io.js (1)
+        </a>
+      </div>
+      <ul>
+<li><a class="nav-documentation" href="documentation.html">About these Docs</a></li>
+<li><a class="nav-synopsis" href="synopsis.html">Synopsis</a></li>
+<li><a class="nav-assert" href="assert.html">Assertion Testing</a></li>
+<li><a class="nav-buffer" href="buffer.html">Buffer</a></li>
+<li><a class="nav-addons" href="addons.html">C/C++ Addons</a></li>
+<li><a class="nav-child_process" href="child_process.html">Child Processes</a></li>
+<li><a class="nav-cluster" href="cluster.html">Cluster</a></li>
+<li><a class="nav-console" href="console.html">Console</a></li>
+<li><a class="nav-crypto" href="crypto.html">Crypto</a></li>
+<li><a class="nav-debugger" href="debugger.html">Debugger</a></li>
+<li><a class="nav-dns" href="dns.html">DNS</a></li>
+<li><a class="nav-domain" href="domain.html">Domain</a></li>
+<li><a class="nav-errors" href="errors.html">Errors</a></li>
+<li><a class="nav-events" href="events.html">Events</a></li>
+<li><a class="nav-fs" href="fs.html">File System</a></li>
+<li><a class="nav-globals" href="globals.html">Globals</a></li>
+<li><a class="nav-http" href="http.html">HTTP</a></li>
+<li><a class="nav-https" href="https.html">HTTPS</a></li>
+<li><a class="nav-modules" href="modules.html">Modules</a></li>
+<li><a class="nav-net" href="net.html">Net</a></li>
+<li><a class="nav-os active" href="os.html">OS</a></li>
+<li><a class="nav-path" href="path.html">Path</a></li>
+<li><a class="nav-process" href="process.html">Process</a></li>
+<li><a class="nav-punycode" href="punycode.html">Punycode</a></li>
+<li><a class="nav-querystring" href="querystring.html">Query Strings</a></li>
+<li><a class="nav-readline" href="readline.html">Readline</a></li>
+<li><a class="nav-repl" href="repl.html">REPL</a></li>
+<li><a class="nav-smalloc" href="smalloc.html">Smalloc</a></li>
+<li><a class="nav-stream" href="stream.html">Stream</a></li>
+<li><a class="nav-string_decoder" href="string_decoder.html">String Decoder</a></li>
+<li><a class="nav-timers" href="timers.html">Timers</a></li>
+<li><a class="nav-tls" href="tls.html">TLS/SSL</a></li>
+<li><a class="nav-tty" href="tty.html">TTY</a></li>
+<li><a class="nav-dgram" href="dgram.html">UDP/Datagram</a></li>
+<li><a class="nav-url" href="url.html">URL</a></li>
+<li><a class="nav-util" href="util.html">Utilities</a></li>
+<li><a class="nav-v8" href="v8.html">V8</a></li>
+<li><a class="nav-vm" href="vm.html">VM</a></li>
+<li><a class="nav-zlib" href="zlib.html">ZLIB</a></li>
+</ul>
+
+    </div>
+
+    <div id="column1" data-id="os" class="interior">
+      <header>
+        <h1>io.js v2.3.4 Documentation</h1>
+        <div id="gtoc">
+          <p>
+            <a href="index.html" name="toc">Index</a> |
+            <a href="all.html">View on single page</a> |
+            <a href="os.json">View as JSON</a>
+          </p>
+        </div>
+        <hr>
+      </header>
+
+      <div id="toc">
+        <h2>Table of Contents</h2>
+        <ul>
+<li><a href="#os_os">OS</a><ul>
+<li><a href="#os_os_tmpdir">os.tmpdir()</a></li>
+<li><a href="#os_os_homedir">os.homedir()</a></li>
+<li><a href="#os_os_endianness">os.endianness()</a></li>
+<li><a href="#os_os_hostname">os.hostname()</a></li>
+<li><a href="#os_os_type">os.type()</a></li>
+<li><a href="#os_os_platform">os.platform()</a></li>
+<li><a href="#os_os_arch">os.arch()</a></li>
+<li><a href="#os_os_release">os.release()</a></li>
+<li><a href="#os_os_uptime">os.uptime()</a></li>
+<li><a href="#os_os_loadavg">os.loadavg()</a></li>
+<li><a href="#os_os_totalmem">os.totalmem()</a></li>
+<li><a href="#os_os_freemem">os.freemem()</a></li>
+<li><a href="#os_os_cpus">os.cpus()</a></li>
+<li><a href="#os_os_networkinterfaces">os.networkInterfaces()</a></li>
+<li><a href="#os_os_eol">os.EOL</a></li>
+</ul>
+</li>
+</ul>
+
+      </div>
+
+      <div id="apicontent">
+        <h1>OS<span><a class="mark" href="#os_os" id="os_os">#</a></span></h1>
+<pre class="api_stability_2">Stability: 2 - Stable</pre><p>Provides a few basic operating-system related utility functions.
+
+</p>
+<p>Use <code>require(&#39;os&#39;)</code> to access this module.
+
+</p>
+<h2>os.tmpdir()<span><a class="mark" href="#os_os_tmpdir" id="os_os_tmpdir">#</a></span></h2>
+<p>Returns the operating system&#39;s default directory for temporary files.
+
+</p>
+<h2>os.homedir()<span><a class="mark" href="#os_os_homedir" id="os_os_homedir">#</a></span></h2>
+<p>Returns the home directory of the current user.
+
+</p>
+<h2>os.endianness()<span><a class="mark" href="#os_os_endianness" id="os_os_endianness">#</a></span></h2>
+<p>Returns the endianness of the CPU. Possible values are <code>&#39;BE&#39;</code> for big endian
+or <code>&#39;LE&#39;</code> for little endian.
+
+</p>
+<h2>os.hostname()<span><a class="mark" href="#os_os_hostname" id="os_os_hostname">#</a></span></h2>
+<p>Returns the hostname of the operating system.
+
+</p>
+<h2>os.type()<span><a class="mark" href="#os_os_type" id="os_os_type">#</a></span></h2>
+<p>Returns the operating system name. For example <code>&#39;Linux&#39;</code> on Linux, <code>&#39;Darwin&#39;</code>
+on OS X and <code>&#39;Windows_NT&#39;</code> on Windows.
+
+</p>
+<h2>os.platform()<span><a class="mark" href="#os_os_platform" id="os_os_platform">#</a></span></h2>
+<p>Returns the operating system platform. Possible values are <code>&#39;darwin&#39;</code>,
+<code>&#39;freebsd&#39;</code>, <code>&#39;linux&#39;</code>, <code>&#39;sunos&#39;</code> or <code>&#39;win32&#39;</code>. Returns the value of
+<code>process.platform</code>.
+
+</p>
+<h2>os.arch()<span><a class="mark" href="#os_os_arch" id="os_os_arch">#</a></span></h2>
+<p>Returns the operating system CPU architecture. Possible values are <code>&#39;x64&#39;</code>,
+<code>&#39;arm&#39;</code> and <code>&#39;ia32&#39;</code>. Returns the value of <code>process.arch</code>.
+
+</p>
+<h2>os.release()<span><a class="mark" href="#os_os_release" id="os_os_release">#</a></span></h2>
+<p>Returns the operating system release.
+
+</p>
+<h2>os.uptime()<span><a class="mark" href="#os_os_uptime" id="os_os_uptime">#</a></span></h2>
+<p>Returns the system uptime in seconds.
+
+</p>
+<h2>os.loadavg()<span><a class="mark" href="#os_os_loadavg" id="os_os_loadavg">#</a></span></h2>
+<p>Returns an array containing the 1, 5, and 15 minute load averages.
+
+</p>
+<p>The load average is a measure of system activity, calculated by the operating
+system and expressed as a fractional number.  As a rule of thumb, the load
+average should ideally be less than the number of logical CPUs in the system.
+
+</p>
+<p>The load average is a very UNIX-y concept; there is no real equivalent on
+Windows platforms.  That is why this function always returns <code>[0, 0, 0]</code> on
+Windows.
+
+</p>
+<h2>os.totalmem()<span><a class="mark" href="#os_os_totalmem" id="os_os_totalmem">#</a></span></h2>
+<p>Returns the total amount of system memory in bytes.
+
+</p>
+<h2>os.freemem()<span><a class="mark" href="#os_os_freemem" id="os_os_freemem">#</a></span></h2>
+<p>Returns the amount of free system memory in bytes.
+
+</p>
+<h2>os.cpus()<span><a class="mark" href="#os_os_cpus" id="os_os_cpus">#</a></span></h2>
+<p>Returns an array of objects containing information about each CPU/core
+installed: model, speed (in MHz), and times (an object containing the number of
+milliseconds the CPU/core spent in: user, nice, sys, idle, and irq).
+
+</p>
+<p>Example inspection of os.cpus:
+
+</p>
+<pre><code>[ { model: &#39;Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz&#39;,
+    speed: 2926,
+    times:
+     { user: 252020,
+       nice: 0,
+       sys: 30340,
+       idle: 1070356870,
+       irq: 0 } },
+  { model: &#39;Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz&#39;,
+    speed: 2926,
+    times:
+     { user: 306960,
+       nice: 0,
+       sys: 26980,
+       idle: 1071569080,
+       irq: 0 } },
+  { model: &#39;Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz&#39;,
+    speed: 2926,
+    times:
+     { user: 248450,
+       nice: 0,
+       sys: 21750,
+       idle: 1070919370,
+       irq: 0 } },
+  { model: &#39;Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz&#39;,
+    speed: 2926,
+    times:
+     { user: 256880,
+       nice: 0,
+       sys: 19430,
+       idle: 1070905480,
+       irq: 20 } },
+  { model: &#39;Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz&#39;,
+    speed: 2926,
+    times:
+     { user: 511580,
+       nice: 20,
+       sys: 40900,
+       idle: 1070842510,
+       irq: 0 } },
+  { model: &#39;Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz&#39;,
+    speed: 2926,
+    times:
+     { user: 291660,
+       nice: 0,
+       sys: 34360,
+       idle: 1070888000,
+       irq: 10 } },
+  { model: &#39;Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz&#39;,
+    speed: 2926,
+    times:
+     { user: 308260,
+       nice: 0,
+       sys: 55410,
+       idle: 1071129970,
+       irq: 880 } },
+  { model: &#39;Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz&#39;,
+    speed: 2926,
+    times:
+     { user: 266450,
+       nice: 1480,
+       sys: 34920,
+       idle: 1072572010,
+       irq: 30 } } ]</code></pre>
+<p>Note that since <code>nice</code> values are UNIX centric in Windows the <code>nice</code> values of
+all processors are always 0.
+
+</p>
+<h2>os.networkInterfaces()<span><a class="mark" href="#os_os_networkinterfaces" id="os_os_networkinterfaces">#</a></span></h2>
+<p>Get a list of network interfaces:
+
+</p>
+<pre><code>{ lo:
+   [ { address: &#39;127.0.0.1&#39;,
+       netmask: &#39;255.0.0.0&#39;,
+       family: &#39;IPv4&#39;,
+       mac: &#39;00:00:00:00:00:00&#39;,
+       internal: true },
+     { address: &#39;::1&#39;,
+       netmask: &#39;ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff&#39;,
+       family: &#39;IPv6&#39;,
+       mac: &#39;00:00:00:00:00:00&#39;,
+       internal: true } ],
+  eth0:
+   [ { address: &#39;192.168.1.108&#39;,
+       netmask: &#39;255.255.255.0&#39;,
+       family: &#39;IPv4&#39;,
+       mac: &#39;01:02:03:0a:0b:0c&#39;,
+       internal: false },
+     { address: &#39;fe80::a00:27ff:fe4e:66a1&#39;,
+       netmask: &#39;ffff:ffff:ffff:ffff::&#39;,
+       family: &#39;IPv6&#39;,
+       mac: &#39;01:02:03:0a:0b:0c&#39;,
+       internal: false } ] }</code></pre>
+<p>Note that due to the underlying implementation this will only return network
+interfaces that have been assigned an address.
+
+</p>
+<h2>os.EOL<span><a class="mark" href="#os_os_eol" id="os_os_eol">#</a></span></h2>
+<p>A constant defining the appropriate End-of-line marker for the operating
+system.
+</p>
+
+      </div>
+    </div>
+  </div>
+  <div id="footer">
+  </div>
+
+  <script src="assets/sh_main.js"></script>
+  <script src="assets/sh_javascript.min.js"></script>
+  <script>highlight(undefined, undefined, 'pre');</script>
+</body>
+</html>
+

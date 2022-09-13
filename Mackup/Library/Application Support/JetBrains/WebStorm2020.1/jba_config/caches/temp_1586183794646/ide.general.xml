@@ -1,0 +1,23 @@
+<application>
+  <component name="GeneralSettings">
+    <option name="confirmExit" value="false" />
+    <option name="confirmOpenNewProject2" value="0" />
+    <option name="processCloseConfirmation" value="TERMINATE" />
+    <option name="showTipsOnStartup" value="false" />
+    <option name="useSafeWrite" value="false" />
+  </component>
+  <component name="Registry">
+    <entry key="mac.editor.thumb.default.alpha.base" value="0" />
+    <entry key="mac.editor.thumb.default.alpha.delta" value="102" />
+    <entry key="mac.editor.thumb.darcula.alpha.base" value="0" />
+    <entry key="mac.editor.thumb.darcula.alpha.delta" value="102" />
+    <entry key="mac.editor.thumb.default.fill.min" value="102" />
+    <entry key="mac.editor.thumb.default.fill.max" value="150" />
+    <entry key="mac.editor.thumb.darcula.fill.min" value="102" />
+    <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
+    <entry key="bigger.font.in.project.view" value="true" />
+    <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
+    <entry key="ide.balloon.shadow.size" value="0" />
+    <entry key="ide.tree.ui.experimental" value="false" />
+  </component>
+</application>

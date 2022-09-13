@@ -1,0 +1,49 @@
+"*":
+  "atom-beautify":
+    _analyticsUserId: "f3c3d51a-2883-44ea-90f1-37c04d9c570c"
+  "autocomplete-plus":
+    includeCompletionsFromAllBuffers: true
+  autosave: {}
+  core:
+    customFileTypes:
+      "source.ini": [
+        ".buckconfig"
+        ".hgrc"
+      ]
+      "source.json": [
+        ".arcconfig"
+        "BUCK.autodeps"
+      ]
+      "source.python": [
+        "BUCK"
+      ]
+    disabledPackages: [
+      "tree-view"
+    ]
+    ignoredNames: [
+      ".git"
+      ".svn"
+      ".DS_Store"
+    ]
+    projectHome: "/Users/okonet/Projects"
+    themes: [
+      "atom-dark-ui"
+      "base16-tomorrow-dark-theme"
+    ]
+  editor:
+    fontFamily: "Fira Code"
+    fontSize: 15
+    invisibles: {}
+    lineHeight: 1.5
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "0159342c-7c23-0fe7-75d8-76f951c397d8"
+  "find-and-replace":
+    openProjectFindResultsInRightPane: true
+  metrics:
+    userId: "668cb09b39e7b844e55c8cd0229413249e52e82a"
+  "release-notes":
+    viewedVersion: "0.73.0"
+  "svg-preview": {}
+  welcome:
+    showOnStartup: false

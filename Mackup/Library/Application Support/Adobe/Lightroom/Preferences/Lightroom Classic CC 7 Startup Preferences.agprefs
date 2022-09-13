@@ -1,0 +1,36 @@
+prefs = {
+	Adobe_successfulUpgrades0700003 = "pickle = {\
+}\
+",
+	Adobe_successfulUpgrades0900000 = "pickle = {\
+	[\"/Users/okonet/Pictures/Lightroom Library/Lightroom Library.lrcat\"] = {\
+		catalogType = \"lr\",\
+		id = \"173EE4A4-B9A6-4571-A9C1-1371806F582E\",\
+		upgraded = \"/Users/okonet/Pictures/Lightroom Library/Lightroom Library-2.lrcat\",\
+	},\
+}\
+",
+	RegistrationField_CountryRegion = "26",
+	libraryToLoad20 = "/Users/okonet/Pictures/Lightroom Library/Lightroom Library-2.lrcat",
+	recentLibraries20 = "recentLibraries = {\
+	\"/Users/okonet/Pictures/Lightroom Library/Lightroom Library-2.lrcat\",\
+	\"/Users/okonet/Pictures/Lightroom Library/Lightroom Library.lrcat\",\
+	\"/Users/okonet/Pictures/Lightroom/Lightroom 5 Catalog.lrcat\",\
+}\
+",
+	recentLibraries20_missing = "recentMissingLibraries = {\
+	\"/Users/okonet/Pictures/2012-2019-2/2012-2019-2.lrcat\",\
+	\"/Users/okonet/Pictures/2012-2019/2012-2019.lrcat\",\
+	\"/Users/okonet/Pictures/2005-2011.lrcat\",\
+	\"/Users/okonet/Pictures/2008/2008.lrcat\",\
+	\"/Users/okonet/Pictures/2006/2006.lrcat\",\
+	\"/Users/okonet/Pictures/2007/2007.lrcat\",\
+	\"/Users/okonet/Pictures/2005/2005.lrcat\",\
+	\"/Users/okonet/Pictures/2020/2020.lrcat\",\
+	\"/Users/okonet/Pictures/2004/2004.lrcat\",\
+	\"/Users/okonet/Pictures/2003/2003.lrcat\",\
+	\"/Users/okonet/Pictures/Lightroom Library/Lightroom Library-2.lrcat\",\
+}\
+",
+	recentLibraryBehavior20 = "UseSelectedLibrary",
+}

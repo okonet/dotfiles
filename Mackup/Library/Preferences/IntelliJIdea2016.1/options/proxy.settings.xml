@@ -1,0 +1,7 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_HOST" value="" />
+    <option name="PROXY_LOGIN" value="" />
+    <option name="PROXY_EXCEPTIONS" value="" />
+  </component>
+</application>

@@ -1,0 +1,9 @@
+<application>
+  <component name="SystemNotifications">
+    <option name="NOTIFICATIONS">
+      <set>
+        <option value="Find Usages" />
+      </set>
+    </option>
+  </component>
+</application>

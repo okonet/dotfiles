@@ -1,0 +1,8 @@
+[
+    { "keys": ["super+l"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
+    { "keys": ["ctrl+shift+d"], "command": "duplicate_line" },
+    { "keys": ["super+alt+["], "command": "reindent" },
+    { "keys": ["super+shift+."], "command": "erb" },
+    { "keys": ["super+alt+c"], "command": "pick_with_color_snapper" },
+    { "keys": ["super+alt+,"], "command": "goto_definition" }
+]

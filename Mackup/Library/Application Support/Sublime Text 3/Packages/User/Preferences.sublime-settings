@@ -1,0 +1,56 @@
+{
+	"caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"draw_white_space": "selection",
+	"ensure_newline_at_eof_on_save": false,
+	"filename_syntax_settings":
+	[
+		[
+			"Guardfile",
+			"Ruby",
+			"i"
+		]
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".tox",
+		".*",
+		".sass-cache"
+	],
+	"font_face": "MonoLisa Custom",
+	// "font_face": "Fira Code",
+	"font_size": 16,
+	"ignore_vcs_packages": true,
+	"ignored_packages":
+	[
+		"Emmet",
+		"Gist",
+		"JSON Reindent",
+		"Sass",
+		"SublimeGit",
+		"Vintage",
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"new_window_settings":
+	{
+		"show_minimap": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": true,
+	},
+	"rulers":
+	[
+		100
+	],
+	"save_on_focus_lost": true,
+	"tab_size": 2,
+	"theme": "Default.sublime-theme",
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true,
+}

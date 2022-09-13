@@ -1,0 +1,179 @@
+<project version="4">
+  <component name="FavoritesManager">
+    <favorites_list name="dotfiles" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>brew</find>
+      <find>rbenv</find>
+      <find>sketch</find>
+      <find>yarn install</find>
+      <find>spot</find>
+      <find>Belafonte</find>
+      <find>termi</find>
+      <find>fast</find>
+      <find>Finder</find>
+      <find>Terminal</find>
+      <find>expose-animation-duration</find>
+      <find>git</find>
+      <find>music</find>
+      <find>tunn</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$USER_HOME$/Downloads/enter.adverity.net-split.ovpn" />
+      <option value="$PROJECT_DIR$/applications.sh" />
+      <option value="$PROJECT_DIR$/macos.sh" />
+      <option value="$PROJECT_DIR$/essentials.sh" />
+      <option value="$PROJECT_DIR$/zsh.sh" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$USER_HOME$/.idea" />
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dotfiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dotfiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18774000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Project" order="0" visible="true" weight="0.2952306" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Commit" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="6" />
+      <window_info anchor="bottom" id="File Transfer" order="7" />
+      <window_info anchor="bottom" id="Flow" order="8" />
+      <window_info anchor="bottom" id="TypeScript" order="9" />
+      <window_info anchor="bottom" id="Services" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Dune:" order="11" />
+      <window_info anchor="bottom" id="BuckleScript:" order="12" />
+      <window_info anchor="bottom" id="GraphQL" order="13" />
+      <window_info anchor="bottom" id="Esy:" order="14" />
+      <window_info anchor="bottom" id="Inspection" order="15" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="16" />
+      <window_info anchor="bottom" id="Event Log" order="17" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="18" />
+      <window_info anchor="bottom" id="Terminal" order="19" />
+      <window_info anchor="bottom" id="Docker" order="20" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Bucklescript" order="21" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="953" y="158" width="1438" height="1008" key="DiffContextDialog" timestamp="1610544686805">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="953" y="158" width="1438" height="1008" key="DiffContextDialog/509.1465.1440.875/0.25.2560.1415@0.25.2560.1415" timestamp="1610544686805" />
+    <state x="1472" y="280" width="400" height="763" key="VCS.ChangeListViewerDialog" timestamp="1610544670031">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="1472" y="280" width="400" height="763" key="VCS.ChangeListViewerDialog/509.1465.1440.875/0.25.2560.1415@0.25.2560.1415" timestamp="1610544670031" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.zshrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1021">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/cask.sh" />
+    <entry file="file://$USER_HOME$/.eslintrc" />
+    <entry file="file://$USER_HOME$/.editorconfig" />
+    <entry file="file://$USER_HOME$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/essentials.sh" />
+    <entry file="file://$USER_HOME$/zsh.sh" />
+    <entry file="file://$USER_HOME$/macos.sh" />
+    <entry file="file://$USER_HOME$/applications.sh" />
+    <entry file="file://$USER_HOME$/Library/Application Support/Syncthing/config.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="180">
+            <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essentials.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zsh.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/macos.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/enter.adverity.net-split.ovpn">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

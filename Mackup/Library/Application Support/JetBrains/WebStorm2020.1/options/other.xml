@@ -1,0 +1,121 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/var/folders/8z/jnh1lm1j6_vbhbc66cyrp3zw0000gn/T/fnm-shell-2918604/bin/node">
+      <version-cache version="10.15.3" last-modified="1551798857000" />
+    </local-interpreter>
+    <local-interpreter path="/var/folders/8z/jnh1lm1j6_vbhbc66cyrp3zw0000gn/T/fnm-shell-4425381/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/12.12.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/12.4.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/12.1.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.9.3/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/8.9.2/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value=".AppleSystemUIFont" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesViewManager.COMMIT_SPLITTER_PROPORTION" value="0.6718147" />
+    <property name="ColorChooser.RecentColors" value="162-169-168-255,,,189-214-247-255,,,216-247-247-255,,,193-231-239-255,,,194-239-225-255,,,239-190-179-255,,,239-177-193-255,,,163-230-213-255,,,195-230-220-255,,,208-234-236-255,,,221-236-233-255,,,226-241-238-255,,,224-236-241-255,,,243-234-129-255,,,106-207-243-255,,,80-156-183-255,,,49-73-87-255,,,32-51-65-255,,,62-59-68-255,,,32-31-43-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.44606742" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Material Oceanic" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FontPreviewText" value="WebStorm is a full-featured IDE&#10;with a high level of usability and outstanding&#10;advanced code editing and refactoring support.&#10;&#10;abcdefghijklmnopqrstuvwxyz 0123456789 (){}[]&#10;ABCDEFGHIJKLMNOPQRSTUVWXYZ +-*/= .,;:!? #&amp;$%@|^&#10;&#10;...&#10;&#10;&lt;!-- -- != := === &gt;= &gt;- &gt;=&gt; |-&gt; -&gt; &lt;$&gt; &lt;/&gt; #[ |||&gt; |= ~@&#10;&#10;" />
+    <property name="GeneralSettings.initiallyConfigured" value="true" />
+    <property name="InstalledPluginsSearchHistory" value="node&#10;graph&#10;grap&#10;gra&#10;gr" />
+    <property name="JestJavaScriptTestRunnerSupport.hideIgnoredTests" value="true" />
+    <property name="JestJavaScriptTestRunnerSupport.hidePassedTests" value="true" />
+    <property name="JestJavaScriptTestRunnerSupport.scrollToSource" value="true" />
+    <property name="JestJavaScriptTestRunnerSupport.selectFirtsDefect" value="true" />
+    <property name="KEYMAP" value="resolve con&#10;quick defi&#10;new&#10;new dir&#10;move l" />
+    <property name="LAST_INJECTED_LANGUAGE" value="GraphQL" />
+    <property name="MTBoldTabs" value="false" />
+    <property name="MTBorderPopup" value="true" />
+    <property name="MTTabsHeight" value="42" />
+    <property name="NonModalCommitPromotionState" value="SHOWN" />
+    <property name="PLUGIN_FILTER" value="styled-components" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SearchEveryWhereHistory" value="elli&#10;theme&#10;text&#10;box&#10;popo" />
+    <property name="SettingsSearchHistory" value="optimi&#10;soft&#10;console&#10;termin&#10;font" />
+    <property name="TextEditorWithPreview.SplitterProportionKey" value="0.7213317" />
+    <property name="TrendingPluginsSearchHistory" value="clojure&#10;graph&#10;reason" />
+    <property name="UITheme.relaunch" value="true" />
+    <property name="WebStorm.disableSafeWrite" value="true" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="appcds.runOnSecondStart" value="WS-201.7223.93-91f64c418eafc638cedb1462aeb05e20df5590f8d8bfc6c32ee9f9963ed16ead" />
+    <property name="color.picker.is.hsb" value="true" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="OCEANIC" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="completion.stats.experiment.salt" value="dd66e3db" />
+    <property name="completion.stats.experiment.version" value="2" />
+    <property name="completion.stats.status.updated.ts" value="1586185920572" />
+    <property name="evlsprt.WS-181.3986.8" value="16271e9acaa" />
+    <property name="evlsprt.WS-182.2371.25" value="164081bc763" />
+    <property name="evlsprt.WS-183.2407.4" value="1666387ddc5" />
+    <property name="evlsprt.WS-183.3647.15" value="166f7d577e2" />
+    <property name="evlsprt.WS-183.4284.46" value="1678c80f7f1" />
+    <property name="evlsprt.WS-192.5281.21" value="16c08f49ccd" />
+    <property name="evlsprt.WS-192.5728.23" value="16c7796be9a" />
+    <property name="evlsprt.WS-193.4932.10" value="16eb57c7810" />
+    <property name="evlsprt.WS-201.6487.16" value="1718911977f" />
+    <property name="evlsprt2.WS-181.3986.8" value="1622ef701b3" />
+    <property name="evlsprt2.WS-182.2371.25" value="163cf7661ef" />
+    <property name="evlsprt2.WS-183.2407.4" value="16606d5708a" />
+    <property name="evlsprt2.WS-183.3647.15" value="166ab054a10" />
+    <property name="evlsprt2.WS-183.4284.46" value="1672aa82660" />
+    <property name="evlsprt2.WS-192.5281.21" value="16bc62724c2" />
+    <property name="evlsprt2.WS-192.5728.23" value="16c3f5431c6" />
+    <property name="evlsprt2.WS-193.4932.10" value="16e7cd6894a" />
+    <property name="evlsprt2.WS-201.6487.16" value="171410f8071" />
+    <property name="evlsprt3.183" value="17" />
+    <property name="evlsprt3.191" value="17" />
+    <property name="evlsprt3.192" value="10" />
+    <property name="evlsprt3.193" value="19" />
+    <property name="evlsprt3.201" value="13" />
+    <property name="evlsprt3.WS-181.3986.8" value="13" />
+    <property name="evlsprt3.WS-182.2371.25" value="11" />
+    <property name="evlsprt3.WS-183.2407.4" value="18" />
+    <property name="evlsprt3.WS-183.3647.15" value="15" />
+    <property name="evlsprt3.WS-183.4284.46" value="19" />
+    <property name="evlsprt3.WS-192.5118.44" value="14" />
+    <property name="evlsprt3.WS-192.5281.21" value="13" />
+    <property name="evlsprt3.WS-192.5728.23" value="11" />
+    <property name="evlsprt3.WS-193.4778.12" value="16" />
+    <property name="evlsprt3.WS-193.4932.10" value="11" />
+    <property name="evlsprt3.WS-201.3803.72" value="14" />
+    <property name="evlsprt3.WS-201.6487.16" value="14" />
+    <property name="exception.accepted.notices" value="182193a2" />
+    <property name="file.gist.reindex.count" value="731327" />
+    <property name="fileTypeChangedCounter" value="31" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="javascript.return.tag" value="return" />
+    <property name="js.chrome.debugger.port.98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" value="57422" />
+    <property name="js.modules.notification.shown" value="true" />
+    <property name="js.overrides.completion" value="true" />
+    <property name="js.rename.search.for.text.occurrences" value="true" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="js.var.names.completion" value="false" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="selected.color.option.type" value="JS.CONSOLE" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Imports" />
+    <property name="stats.collector.latest.sending.timestamp" value="1586184420728" />
+    <property name="stats.collector.today.sent.data.size" value="221172" />
+    <property name="structural.search.match.case" value="true" />
+    <property name="structural.search.recursive" value="true" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="textmate.last.added.bundle" value="$USER_HOME$/Projects/OSS/vscode-mdx" />
+    <property name="ts.lib.d.ts.version" value="3.8.2" />
+  </component>
+</application>

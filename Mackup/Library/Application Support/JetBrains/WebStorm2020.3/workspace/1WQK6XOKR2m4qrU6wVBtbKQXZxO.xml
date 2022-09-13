@@ -1,0 +1,878 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Group/Group.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/Select/SelectSingleMultiple.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="571">
+              <caret line="369" column="37" lean-forward="true" selection-start-line="369" selection-start-column="37" selection-end-line="369" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Popover/index.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/handbook/Foundation/Icon.story.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Button/Button.story.mdx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="725">
+              <caret line="80" column="50" selection-start-line="80" selection-start-column="50" selection-end-line="80" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>selectItem</find>
+      <find>Esca</find>
+      <find>Escape</find>
+      <find>.map</find>
+      <find>controlled</find>
+      <find>searchable</find>
+      <find>getInputProp</find>
+      <find>getMultiplePrefix</find>
+      <find>setSearchString</find>
+      <find>onChange</find>
+      <find>props</find>
+      <find>props.onChange</find>
+      <find>console</find>
+      <find>Provider</find>
+      <find>trigger</find>
+      <find>Open Sans</find>
+      <find>gri</find>
+      <find>gridToken</find>
+      <find>breakpoin</find>
+      <find>theme</find>
+      <find>breakpointsToken</find>
+      <find>isV</find>
+      <find>disable</find>
+      <find>isOe</find>
+      <find>statere</find>
+      <find>isFocu</find>
+      <find>isVirtual</find>
+      <find>getTo</find>
+      <find>isVirtu</find>
+      <find>size</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/utils/components</dir>
+      <dir>$PROJECT_DIR$/src/components/Column</dir>
+      <dir>$PROJECT_DIR$/codemod/popover_padding</dir>
+      <dir>$PROJECT_DIR$/src/components/Input</dir>
+      <dir>$PROJECT_DIR$/src/components/Button</dir>
+      <dir>$PROJECT_DIR$/src/components/Combobox</dir>
+      <dir>$PROJECT_DIR$/src/components/Listbox</dir>
+      <dir>$PROJECT_DIR$/src/components/Menu</dir>
+      <dir>$PROJECT_DIR$/src/components/DropdownMenu</dir>
+      <dir>$PROJECT_DIR$/src/components/Select/utils</dir>
+      <dir>$PROJECT_DIR$/src/components/Select</dir>
+      <dir>$PROJECT_DIR$/src/components/Tag</dir>
+      <dir>$PROJECT_DIR$/src</dir>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/src/system/styles</dir>
+      <dir>$PROJECT_DIR$/src/theme/tokens</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/components/Stack/index.js" />
+      <option value="$PROJECT_DIR$/src/components/DateRangePicker/DatePicker/tests/datePickerMachineWithExternalControls.cypress.tsx" />
+      <option value="$PROJECT_DIR$/src/components/Input/index.tsx" />
+      <option value="$PROJECT_DIR$/src/components/Input/Input.story.tsx" />
+      <option value="$PROJECT_DIR$/src/components/Select/common/SelectTrigger/common/DefaultSelectTrigger.tsx" />
+      <option value="$PROJECT_DIR$/src/components/Select/common/SelectTrigger/index.tsx" />
+      <option value="$PROJECT_DIR$/src/components/Select/SelectGeneric.tsx" />
+      <option value="$PROJECT_DIR$/src/components/Select/common/SelectTrigger/common/DefaultValueRenderer.tsx" />
+      <option value="$PROJECT_DIR$/src/components/Combobox/ComboboxItem.js" />
+      <option value="$PROJECT_DIR$/src/components/Select/common/SelectOptionList.tsx" />
+      <option value="$PROJECT_DIR$/src/components/Combobox/Combobox.js" />
+      <option value="$PROJECT_DIR$/src/components/Select/common/DefaultItemRenderer.tsx" />
+      <option value="$PROJECT_DIR$/src/components/Select/common/DefaultMultiValueRenderer.tsx" />
+      <option value="$PROJECT_DIR$/src/components/Select/Select.types.ts" />
+      <option value="$PROJECT_DIR$/src/components/Select/SelectMultiple.tsx" />
+      <option value="$PROJECT_DIR$/src/components/Listbox/ListboxItem.js" />
+      <option value="$PROJECT_DIR$/src/components/Listbox/Listbox.story.tsx" />
+      <option value="$PROJECT_DIR$/src/components/DateRangePicker/common/CalendarModeSidebar.tsx" />
+      <option value="$PROJECT_DIR$/src/components/Combobox/ComboboxVirtualList.js" />
+      <option value="$PROJECT_DIR$/src/components/Listbox/ListboxVirtual.js" />
+      <option value="$PROJECT_DIR$/src/components/Select/common/OptionList.tsx" />
+      <option value="$PROJECT_DIR$/src/components/Select/types.ts" />
+      <option value="$PROJECT_DIR$/src/components/Select/index.tsx" />
+      <option value="$PROJECT_DIR$/src/theme/tokens/Colors.ts" />
+      <option value="$PROJECT_DIR$/src/components/Popover/index.tsx" />
+      <option value="$PROJECT_DIR$/src/components/DropdownMenu/DropdownMenuWrapper.tsx" />
+      <option value="$PROJECT_DIR$/src/components/DropdownMenu/index.ts" />
+      <option value="$PROJECT_DIR$/src/components/DropdownMenu/DropdownMenuItem.tsx" />
+      <option value="$PROJECT_DIR$/src/components/DropdownMenu/DropdownMenu.story.tsx" />
+      <option value="$PROJECT_DIR$/src/components/Select/utils/getMultiplePrefix.ts" />
+      <option value="$PROJECT_DIR$/src/components/Select/Select.story.tsx" />
+      <option value="$PROJECT_DIR$/src/components/Details/index.tsx" />
+      <option value="$PROJECT_DIR$/src/theme/tokens/Fonts.ts" />
+      <option value="$PROJECT_DIR$/src/components/ButtonGroup/ButtonGroupButton.js" />
+      <option value="$PROJECT_DIR$/src/components/DropdownMenu/DropdownMenu.tsx" />
+      <option value="$PROJECT_DIR$/src/components/Tooltip/index.tsx" />
+      <option value="$PROJECT_DIR$/src/components/Dialog/DialogProvider.tsx" />
+      <option value="$PROJECT_DIR$/src/theme/tokens/Grid.ts" />
+      <option value="$PROJECT_DIR$/src/theme/tokens/Space.ts" />
+      <option value="$PROJECT_DIR$/src/theme/createTheme.ts" />
+      <option value="$PROJECT_DIR$/src/theme/tokens/LineHeights.ts" />
+      <option value="$PROJECT_DIR$/src/Provider.tsx" />
+      <option value="$PROJECT_DIR$/.storybook/preview.js" />
+      <option value="$PROJECT_DIR$/src/components/icons/Icon.tsx" />
+      <option value="$PROJECT_DIR$/interplay/interplay.js" />
+      <option value="$PROJECT_DIR$/docs/handbook/Foundation/Icon.story.js" />
+      <option value="$PROJECT_DIR$/docs/handbook/Foundation/Icon.story.tsx" />
+      <option value="$PROJECT_DIR$/docs/handbook/Foundation/Iconography.story.mdx" />
+      <option value="$PROJECT_DIR$/src/components/Truncate/index.js" />
+      <option value="$PROJECT_DIR$/src/components/Group/Group.js" />
+      <option value="$PROJECT_DIR$/src/components/Select/SelectSingleMultiple.tsx" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="0" y="23" width="1275" height="1417" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="design-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-system" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-system" type="462c0819:PsiDirectoryNode" />
+              <item name=".playroom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-system" type="462c0819:PsiDirectoryNode" />
+              <item name=".storybook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-system" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-system" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="handbook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-system" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="handbook" type="462c0819:PsiDirectoryNode" />
+              <item name="Foundation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Button" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="icons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="theme" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="history-563" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="289236000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="npm" order="0" side_tool="true" weight="0.2942584" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.23986015" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info id="Commit" order="4" weight="0.3258786" />
+      <window_info id="Pull Requests" order="5" weight="0.32932693" />
+      <window_info id="Learn" order="6" />
+      <window_info anchor="bottom" id="Services" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Bucklescript" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.3878327" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.62357414" />
+      <window_info anchor="bottom" id="BuckleScript:" order="5" />
+      <window_info anchor="bottom" id="Esy:" order="6" />
+      <window_info anchor="bottom" id="File Transfer" order="7" />
+      <window_info anchor="bottom" id="Problems View" order="8" weight="0.32884312" />
+      <window_info anchor="bottom" id="Dune:" order="9" />
+      <window_info anchor="bottom" id="TypeScript" order="10" weight="0.32949308" />
+      <window_info anchor="bottom" id="Run" order="11" weight="0.3041825" />
+      <window_info anchor="bottom" id="Flow" order="12" />
+      <window_info anchor="bottom" id="GraphQL" order="13" />
+      <window_info anchor="bottom" id="Debug" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="15" />
+      <window_info anchor="bottom" id="Cvs" order="16" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="17" weight="0.32927758" />
+      <window_info anchor="bottom" id="Inspection" order="18" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="19" side_tool="true" weight="0.32884312" />
+      <window_info anchor="bottom" id="TODO" order="20" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="npm" order="0" side_tool="true" weight="0.2942584" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.24520767" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info id="Commit" order="4" visible="true" weight="0.32803467" />
+      <window_info id="Pull Requests" order="5" weight="0.32932693" />
+      <window_info id="Learn" order="6" />
+      <window_info anchor="bottom" id="Services" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Bucklescript" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" visible="true" weight="0.3880851" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.62357414" />
+      <window_info anchor="bottom" id="BuckleScript:" order="5" />
+      <window_info anchor="bottom" id="Esy:" order="6" />
+      <window_info anchor="bottom" id="File Transfer" order="7" />
+      <window_info anchor="bottom" id="Problems View" order="8" weight="0.32884312" />
+      <window_info anchor="bottom" id="Dune:" order="9" />
+      <window_info anchor="bottom" id="TypeScript" order="10" weight="0.32949308" />
+      <window_info anchor="bottom" id="Run" order="11" weight="0.4967742" />
+      <window_info anchor="bottom" id="Flow" order="12" />
+      <window_info anchor="bottom" id="GraphQL" order="13" />
+      <window_info anchor="bottom" id="Debug" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="15" />
+      <window_info anchor="bottom" id="Cvs" order="16" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="17" weight="0.32927758" />
+      <window_info anchor="bottom" id="Inspection" order="18" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="19" side_tool="true" weight="0.32884312" />
+      <window_info anchor="bottom" id="TODO" order="20" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="437" y="628" width="400" height="209" key="#ESLint" timestamp="1612964932305">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="437" y="628" width="400" height="209" key="#ESLint/509.1465.1440.875/0.25.2560.1415@0.25.2560.1415" timestamp="1612964932305" />
+    <state x="139" y="398" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610448595195">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="139" y="398" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/509.1465.1440.875/0.25.2560.1415@0.25.2560.1415" timestamp="1610448595195" />
+    <state x="374" y="482" width="526" height="500" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614875677338">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="374" y="482" width="526" height="500" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/509.1465.1440.875/0.25.2560.1415@0.25.2560.1415" timestamp="1614875677338" />
+    <state x="483" y="201" width="1028" height="602" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog" timestamp="1608202200658">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="483" y="201" width="1028" height="602" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog/509.1465.1440.875/0.25.2560.1415@0.25.2560.1415" timestamp="1608202200658" />
+    <state x="68" y="38" width="1424" height="1347" key="CommitChangelistDialog2" timestamp="1615482649416">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="68" y="36" width="1424" height="1347" key="CommitChangelistDialog2/0.23.2560.1417@0.23.2560.1417" timestamp="1607506137042" />
+    <state x="68" y="38" key="CommitChangelistDialog2/509.1465.1440.875/0.25.2560.1415@0.25.2560.1415" timestamp="1615482649416" />
+    <state x="99" y="124" width="1629" height="1190" key="DiffContextDialog" timestamp="1616065417928">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="100" y="125" width="1629" height="1190" key="DiffContextDialog/509.1440.1440.900/0.25.2560.1415@0.25.2560.1415" timestamp="1611056451043" />
+    <state x="99" y="124" width="1629" height="1190" key="DiffContextDialog/509.1465.1440.875/0.25.2560.1415@0.25.2560.1415" timestamp="1616065417928" />
+    <state width="451" height="734" key="Git.Branch.Popup" timestamp="1615889141608">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="498" height="716" key="Git.Branch.Popup/509.1440.1440.900/0.25.2560.1415@0.25.2560.1415" timestamp="1611050920245" />
+    <state width="451" height="734" key="Git.Branch.Popup/509.1465.1440.875/0.25.2560.1415@0.25.2560.1415" timestamp="1615889141608" />
+    <state width="1430" height="372" key="GridCell.Tab.0.bottom" timestamp="1616088625975">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1252" height="363" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1612880173470">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1252" height="363" key="GridCell.Tab.0.bottom.inPresentationMode/509.1440.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1612880173470" />
+    <state width="1252" height="363" key="GridCell.Tab.0.bottom.inPresentationMode/509.1465.1440.875/0.25.2560.1415@0.25.2560.1415" timestamp="1612879219239" />
+    <state width="1252" height="372" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1614097507292" />
+    <state width="1272" height="364" key="GridCell.Tab.0.bottom/509.1440.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1612880223520" />
+    <state width="1430" height="372" key="GridCell.Tab.0.bottom/509.1465.1440.875/0.25.2560.1415@0.25.2560.1415" timestamp="1616088625975" />
+    <state width="1430" height="372" key="GridCell.Tab.0.center" timestamp="1616088625973">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1252" height="363" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1612880173346">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1252" height="363" key="GridCell.Tab.0.center.inPresentationMode/509.1440.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1612880173346" />
+    <state width="1252" height="363" key="GridCell.Tab.0.center.inPresentationMode/509.1465.1440.875/0.25.2560.1415@0.25.2560.1415" timestamp="1612879219239" />
+    <state width="1252" height="372" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1614097507291" />
+    <state width="1272" height="364" key="GridCell.Tab.0.center/509.1440.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1612880223474" />
+    <state width="1430" height="372" key="GridCell.Tab.0.center/509.1465.1440.875/0.25.2560.1415@0.25.2560.1415" timestamp="1616088625973" />
+    <state width="1430" height="372" key="GridCell.Tab.0.left" timestamp="1616088625961">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1252" height="363" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1612880173199">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1252" height="363" key="GridCell.Tab.0.left.inPresentationMode/509.1440.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1612880173199" />
+    <state width="1252" height="363" key="GridCell.Tab.0.left.inPresentationMode/509.1465.1440.875/0.25.2560.1415@0.25.2560.1415" timestamp="1612879219237" />
+    <state width="1252" height="372" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1614097507289" />
+    <state width="1272" height="364" key="GridCell.Tab.0.left/509.1440.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1612880223470" />
+    <state width="1430" height="372" key="GridCell.Tab.0.left/509.1465.1440.875/0.25.2560.1415@0.25.2560.1415" timestamp="1616088625961" />
+    <state width="1430" height="372" key="GridCell.Tab.0.right" timestamp="1616088625974">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1252" height="363" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1612880173439">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1252" height="363" key="GridCell.Tab.0.right.inPresentationMode/509.1440.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1612880173439" />
+    <state width="1252" height="363" key="GridCell.Tab.0.right.inPresentationMode/509.1465.1440.875/0.25.2560.1415@0.25.2560.1415" timestamp="1612879219239" />
+    <state width="1252" height="372" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1614097507291" />
+    <state width="1272" height="364" key="GridCell.Tab.0.right/509.1440.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1612880223500" />
+    <state width="1430" height="372" key="GridCell.Tab.0.right/509.1465.1440.875/0.25.2560.1415@0.25.2560.1415" timestamp="1616088625974" />
+    <state x="117" y="73" width="2443" height="1287" key="MergeDialog" timestamp="1612448158323">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="117" y="73" width="2443" height="1287" key="MergeDialog/509.1465.1440.875/0.25.2560.1415@0.25.2560.1415" timestamp="1612448158323" />
+    <state x="262" y="470" width="747" height="471" key="MultipleFileMergeDialog" timestamp="1612448158361">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="262" y="470" width="747" height="471" key="MultipleFileMergeDialog/509.1465.1440.875/0.25.2560.1415@0.25.2560.1415" timestamp="1612448158361" />
+    <state x="363" y="361" width="651" height="753" key="RollbackChangesDialog" timestamp="1614780676154">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="363" y="361" width="651" height="753" key="RollbackChangesDialog/509.1465.1440.875/0.25.2560.1415@0.25.2560.1415" timestamp="1614780676154" />
+    <state x="622" y="186" width="900" height="728" key="SettingsEditor" timestamp="1614855778051">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="540" y="47" width="900" height="728" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1612894221718" />
+    <state x="622" y="186" width="997" height="728" key="SettingsEditor/509.1465.1440.875/0.25.2560.1415@0.25.2560.1415" timestamp="1614855778051" />
+    <state x="282" y="339" width="605" height="763" key="VCS.ChangeListViewerDialog" timestamp="1616065195508">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="282" y="339" width="605" height="763" key="VCS.ChangeListViewerDialog/509.1440.1440.900/0.25.2560.1415@0.25.2560.1415" timestamp="1611056238796" />
+    <state x="282" y="339" key="VCS.ChangeListViewerDialog/509.1465.1440.875/0.25.2560.1415@0.25.2560.1415" timestamp="1616065195508" />
+    <state x="182" y="285" width="636" height="329" key="Vcs.Push.Dialog.v2" timestamp="1614929667012">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="324" y="445" width="800" height="528" key="Vcs.Push.Dialog.v2/0.23.2560.1417@0.23.2560.1417" timestamp="1607506070122" />
+    <state x="182" y="285" width="636" height="329" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1614929667012" />
+    <state x="324" y="446" width="802" height="532" key="Vcs.Push.Dialog.v2/509.1465.1440.875/0.25.2560.1415@0.25.2560.1415" timestamp="1612187502375" />
+    <state x="148" y="320" width="978" height="824" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1614873978994">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="148" y="320" width="978" height="824" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/509.1465.1440.875/0.25.2560.1415@0.25.2560.1415" timestamp="1614873978994" />
+    <state x="652" y="649" width="405" height="166" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614780701752">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="652" y="648" width="405" height="158" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.2560.1417@0.23.2560.1417" timestamp="1607506084097" />
+    <state x="652" y="649" width="405" height="166" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/509.1465.1440.875/0.25.2560.1415@0.25.2560.1415" timestamp="1614780701752" />
+    <state x="314" y="195" width="1390" height="1083" key="find.popup" timestamp="1615970150570">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="177" y="130" width="782" height="670" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1613634800103" />
+    <state x="314" y="195" width="1390" height="1083" key="find.popup/509.1465.1440.875/0.25.2560.1415@0.25.2560.1415" timestamp="1615970150570" />
+    <state x="385" y="371" width="607" height="732" key="git4idea.branch.GitSmartOperationDialog" timestamp="1614780681303">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="385" y="369" width="504" height="724" key="git4idea.branch.GitSmartOperationDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1607506118537" />
+    <state x="385" y="371" width="607" height="732" key="git4idea.branch.GitSmartOperationDialog/509.1465.1440.875/0.25.2560.1415@0.25.2560.1415" timestamp="1614780681303" />
+    <state x="770" y="340" width="1022" height="913" key="search.everywhere.popup" timestamp="1616075104775">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="0" y="0" width="1727" height="3212" key="search.everywhere.popup.inPresentationMode" timestamp="1612879805272">
+      <screen x="509" y="1440" width="1440" height="900" />
+    </state>
+    <state x="0" y="0" width="1727" height="3212" key="search.everywhere.popup.inPresentationMode/509.1440.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1612879805272" />
+    <state x="770" y="338" width="1022" height="914" key="search.everywhere.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1607529989113" />
+    <state x="433" y="220" width="672" height="565" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1614933898413" />
+    <state x="770" y="340" width="1022" height="913" key="search.everywhere.popup/509.1440.1440.900/0.25.2560.1415@0.25.2560.1415" timestamp="1611056247391" />
+    <state x="770" y="340" width="1022" height="913" key="search.everywhere.popup/509.1465.1440.875/0.25.2560.1415@0.25.2560.1415" timestamp="1616075104775" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/components/Select/Select.story.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24480">
+          <caret line="844" column="1" selection-start-line="844" selection-start-column="1" selection-end-line="844" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/dom.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Details/Details.story.mdx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-479">
+          <folding>
+            <element signature="e#0#74#0#MdxJS" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Details/Details.story.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-745">
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Details/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="22" column="62" lean-forward="true" selection-start-line="22" selection-start-column="62" selection-end-line="22" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/primitives.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Tag/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThemeProvider.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme/tokens/Fonts.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.storybook/preview-head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.playroom/themes.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GlobalStyles.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.playroom/Frame.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/ButtonGroup/ButtonGroupButton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/useControlled.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/DateRangePicker/DatePicker/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2850">
+          <caret line="120" column="4" selection-start-line="120" selection-start-column="4" selection-end-line="124" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/DropdownMenu/DropdownMenu.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="360">
+            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Tooltip/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="35" column="28" lean-forward="true" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Provider.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme/themes/default.theme.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme/types.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Dialog/DialogProvider.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="172" column="21" selection-start-line="172" selection-start-column="21" selection-end-line="172" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme/tokens/Grid.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme/tokens/LineHeights.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/system/styles/space.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="785">
+          <caret line="100" column="48" selection-start-line="100" selection-start-column="48" selection-end-line="100" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/system/styles/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Box/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.storybook/preview.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Box/Box.story.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme/tokens/Space.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme/createTheme.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/icons/Icon.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/icons/shared.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interplay/interplay.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/icons/generated/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6865" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Button/Button.story.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8908">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Truncate/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="95" column="33" lean-forward="true" selection-start-line="95" selection-start-column="33" selection-end-line="95" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/handbook/Foundation/Iconography.story.mdx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="135" column="35" lean-forward="true" selection-start-line="135" selection-start-column="35" selection-end-line="135" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#67#0#MdxJS" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Button/Button.story.mdx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="80" column="50" selection-start-line="80" selection-start-column="50" selection-end-line="80" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/handbook/Foundation/Icon.story.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/reakit/src/Group/Group.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Listbox/Listbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Listbox/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Select/common/OptionList.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Popover/FocusGuard.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Popover/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Group/Group.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Select/SelectSingleMultiple.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="369" column="37" lean-forward="true" selection-start-line="369" selection-start-column="37" selection-end-line="369" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

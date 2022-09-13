@@ -1,0 +1,6 @@
+BashSupport
+reasonml
+com.chrisrm.idea.MaterialThemeUI
+tanvd.grazi
+org.intellij.plugins.postcss
+org.jetbrains.idea.clojure

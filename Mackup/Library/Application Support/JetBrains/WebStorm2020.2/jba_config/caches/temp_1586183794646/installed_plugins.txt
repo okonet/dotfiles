@@ -1,0 +1,9 @@
+com.chrisrm.idea.MaterialThemeUI
+org.intellij.plugins.postcss
+com.deadlock.scsyntax
+BashSupport
+reasonml
+com.intellij.lang.jsgraphql
+org.jetbrains.idea.clojure
+org.toml.lang
+ru.adelf.idea.dotenv

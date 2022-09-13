@@ -1,0 +1,5 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="mySoundBell" value="false" />
+  </component>
+</application>

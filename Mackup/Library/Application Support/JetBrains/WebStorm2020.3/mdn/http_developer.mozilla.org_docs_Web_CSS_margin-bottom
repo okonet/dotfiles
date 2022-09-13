@@ -1,0 +1,1 @@
+The <strong><code>margin-bottom</code></strong> <a href="/en-US/docs/Web/CSS">CSS</a> property sets the <a href="/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model">margin area</a> on the bottom of an element. A positive value places it farther from its neighbors, while a negative value places it closer.
