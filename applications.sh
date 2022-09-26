@@ -31,6 +31,7 @@ brew install imageoptim
 brew install java
 brew install qlstephen
 brew install qsyncthingtray
+brew install shortcat
 brew install slack
 brew install sublime-text
 brew install raycast
