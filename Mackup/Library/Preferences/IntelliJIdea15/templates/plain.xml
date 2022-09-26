@@ -1,7 +1,0 @@
-<templateSet group="plain">
-  <template name="log" value="console.log " description="console.log" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="CoffeeScript" value="true" />
-    </context>
-  </template>
-</templateSet>

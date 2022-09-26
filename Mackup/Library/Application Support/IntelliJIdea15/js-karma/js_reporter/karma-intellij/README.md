@@ -1,1 +1,0 @@
-Reporter for IntelliJ / WebStorm.

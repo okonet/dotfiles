@@ -1,3 +1,0 @@
-BashSupport
-com.chrisrm.idea.MaterialThemeUI
-reasonml

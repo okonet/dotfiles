@@ -1,1 +1,0 @@
-The <strong> <code>pointer-events</code></strong> <a href="/en-US/docs/Web/CSS">CSS</a> property sets under what circumstances (if any) a particular graphic element can become the <a href="/en-US/docs/Web/API/Event/target">target</a> of pointer events.

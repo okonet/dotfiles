@@ -1,7 +1,0 @@
-dynamic_members:
-  FactoryGirl:
-    class_methods:
-      build:          FactoryGirl::Strategy::Build::result
-      create:         FactoryGirl::Strategy::Create::result
-      attributes_for: FactoryGirl::Strategy::AttributesFor::result
-      build_stubbed:  FactoryGirl::Strategy::Stub::result

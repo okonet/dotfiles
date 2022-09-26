@@ -1,6 +1,0 @@
-<application>
-  <component name="PathMacrosImpl">
-    <macro name="KOTLIN_BUNDLED" value="/Applications/IntelliJ IDEA 15.app/Contents/plugins/Kotlin/kotlinc" />
-    <macro name="KOTLIN_RUNTIME_JAR" value="/Users/okonet/Library/Application Support/IntelliJIdea12/Kotlin/kotlinc/lib/kotlin-runtime.jar" />
-  </component>
-</application>

@@ -1,8 +1,0 @@
-<application>
-  <component name="Images.OptionsManager">
-    <setting name="Editor.TransparencyChessboard.showDefault" value="false" />
-    <setting name="Editor.TransparencyChessboard.cellSize" value="5" />
-    <setting name="Editor.TransparencyChessboard.whiteColor" value="ffffff" />
-    <setting name="Editor.TransparencyChessboard.blackColor" value="c0c0c0" />
-  </component>
-</application>

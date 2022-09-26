@@ -1,8 +1,0 @@
-<application>
-  <component name="LanguageInjectionConfiguration">
-    <injection language="CSS" injector-id="xml">
-      <display-name>Split</display-name>
-      <place><![CDATA[xmlTag().withLocalName(string().equalTo("Split")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
-    </injection>
-  </component>
-</application>

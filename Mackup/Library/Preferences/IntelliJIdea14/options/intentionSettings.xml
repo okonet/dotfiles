@@ -1,5 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="JavaScript/Declaration/Split Declaration And Initialization" />
-  </component>
-</application>
