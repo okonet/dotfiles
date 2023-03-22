@@ -44,11 +44,12 @@ brew install tree
 brew install syncthing
 brew services start syncthing
 
-# Node & yarn & npm
-brew install node@16
-# This is needed since we install v16 and not latest v17
-echo 'export PATH="/opt/homebrew/opt/node@16/bin:$PATH"' >> ~/.zshrc
-brew install yarn
+# Node & yarn & (p)npm
+brew install node
+brew install corepack
+corepack enable
+corepack prepare pnpm@latest --activate
+corepack prepare yarn@stable --activate
 ibrew "Schniz/tap/fnm" # This cannot be installed under arm64 yet
 
 # NPM settings
