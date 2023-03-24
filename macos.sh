@@ -118,6 +118,7 @@ defaults write -g NSUserKeyEquivalents '{
     "Select Previous Conversation" = "@~\U2190";
     "Show Next Tab" = "@~\U2192";
     "Show Previous Tab" = "@~\U2190";
+    "Paste and Match Style" = "@v";
 }'
 
 
