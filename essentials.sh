@@ -44,13 +44,10 @@ brew install tree
 brew install syncthing
 brew services start syncthing
 
-# Node & yarn & (p)npm
-brew install node
-brew install corepack
-corepack enable
-corepack prepare pnpm@latest --activate
-corepack prepare yarn@stable --activate
-ibrew "Schniz/tap/fnm" # This cannot be installed under arm64 yet
+# Node & yarn
+brew install fnm
+fnm install 18
+brew install yarn
 
 # NPM settings
 npm config set loglevel warn
