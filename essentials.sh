@@ -46,7 +46,7 @@ brew services start syncthing
 
 # Node & yarn
 brew install fnm
-fnm install 18
+fnm install 22
 brew install yarn
 
 # NPM settings
