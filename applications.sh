@@ -17,6 +17,8 @@ brew install 1password
 brew install adobe-creative-cloud
 brew install backblaze
 brew install cleanshot
+brew install claude
+brew install claude-code
 brew install dropbox
 brew install figma
 brew install firefox

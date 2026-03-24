@@ -61,6 +61,7 @@ brew install font-fira-code
 
 # Python
 brew install python
+brew install pyenv
 
 # Install Mackup
 brew install mackup
