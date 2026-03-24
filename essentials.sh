@@ -56,7 +56,7 @@ npm config set loglevel warn
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json
 
 # Install fonts
-brew tap caskroom/fonts
+brew tap homebrew/cask-fonts
 brew cask install font-fira-code
 
 # Python
